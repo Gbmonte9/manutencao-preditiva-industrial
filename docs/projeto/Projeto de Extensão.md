@@ -1,222 +1,348 @@
-# Projeto de Extensão — Dados da Empresa e Problema
+# 📊 Projeto de Extensão — Manutenção Preditiva Industrial
 
-## 🏢 1. Nome da empresa parceira (cliente real)
-
-**Empresa escolhida como possibilidade:** B. Braun
-
-**Site:** [https://www.bbraun.com/en.html](https://www.bbraun.com/en.html)
-
-> ⚠️ A Estácio solicita uma **empresa parceira (cliente real)**. A B. Braun foi escolhida como a principal possibilidade entre as empresas consideradas, porém ainda é necessário confirmar a parceria/autorização e verificar se o problema proposto realmente existe na empresa.
-
-### Empresas consideradas
-
-Foram consideradas empresas de diferentes setores:
-
-- Uma empresa do setor de alimentos;
-    
-- Uma empresa nacional do setor de produtos;
-    
-- **B. Braun**, empresa multinacional alemã do setor de saúde, tecnologia médica e farmacêutica.
-    
-
-Entre as opções analisadas, a **B. Braun parece ser a opção mais alinhada ao tema de Manutenção Preditiva Industrial**, principalmente pela possibilidade de trabalhar com equipamentos, tecnologia e dados relacionados a processos industriais.
-
-> **Observação:** a escolha da B. Braun ainda precisa ser confirmada oficialmente antes de o projeto ser apresentado como um estudo de caso real da empresa.
+> [!info] Informações gerais  
+> **Disciplina:** Tópicos de Big Data em Python  
+> **Código:** VIV0197/15116349  
+> **Período:** 2026.2  
+> **Turma:** 3001 — Ao Vivo  
+> **Instituição:** Estácio de Sá  
+> **Tema:** Manutenção Preditiva Industrial  
+> **Empresa parceira:** Iane – Indústria de Alimentos  
+> **Área:** Big Data  
+> **Tecnologia principal:** Python  
+> **Status:** 🟡 Em desenvolvimento
 
 ---
 
-## 🏭 2. Ramo de atuação da empresa
+## 👥 1. Equipe
 
-**Empresa:** B. Braun
+### Scrum Master / Representante
 
-**Ramo:** Saúde, tecnologia médica e indústria farmacêutica.
+**Gabriel Rodrigues Monte**  
+Matrícula: `202408303971`  
+E-mail: 202408303971@alunos.estacio.br
 
-A B. Braun é uma empresa multinacional alemã que atua no desenvolvimento e fornecimento de produtos e tecnologias para a área da saúde.
+### Integrantes
 
-Para este projeto, será necessário verificar se existe algum processo, equipamento ou conjunto de dados relacionado à manutenção de máquinas que possa ser utilizado como objeto de estudo.
+|Nome|Matrícula|
+|---|---|
+|Gabriel Rodrigues Monte|202408303971|
+|Danilo da Silva Souza|202509046966|
+|Carolina Morais da Silva|202408302321|
+|Mateus Gomes Teixeira|202309302454|
+|Juarez Dorielvys Alves Souto|202302376746|
 
----
+**Quantidade de integrantes:** 5/5
 
-## ⚠️ 3. O problema a ser resolvido
-
-### Gargalo de dados — 1 frase
-
-> **A empresa pode possuir dados gerados por equipamentos e processos industriais, mas pode enfrentar dificuldades para organizar, integrar e analisar essas informações de forma eficiente para antecipar possíveis falhas.**
-
-> ⚠️ **Importante:** esta frase ainda representa uma hipótese de trabalho. O problema real deverá ser confirmado diretamente com a empresa parceira.
-
----
-
-## 🔎 4. Diagnóstico atual
-
-O projeto tem como foco inicial a possibilidade de analisar dados provenientes de máquinas e equipamentos utilizados em processos industriais.
-
-Esses equipamentos podem gerar diferentes tipos de informações, como temperatura, vibração, tempo de operação, registros de manutenção e outros indicadores relacionados ao funcionamento.
-
-O possível problema está na dificuldade de transformar esse grande volume de dados em informações úteis para apoiar as decisões relacionadas à manutenção.
-
-Os dados podem estar distribuídos em diferentes sistemas, registros ou formatos, dificultando sua organização, integração, tratamento e análise.
-
-Como consequência, pode existir uma oportunidade de utilizar técnicas de Big Data e Python para analisar dados históricos, identificar padrões e auxiliar na identificação antecipada de possíveis falhas.
-
-> ⚠️ **Observação:** este diagnóstico deverá ser revisado depois do contato com a empresa. Não devemos afirmar que a B. Braun possui esse problema sem que isso seja confirmado.
+> [!success] Situação da equipe  
+> Equipe formada com 5 integrantes e Gabriel Rodrigues Monte definido como representante/Scrum Master.
 
 ---
 
-## 📊 5. Aderência a Big Data
+# 🏢 2. Empresa Parceira
 
-O problema apresenta **potencial de alta aderência aos conceitos de Big Data**, caso a empresa disponibilize uma quantidade significativa de dados provenientes de máquinas, equipamentos ou processos.
+## Iane – Indústria de Alimentos
+
+**Site:** [https://iane.ind.br/](https://iane.ind.br/)
+
+A empresa escolhida para o projeto é a **Iane – Indústria de Alimentos**.
+
+A escolha foi feita após a reavaliação da empresa inicialmente considerada, B. Braun. A Iane foi escolhida por apresentar um ambiente industrial com processos de produção e equipamentos que permitem trabalhar com um problema relacionado à **manutenção preditiva** e à análise de dados.
+
+### Situação da parceria
+
+✅ **Parceria/contato confirmado.**
+
+---
+
+# 🏭 3. Ramo de Atuação
+
+**Ramo:** Indústria alimentícia.
+
+A Iane atua no setor de produção de alimentos, possuindo processos industriais e uma linha de produção que será utilizada como contexto para o desenvolvimento do projeto.
+
+### Processo relacionado ao projeto
+
+**Linha de produção / manutenção dos equipamentos.**
+
+Esse processo foi definido como o contexto principal para investigação do problema.
+
+---
+
+# 🔧 4. Problema a Ser Resolvido
+
+## Gargalo de dados
+
+> **As máquinas da linha de produção geram dados relacionados ao seu funcionamento, operação, paradas e manutenção, e a análise dessas informações pode ser utilizada para identificar padrões que auxiliem na antecipação de possíveis falhas e na redução de paradas não planejadas.**
+
+### Problema central
+
+O projeto será direcionado para a **manutenção preditiva industrial**, buscando utilizar dados relacionados às máquinas e aos processos produtivos para identificar padrões associados a possíveis falhas.
+
+A intenção é investigar como a análise desses dados pode contribuir para que problemas sejam identificados antes que provoquem uma parada inesperada da produção.
+
+---
+
+# 🏭 5. Processo Afetado
+
+O processo analisado será a:
+
+> **Linha de produção e sua atividade de manutenção dos equipamentos.**
+
+O foco será compreender como os dados relacionados ao funcionamento e à manutenção das máquinas podem ser utilizados para apoiar a identificação antecipada de possíveis falhas.
+
+---
+
+# 📊 6. Dados Envolvidos
+
+Os dados relacionados ao problema já foram identificados e incluem informações como:
+
+- 🌡️ Temperatura;
+- 📳 Vibração;
+- ⏱️ Tempo de operação;
+- 🛑 Paradas de máquinas;
+- 🔧 Histórico de manutenção;
+- 🔨 Manutenções corretivas;
+- 🛠️ Manutenções preventivas;
+- ⚙️ Informações relacionadas ao funcionamento dos equipamentos.
+
+Esses dados serão utilizados para investigar possíveis padrões relacionados ao comportamento das máquinas e à ocorrência de falhas.
+
+---
+
+# 🧠 7. Hipótese Inicial
+
+A hipótese inicial do projeto é que:
+
+> **A análise dos dados gerados pelos processos produtivos e pelos equipamentos da Iane pode permitir a identificação de padrões relacionados ao funcionamento e ao desgaste das máquinas, contribuindo para a antecipação de possíveis falhas.**
+
+### Hipótese relacionada ao Big Data
+
+> **A hipótese de trabalho apresenta potencial de aderência aos conceitos de Big Data, caso seja confirmada a existência de volume, velocidade e variedade significativos nos dados gerados pelos processos produtivos da empresa.**
+
+Essa hipótese será utilizada como base para a investigação e poderá ser ajustada conforme a análise dos dados disponíveis.
+
+---
+
+# 🎯 8. Objetivo Inicial
+
+## Objetivo geral
+
+> **Utilizar dados relacionados aos equipamentos e processos produtivos para identificar padrões que possam auxiliar na previsão e prevenção de possíveis falhas nas máquinas da linha de produção.**
+
+### Objetivos específicos
+
+- Coletar ou utilizar dados relacionados às máquinas e equipamentos;
+- Organizar e preparar os dados para análise;
+- Realizar tratamento e limpeza dos dados;
+- Explorar os dados utilizando Python;
+- Identificar padrões relacionados ao funcionamento das máquinas;
+- Analisar possíveis relações entre os dados e ocorrência de falhas;
+- Avaliar a possibilidade de utilizar técnicas de Machine Learning;
+- Desenvolver uma abordagem que possa auxiliar a manutenção preditiva;
+- Avaliar os resultados obtidos.
+
+---
+
+# 📋 9. Escopo do Projeto
+
+## Escopo inicial — em desenvolvimento
+
+O projeto terá como foco a **análise de dados relacionados à operação e à manutenção das máquinas e equipamentos da linha de produção**, buscando identificar padrões que possam auxiliar na antecipação de possíveis falhas.
+
+### Dentro do escopo
+
+- Análise de dados das máquinas e equipamentos;
+- Dados relacionados à operação;
+- Dados relacionados a paradas e falhas;
+- Histórico de manutenção;
+- Tratamento e limpeza dos dados;
+- Análise exploratória;
+- Identificação de padrões;
+- Visualização dos dados;
+- Aplicação de técnicas de Big Data quando justificadas;
+- Utilização de Python para processamento e análise;
+- Possível aplicação de Machine Learning;
+- Avaliação dos resultados.
+
+### Fora do escopo
+
+- Manutenção física das máquinas;
+- Alteração ou reparo dos equipamentos;
+- Instalação física de sensores;
+- Controle automatizado da linha de produção;
+- Substituição dos profissionais responsáveis pela manutenção;
+- Implementação física de sistemas industriais;
+- Análise de processos que não estejam relacionados ao problema definido.
+
+> [!warning] Observação  
+> O escopo ainda está em desenvolvimento e poderá ser refinado conforme o grupo avance na análise dos dados e nas necessidades específicas da empresa parceira.
+
+---
+
+# 🐍 10. Aplicação de Python
+
+O Python será utilizado como principal ferramenta tecnológica do projeto.
+
+### Possíveis aplicações
+
+- Tratamento e limpeza dos dados;
+- Organização dos dados;
+- Análise exploratória;
+- Estatística descritiva;
+- Identificação de padrões;
+- Visualização dos dados;
+- Processamento de informações;
+- Machine Learning;
+- Avaliação dos modelos;
+- Geração de indicadores e resultados.
+
+### Bibliotecas e tecnologias possíveis
+
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **PySpark**
+- **Jupyter Notebook / Google Colab**
+
+> **Observação:** PySpark será utilizado apenas caso as características e o volume dos dados justifiquem seu uso.
+
+---
+
+# 📈 11. Big Data — 5 Vs
+
+A proposta apresenta potencial de aplicação dos conceitos de Big Data.
 
 ### Volume
 
-Equipamentos e processos industriais podem gerar grandes quantidades de registros ao longo do tempo.
+Os processos industriais podem gerar grande quantidade de registros relacionados ao funcionamento e à manutenção dos equipamentos ao longo do tempo.
+
+**A confirmar/quantificar com os dados reais da empresa.**
 
 ### Velocidade
 
-Os sensores podem produzir informações continuamente, possibilitando análises frequentes ou próximas do tempo real.
+Os dados de máquinas e processos podem ser gerados continuamente ou em intervalos curtos.
+
+**A confirmar conforme a frequência real de coleta dos dados.**
 
 ### Variedade
 
-Podem existir diferentes tipos de informações, como temperatura, vibração, tempo de operação, registros de manutenção e falhas.
+Podem existir diferentes tipos de informações, como:
+
+- Temperatura;
+- Vibração;
+- Tempo de funcionamento;
+- Paradas;
+- Falhas;
+- Manutenções.
+
+**A composição final dos dados será confirmada durante o desenvolvimento.**
 
 ### Veracidade
 
-Os dados precisam ser tratados e validados para reduzir erros, inconsistências, valores ausentes e informações inadequadas.
+Os dados precisam passar por tratamento e validação para identificar:
+
+- Valores ausentes;
+- Erros;
+- Inconsistências;
+- Registros duplicados;
+- Possíveis problemas em registros manuais.
 
 ### Valor
 
-A análise dos dados pode transformar informações brutas em indicadores capazes de auxiliar decisões relacionadas à manutenção e ao funcionamento dos equipamentos.
+A análise dos dados pode transformar informações brutas em indicadores e padrões úteis para apoiar decisões relacionadas à manutenção e reduzir possíveis paradas não planejadas.
 
 ---
 
-## 🐍 6. Aplicação de Python
+# 📅 12. Cronograma
 
-Python poderá ser utilizado para:
+**Status: ⚠️ Ainda precisa ser estruturado.**
 
-- Tratamento e limpeza dos dados;
-    
-- Análise exploratória;
-    
-- Identificação de padrões;
-    
-- Visualização dos dados;
-    
-- Processamento de informações;
-    
-- Criação de modelos de Machine Learning;
-    
-- Avaliação dos resultados;
-    
-- Possível utilização de **PySpark** caso o volume de dados seja suficientemente grande.
-    
+### Etapas previstas
 
----
+- [ ]  Confirmar informações da empresa;
+- [ ]  Validar o problema;
+- [ ]  Levantar os dados disponíveis;
+- [ ]  Definir os dados que serão utilizados;
+- [ ]  Definir o dataset;
+- [ ]  Realizar tratamento dos dados;
+- [ ]  Realizar análise exploratória;
+- [ ]  Desenvolver modelo preditivo, se aplicável;
+- [ ]  Avaliar os resultados;
+- [ ]  Elaborar documentação;
+- [ ]  Preparar apresentação;
+- [ ]  Apresentar o projeto.
 
-## 🚦 7. Situação
-
-**Situação atual:** 🟡 **Em planejamento / Em definição**
-
-O projeto ainda está em fase inicial e a empresa parceira precisa ser confirmada.
-
-### Status
-
--  Tema definido: **Manutenção Preditiva Industrial**
-    
--  Problema inicial definido
-    
--  Relação com Big Data identificada
-    
--  Empresas possíveis identificadas
-    
--  B. Braun escolhida como principal possibilidade
-    
--  Confirmar empresa parceira real
-    
--  Confirmar autorização/parceria
-    
--  Conversar com a empresa
-    
--  Identificar o problema real
-    
--  Levantar os dados disponíveis
-    
--  Verificar se existem dados de sensores
-    
--  Pesquisar datasets públicos complementares
-    
--  Definir dataset
-    
--  Definir tecnologias
-    
--  Dividir tarefas entre os integrantes
-    
--  Iniciar desenvolvimento
-    
--  Realizar análise dos dados
-    
--  Desenvolver modelo preditivo
-    
--  Avaliar resultados
-    
--  Finalizar documentação
-    
--  Apresentar projeto
-    
+**Próximo passo:** transformar essas etapas em um cronograma com **datas e responsáveis**.
 
 ---
 
-## 🎯 8. Resumo para a planilha
+# ✅ 13. Checklist do Projeto
 
-| Campo                        | Resposta inicial                                                                                                                                                                                                                       |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nome da empresa parceira** | B. Braun — a confirmar                                                                                                                                                                                                                 |
-| **Ramo de atuação**          | Saúde, tecnologia médica e indústria farmacêutica                                                                                                                                                                                      |
-| **Problema a ser resolvido** | A empresa pode possuir dados gerados por equipamentos e processos industriais, mas pode enfrentar dificuldades para organizar, integrar e analisar essas informações de forma eficiente para antecipar possíveis falhas.               |
-| **Diagnóstico atual**        | Dados provenientes de equipamentos e processos podem estar distribuídos em diferentes registros e formatos, criando uma possível dificuldade de organização, tratamento e análise para identificação de padrões relacionados a falhas. |
-| **Aderência a Big Data**     | Potencialmente alta — envolve possível volume, velocidade e variedade de dados, além da necessidade de processamento, análise e geração de valor utilizando Python e técnicas de Big Data.                                             |
-| **Situação**                 | Em planejamento / Em definição                                                                                                                                                                                                         |
-
----
-
-## 📌 9. Próximos passos
-
-Antes de colocar essas informações como definitivas na planilha da Estácio, precisamos:
-
-1. **Confirmar a B. Braun como empresa parceira;** x
-    
-2. Verificar se existe uma parceria ou autorização real; x
-    
-3. Conversar com a empresa para entender um problema  xreal; x
-    
-4. Identificar quais dados podem ser disponibilizados; x
-    
-5. Verificar se existem dados relacionados a máquinas, equipamentos ou manutenção; x
-    
-6. Adaptar o problema ao cenário real encontrado; x
-    
-7. Definir o dataset que será utilizado;
-    
-8. Definir as ferramentas e tecnologias;
-    
-9. Desenvolver a análise;
-    
-10. Avaliar os resultados;
-    
-11. Finalizar a documentação do projeto.
-    
+|Elemento|Situação|
+|---|---|
+|👥 Equipe|✅ Concluído|
+|🏢 Empresa parceira|✅ Concluído|
+|🔧 Problema|✅ Concluído|
+|🏭 Processo afetado|✅ Concluído|
+|📊 Dados envolvidos|✅ Concluído|
+|🧠 Hipótese inicial|✅ Concluído|
+|🎯 Objetivo inicial|✅ Concluído|
+|📋 Escopo|🟡 Em desenvolvimento|
+|📅 Cronograma|⚠️ Pendente|
 
 ---
 
-## 🎓 Informações principais do projeto
+# 🚀 14. Próximos Passos
 
-**Tema:** Manutenção Preditiva Industrial
+### Prioridade 1 — Escopo
 
-**Empresa em avaliação:** B. Braun
+- [ ]  Finalizar delimitação do escopo;
+- [ ]  Definir exatamente quais dados serão analisados;
+- [ ]  Definir quais máquinas/processos serão considerados;
+- [ ]  Definir o que ficará fora da análise.
 
-**Tecnologia principal:** Python
+### Prioridade 2 — Dados
 
-**Área:** Big Data
+- [ ]  Organizar os dados disponíveis;
+- [ ]  Verificar formato dos dados;
+- [ ]  Identificar quantidade de registros;
+- [ ]  Verificar frequência de coleta;
+- [ ]  Verificar dados faltantes/inconsistentes;
+- [ ]  Definir dataset final.
 
-**Objetivo:** utilizar dados de equipamentos e processos para identificar padrões que possam auxiliar na previsão e prevenção de possíveis falhas.
+### Prioridade 3 — Desenvolvimento
 
-**Status:** 🟡 Em planejamento / Em definição
+- [ ]  Configurar ambiente Python;
+- [ ]  Importar dados;
+- [ ]  Realizar limpeza;
+- [ ]  Fazer análise exploratória;
+- [ ]  Criar visualizações;
+- [ ]  Identificar padrões;
+- [ ]  Avaliar Machine Learning.
+
+### Prioridade 4 — Entrega
+
+- [ ]  Documentação;
+- [ ]  Resultados;
+- [ ]  Apresentação;
+- [ ]  Revisão final;
+- [ ]  Apresentação do projeto.
+
+---
+
+# 📌 15. Resumo do Projeto
+
+**Tema:** Manutenção Preditiva Industrial  
+**Empresa parceira:** Iane – Indústria de Alimentos  
+**Ramo:** Indústria alimentícia  
+**Processo afetado:** Linha de produção/manutenção  
+**Área:** Big Data  
+**Tecnologia principal:** Python  
+**Problema:** Utilização de dados de máquinas e manutenção para identificar padrões que possam auxiliar na antecipação de falhas.  
+**Hipótese:** A análise dos dados dos processos produtivos pode permitir identificar padrões relacionados a possíveis falhas e apresentar potencial de aplicação de Big Data.  
+**Objetivo:** Utilizar dados de equipamentos e processos para identificar padrões que auxiliem na previsão e prevenção de possíveis falhas.  
+**Escopo:** Análise de dados relacionados à operação e manutenção de máquinas da linha de produção.  
+**Status:** 🟡 Em desenvolvimento.
