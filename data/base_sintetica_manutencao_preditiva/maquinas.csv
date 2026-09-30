@@ -1,0 +1,21 @@
+﻿machine_id,linha_producao,tipo_equipamento,modelo,data_instalacao,horas_operacao_acumuladas
+M001,Linha de Envase,Compressor,IND-248,2023-07-15,14521
+M002,Linha de Processamento,Bomba,IND-781,2022-06-20,6918
+M003,Linha de Embalagem,Motor,IND-729,2020-03-14,25398
+M004,Linha de Mistura,Misturador,IND-418,2023-10-21,19818
+M005,Linha de Mistura,Transportador,IND-161,2020-06-19,21757
+M006,Linha de Processamento,Transportador,IND-972,2019-12-15,5173
+M007,Linha de Envase,Compressor,IND-500,2023-06-08,11090
+M008,Linha de Embalagem,Misturador,IND-902,2020-03-22,23615
+M009,Linha de Envase,Compressor,IND-709,2018-06-17,25387
+M010,Linha de Envase,Compressor,IND-799,2022-10-10,14468
+M011,Linha de Embalagem,Compressor,IND-783,2019-02-20,24631
+M012,Linha de Processamento,Bomba,IND-274,2020-10-11,25646
+M013,Linha de Embalagem,Motor,IND-427,2018-10-12,13155
+M014,Linha de Processamento,Compressor,IND-519,2022-02-13,27197
+M015,Linha de Embalagem,Misturador,IND-547,2020-11-08,10429
+M016,Linha de Processamento,Motor,IND-139,2019-12-25,9087
+M017,Linha de Embalagem,Misturador,IND-591,2019-05-13,21268
+M018,Linha de Envase,Misturador,IND-238,2021-05-21,20010
+M019,Linha de Processamento,Bomba,IND-768,2022-01-07,6343
+M020,Linha de Mistura,Transportador,IND-714,2023-08-23,25400
