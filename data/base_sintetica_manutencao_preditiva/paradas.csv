@@ -1,0 +1,2201 @@
+﻿stop_id,machine_id,inicio_parada,duracao_minutos,tipo_parada,motivo,fim_parada
+P00001,M003,2025-03-20 07:32:49,54,Não planejada,Superaquecimento,2025-03-20 08:26:49
+P00002,M008,2025-07-04 16:49:09,305,Planejada,Vibração excessiva,2025-07-04 21:54:09
+P00003,M013,2025-03-06 03:20:19,18,Não planejada,Falha elétrica,2025-03-06 03:38:19
+P00004,M009,2025-11-04 05:48:27,298,Não planejada,Vibração excessiva,2025-11-04 10:46:27
+P00005,M018,2025-04-15 16:44:56,184,Planejada,Falha elétrica,2025-04-15 19:48:56
+P00006,M018,2025-07-08 05:52:27,178,Não planejada,Vibração excessiva,2025-07-08 08:50:27
+P00007,M015,2025-07-28 16:03:10,37,Planejada,Manutenção,2025-07-28 16:40:10
+P00008,M019,2025-05-28 02:36:55,29,Não planejada,Ajuste operacional,2025-05-28 03:05:55
+P00009,M011,2025-12-18 22:54:25,72,Não planejada,Falta de matéria-prima,2025-12-19 00:06:25
+P00010,M020,2025-01-27 12:24:10,175,Planejada,Superaquecimento,2025-01-27 15:19:10
+P00011,M010,2025-06-13 03:12:53,353,Não planejada,Falta de matéria-prima,2025-06-13 09:05:53
+P00012,M010,2025-04-09 17:18:08,139,Não planejada,Falta de matéria-prima,2025-04-09 19:37:08
+P00013,M009,2025-02-17 13:53:25,199,Não planejada,Falha elétrica,2025-02-17 17:12:25
+P00014,M008,2025-03-01 06:00:32,199,Não planejada,Falha elétrica,2025-03-01 09:19:32
+P00015,M019,2025-09-12 15:17:30,139,Planejada,Superaquecimento,2025-09-12 17:36:30
+P00016,M015,2025-03-18 04:25:05,330,Planejada,Vibração excessiva,2025-03-18 09:55:05
+P00017,M016,2025-09-02 15:56:02,108,Planejada,Falta de matéria-prima,2025-09-02 17:44:02
+P00018,M019,2025-11-16 15:54:19,23,Não planejada,Vibração excessiva,2025-11-16 16:17:19
+P00019,M008,2025-11-12 07:47:02,35,Planejada,Vibração excessiva,2025-11-12 08:22:02
+P00020,M020,2025-05-15 18:18:01,126,Não planejada,Falha elétrica,2025-05-15 20:24:01
+P00021,M011,2025-09-17 17:35:12,167,Não planejada,Manutenção,2025-09-17 20:22:12
+P00022,M008,2025-06-26 00:28:08,15,Não planejada,Vibração excessiva,2025-06-26 00:43:08
+P00023,M009,2025-11-21 11:31:30,257,Não planejada,Ajuste operacional,2025-11-21 15:48:30
+P00024,M017,2025-04-23 05:43:58,17,Planejada,Superaquecimento,2025-04-23 06:00:58
+P00025,M003,2025-08-26 23:31:56,324,Não planejada,Falha elétrica,2025-08-27 04:55:56
+P00026,M001,2025-04-29 03:10:20,90,Planejada,Vibração excessiva,2025-04-29 04:40:20
+P00027,M018,2025-07-19 13:41:22,118,Não planejada,Ajuste operacional,2025-07-19 15:39:22
+P00028,M013,2025-11-07 00:10:37,96,Não planejada,Superaquecimento,2025-11-07 01:46:37
+P00029,M010,2025-02-06 08:35:23,235,Não planejada,Vibração excessiva,2025-02-06 12:30:23
+P00030,M003,2025-08-01 15:57:21,164,Não planejada,Vibração excessiva,2025-08-01 18:41:21
+P00031,M010,2025-08-30 13:59:33,162,Não planejada,Falta de matéria-prima,2025-08-30 16:41:33
+P00032,M017,2025-12-27 16:19:42,232,Planejada,Falta de matéria-prima,2025-12-27 20:11:42
+P00033,M003,2025-07-21 05:10:49,152,Planejada,Ajuste operacional,2025-07-21 07:42:49
+P00034,M003,2025-08-12 10:26:06,27,Não planejada,Ajuste operacional,2025-08-12 10:53:06
+P00035,M020,2025-01-16 22:48:56,21,Não planejada,Falha elétrica,2025-01-16 23:09:56
+P00036,M009,2025-10-02 17:01:53,41,Não planejada,Manutenção,2025-10-02 17:42:53
+P00037,M002,2025-09-08 23:01:53,214,Não planejada,Superaquecimento,2025-09-09 02:35:53
+P00038,M012,2025-05-14 08:02:11,198,Não planejada,Falta de matéria-prima,2025-05-14 11:20:11
+P00039,M017,2025-10-12 19:28:40,152,Não planejada,Manutenção,2025-10-12 22:00:40
+P00040,M013,2025-03-25 05:50:40,121,Não planejada,Falha elétrica,2025-03-25 07:51:40
+P00041,M009,2025-07-24 21:54:32,143,Não planejada,Falha elétrica,2025-07-25 00:17:32
+P00042,M018,2025-04-25 07:55:35,60,Não planejada,Falha elétrica,2025-04-25 08:55:35
+P00043,M005,2025-04-10 14:46:35,307,Não planejada,Superaquecimento,2025-04-10 19:53:35
+P00044,M009,2025-05-18 10:05:01,141,Não planejada,Falha elétrica,2025-05-18 12:26:01
+P00045,M011,2025-11-27 03:27:45,199,Não planejada,Vibração excessiva,2025-11-27 06:46:45
+P00046,M009,2025-01-02 03:13:01,297,Não planejada,Falha elétrica,2025-01-02 08:10:01
+P00047,M001,2025-10-14 15:42:27,185,Não planejada,Superaquecimento,2025-10-14 18:47:27
+P00048,M007,2025-06-02 01:35:52,36,Não planejada,Falha elétrica,2025-06-02 02:11:52
+P00049,M012,2025-02-16 00:34:39,249,Planejada,Superaquecimento,2025-02-16 04:43:39
+P00050,M005,2025-03-27 01:51:03,66,Planejada,Ajuste operacional,2025-03-27 02:57:03
+P00051,M015,2025-09-25 18:32:59,216,Não planejada,Falha elétrica,2025-09-25 22:08:59
+P00052,M018,2025-05-23 12:01:17,92,Planejada,Falta de matéria-prima,2025-05-23 13:33:17
+P00053,M006,2025-03-10 02:40:26,47,Não planejada,Falta de matéria-prima,2025-03-10 03:27:26
+P00054,M006,2025-04-10 09:40:07,84,Planejada,Ajuste operacional,2025-04-10 11:04:07
+P00055,M010,2025-01-19 13:55:01,200,Não planejada,Superaquecimento,2025-01-19 17:15:01
+P00056,M001,2025-12-31 08:40:04,232,Planejada,Falha elétrica,2025-12-31 12:32:04
+P00057,M013,2025-05-27 07:01:44,119,Não planejada,Falha elétrica,2025-05-27 09:00:44
+P00058,M010,2025-09-03 17:09:32,318,Não planejada,Superaquecimento,2025-09-03 22:27:32
+P00059,M010,2025-08-13 11:28:10,127,Planejada,Manutenção,2025-08-13 13:35:10
+P00060,M014,2025-02-28 18:35:43,107,Planejada,Superaquecimento,2025-02-28 20:22:43
+P00061,M003,2025-12-18 22:30:11,348,Planejada,Falta de matéria-prima,2025-12-19 04:18:11
+P00062,M006,2025-04-09 19:55:20,161,Planejada,Falta de matéria-prima,2025-04-09 22:36:20
+P00063,M003,2025-08-18 14:28:54,135,Planejada,Superaquecimento,2025-08-18 16:43:54
+P00064,M011,2025-02-26 13:47:34,254,Não planejada,Superaquecimento,2025-02-26 18:01:34
+P00065,M017,2025-02-13 04:54:53,265,Não planejada,Vibração excessiva,2025-02-13 09:19:53
+P00066,M001,2025-09-19 13:07:03,169,Não planejada,Vibração excessiva,2025-09-19 15:56:03
+P00067,M015,2025-12-30 13:20:50,300,Não planejada,Vibração excessiva,2025-12-30 18:20:50
+P00068,M002,2025-02-03 13:23:06,306,Não planejada,Vibração excessiva,2025-02-03 18:29:06
+P00069,M008,2025-01-29 05:30:18,272,Planejada,Manutenção,2025-01-29 10:02:18
+P00070,M008,2025-10-10 22:02:02,22,Planejada,Ajuste operacional,2025-10-10 22:24:02
+P00071,M017,2025-04-11 21:44:04,130,Planejada,Vibração excessiva,2025-04-11 23:54:04
+P00072,M005,2025-01-16 22:33:26,110,Não planejada,Vibração excessiva,2025-01-17 00:23:26
+P00073,M014,2025-10-14 12:08:59,68,Não planejada,Ajuste operacional,2025-10-14 13:16:59
+P00074,M001,2025-08-23 11:00:02,157,Não planejada,Falta de matéria-prima,2025-08-23 13:37:02
+P00075,M014,2025-09-24 09:50:29,198,Não planejada,Falta de matéria-prima,2025-09-24 13:08:29
+P00076,M012,2025-08-03 15:27:47,289,Planejada,Ajuste operacional,2025-08-03 20:16:47
+P00077,M007,2025-06-14 00:11:17,43,Não planejada,Manutenção,2025-06-14 00:54:17
+P00078,M007,2025-01-21 15:50:37,73,Planejada,Manutenção,2025-01-21 17:03:37
+P00079,M002,2025-11-17 12:49:24,128,Planejada,Ajuste operacional,2025-11-17 14:57:24
+P00080,M019,2025-08-06 02:18:11,338,Planejada,Superaquecimento,2025-08-06 07:56:11
+P00081,M010,2025-12-07 00:48:49,102,Planejada,Ajuste operacional,2025-12-07 02:30:49
+P00082,M005,2025-09-08 03:01:33,202,Não planejada,Ajuste operacional,2025-09-08 06:23:33
+P00083,M013,2025-01-11 23:45:11,91,Não planejada,Superaquecimento,2025-01-12 01:16:11
+P00084,M017,2025-07-15 06:37:22,226,Não planejada,Ajuste operacional,2025-07-15 10:23:22
+P00085,M016,2025-10-21 02:32:39,246,Não planejada,Vibração excessiva,2025-10-21 06:38:39
+P00086,M014,2025-05-13 00:15:13,190,Não planejada,Falha elétrica,2025-05-13 03:25:13
+P00087,M016,2025-11-04 18:44:46,216,Não planejada,Manutenção,2025-11-04 22:20:46
+P00088,M020,2025-03-20 10:28:03,132,Não planejada,Ajuste operacional,2025-03-20 12:40:03
+P00089,M017,2025-09-20 11:19:43,19,Não planejada,Falha elétrica,2025-09-20 11:38:43
+P00090,M012,2025-02-22 04:27:30,106,Planejada,Falta de matéria-prima,2025-02-22 06:13:30
+P00091,M004,2025-07-16 01:32:57,194,Não planejada,Falta de matéria-prima,2025-07-16 04:46:57
+P00092,M001,2025-03-18 14:16:21,21,Não planejada,Vibração excessiva,2025-03-18 14:37:21
+P00093,M010,2025-08-31 03:40:33,87,Não planejada,Falta de matéria-prima,2025-08-31 05:07:33
+P00094,M008,2025-12-10 13:11:36,252,Não planejada,Falta de matéria-prima,2025-12-10 17:23:36
+P00095,M018,2025-01-08 21:57:53,267,Não planejada,Vibração excessiva,2025-01-09 02:24:53
+P00096,M016,2025-05-24 16:20:21,128,Não planejada,Vibração excessiva,2025-05-24 18:28:21
+P00097,M009,2025-01-11 07:11:33,321,Não planejada,Ajuste operacional,2025-01-11 12:32:33
+P00098,M004,2025-04-02 06:59:06,145,Não planejada,Superaquecimento,2025-04-02 09:24:06
+P00099,M002,2025-09-04 05:38:48,34,Não planejada,Falta de matéria-prima,2025-09-04 06:12:48
+P00100,M007,2025-09-22 07:33:50,74,Planejada,Vibração excessiva,2025-09-22 08:47:50
+P00101,M015,2025-12-07 15:05:15,352,Não planejada,Superaquecimento,2025-12-07 20:57:15
+P00102,M013,2025-11-15 11:47:39,156,Planejada,Falta de matéria-prima,2025-11-15 14:23:39
+P00103,M008,2025-07-13 16:40:16,266,Não planejada,Superaquecimento,2025-07-13 21:06:16
+P00104,M018,2025-03-22 02:07:58,105,Não planejada,Superaquecimento,2025-03-22 03:52:58
+P00105,M002,2025-10-19 23:33:44,357,Não planejada,Vibração excessiva,2025-10-20 05:30:44
+P00106,M009,2025-06-10 17:00:56,232,Planejada,Falta de matéria-prima,2025-06-10 20:52:56
+P00107,M014,2025-04-04 14:24:09,278,Planejada,Ajuste operacional,2025-04-04 19:02:09
+P00108,M005,2025-09-11 22:55:28,140,Planejada,Superaquecimento,2025-09-12 01:15:28
+P00109,M018,2025-08-30 12:46:44,229,Planejada,Falta de matéria-prima,2025-08-30 16:35:44
+P00110,M019,2025-09-14 20:46:27,351,Não planejada,Falha elétrica,2025-09-15 02:37:27
+P00111,M017,2025-11-14 08:00:37,304,Não planejada,Falta de matéria-prima,2025-11-14 13:04:37
+P00112,M002,2025-08-03 10:17:18,263,Planejada,Ajuste operacional,2025-08-03 14:40:18
+P00113,M002,2025-02-18 05:12:48,72,Não planejada,Vibração excessiva,2025-02-18 06:24:48
+P00114,M013,2025-02-25 20:14:14,16,Planejada,Superaquecimento,2025-02-25 20:30:14
+P00115,M020,2025-03-14 05:11:46,177,Não planejada,Superaquecimento,2025-03-14 08:08:46
+P00116,M007,2025-09-30 22:33:09,47,Não planejada,Superaquecimento,2025-09-30 23:20:09
+P00117,M013,2025-09-11 12:08:15,190,Não planejada,Falta de matéria-prima,2025-09-11 15:18:15
+P00118,M017,2025-06-03 00:00:36,89,Não planejada,Superaquecimento,2025-06-03 01:29:36
+P00119,M015,2025-07-16 13:40:58,23,Não planejada,Superaquecimento,2025-07-16 14:03:58
+P00120,M015,2025-12-09 15:00:52,308,Planejada,Manutenção,2025-12-09 20:08:52
+P00121,M006,2025-07-15 08:02:39,151,Não planejada,Manutenção,2025-07-15 10:33:39
+P00122,M008,2025-01-21 03:40:37,240,Não planejada,Superaquecimento,2025-01-21 07:40:37
+P00123,M020,2025-12-31 12:45:07,41,Não planejada,Ajuste operacional,2025-12-31 13:26:07
+P00124,M014,2025-10-10 11:32:14,351,Não planejada,Falha elétrica,2025-10-10 17:23:14
+P00125,M004,2025-05-06 05:12:47,57,Planejada,Superaquecimento,2025-05-06 06:09:47
+P00126,M014,2025-01-25 01:34:32,319,Planejada,Ajuste operacional,2025-01-25 06:53:32
+P00127,M015,2025-10-27 12:01:54,229,Não planejada,Ajuste operacional,2025-10-27 15:50:54
+P00128,M014,2025-06-29 06:36:16,44,Não planejada,Vibração excessiva,2025-06-29 07:20:16
+P00129,M017,2025-06-09 17:14:21,173,Planejada,Vibração excessiva,2025-06-09 20:07:21
+P00130,M018,2025-01-25 12:11:06,63,Não planejada,Ajuste operacional,2025-01-25 13:14:06
+P00131,M014,2025-02-17 21:47:34,292,Não planejada,Ajuste operacional,2025-02-18 02:39:34
+P00132,M012,2025-06-22 20:03:09,293,Planejada,Falha elétrica,2025-06-23 00:56:09
+P00133,M019,2025-11-09 03:42:32,70,Não planejada,Superaquecimento,2025-11-09 04:52:32
+P00134,M018,2025-07-08 01:27:08,59,Planejada,Vibração excessiva,2025-07-08 02:26:08
+P00135,M003,2025-01-09 20:54:26,77,Não planejada,Manutenção,2025-01-09 22:11:26
+P00136,M015,2025-01-02 06:49:16,57,Não planejada,Falta de matéria-prima,2025-01-02 07:46:16
+P00137,M010,2025-07-05 23:42:32,32,Planejada,Superaquecimento,2025-07-06 00:14:32
+P00138,M004,2025-08-16 15:01:55,237,Não planejada,Falha elétrica,2025-08-16 18:58:55
+P00139,M017,2025-03-21 15:13:38,83,Não planejada,Superaquecimento,2025-03-21 16:36:38
+P00140,M004,2025-08-30 02:18:47,198,Não planejada,Manutenção,2025-08-30 05:36:47
+P00141,M020,2025-12-18 12:43:52,280,Não planejada,Vibração excessiva,2025-12-18 17:23:52
+P00142,M012,2025-09-30 13:56:43,33,Planejada,Superaquecimento,2025-09-30 14:29:43
+P00143,M001,2025-11-19 12:42:44,323,Não planejada,Falha elétrica,2025-11-19 18:05:44
+P00144,M012,2025-11-06 12:50:11,83,Não planejada,Falha elétrica,2025-11-06 14:13:11
+P00145,M020,2025-03-28 19:06:45,304,Planejada,Superaquecimento,2025-03-29 00:10:45
+P00146,M011,2025-04-28 10:11:52,350,Planejada,Manutenção,2025-04-28 16:01:52
+P00147,M003,2025-12-01 09:32:06,65,Não planejada,Superaquecimento,2025-12-01 10:37:06
+P00148,M003,2025-03-02 05:50:59,122,Planejada,Falta de matéria-prima,2025-03-02 07:52:59
+P00149,M015,2025-02-21 22:53:02,274,Planejada,Ajuste operacional,2025-02-22 03:27:02
+P00150,M005,2025-01-03 20:23:30,155,Não planejada,Ajuste operacional,2025-01-03 22:58:30
+P00151,M020,2025-09-08 17:23:26,317,Planejada,Falta de matéria-prima,2025-09-08 22:40:26
+P00152,M018,2025-03-03 05:01:56,189,Não planejada,Ajuste operacional,2025-03-03 08:10:56
+P00153,M006,2025-04-08 17:58:21,278,Não planejada,Superaquecimento,2025-04-08 22:36:21
+P00154,M011,2025-01-01 03:30:57,142,Não planejada,Vibração excessiva,2025-01-01 05:52:57
+P00155,M019,2025-04-24 06:08:06,224,Não planejada,Falta de matéria-prima,2025-04-24 09:52:06
+P00156,M005,2025-03-27 00:34:51,241,Não planejada,Manutenção,2025-03-27 04:35:51
+P00157,M009,2025-08-22 23:10:12,211,Não planejada,Superaquecimento,2025-08-23 02:41:12
+P00158,M013,2025-01-15 00:29:53,205,Não planejada,Superaquecimento,2025-01-15 03:54:53
+P00159,M011,2025-06-29 03:23:17,334,Planejada,Superaquecimento,2025-06-29 08:57:17
+P00160,M010,2025-03-04 20:00:14,173,Não planejada,Falta de matéria-prima,2025-03-04 22:53:14
+P00161,M015,2025-04-16 14:16:29,14,Não planejada,Ajuste operacional,2025-04-16 14:30:29
+P00162,M010,2025-01-07 01:08:33,274,Planejada,Falta de matéria-prima,2025-01-07 05:42:33
+P00163,M015,2025-03-21 18:39:22,179,Não planejada,Ajuste operacional,2025-03-21 21:38:22
+P00164,M015,2025-12-28 04:25:59,82,Não planejada,Manutenção,2025-12-28 05:47:59
+P00165,M016,2025-08-18 08:10:44,247,Não planejada,Superaquecimento,2025-08-18 12:17:44
+P00166,M017,2025-09-01 21:42:26,137,Não planejada,Manutenção,2025-09-01 23:59:26
+P00167,M011,2025-08-17 05:48:58,335,Planejada,Vibração excessiva,2025-08-17 11:23:58
+P00168,M002,2025-06-20 09:08:26,338,Não planejada,Superaquecimento,2025-06-20 14:46:26
+P00169,M016,2025-07-25 11:26:41,235,Planejada,Falta de matéria-prima,2025-07-25 15:21:41
+P00170,M003,2025-08-24 23:18:00,299,Não planejada,Vibração excessiva,2025-08-25 04:17:00
+P00171,M007,2025-08-30 15:02:08,300,Não planejada,Falta de matéria-prima,2025-08-30 20:02:08
+P00172,M018,2025-06-15 21:27:33,243,Não planejada,Manutenção,2025-06-16 01:30:33
+P00173,M019,2025-05-19 23:34:04,15,Planejada,Vibração excessiva,2025-05-19 23:49:04
+P00174,M013,2025-07-18 11:22:09,61,Não planejada,Falta de matéria-prima,2025-07-18 12:23:09
+P00175,M018,2025-03-05 19:44:50,183,Não planejada,Superaquecimento,2025-03-05 22:47:50
+P00176,M013,2025-03-29 17:53:07,336,Planejada,Vibração excessiva,2025-03-29 23:29:07
+P00177,M016,2025-04-23 22:40:24,314,Não planejada,Falta de matéria-prima,2025-04-24 03:54:24
+P00178,M010,2025-10-14 19:13:22,228,Planejada,Vibração excessiva,2025-10-14 23:01:22
+P00179,M018,2025-01-24 04:53:56,208,Não planejada,Vibração excessiva,2025-01-24 08:21:56
+P00180,M004,2025-10-13 23:18:00,185,Não planejada,Vibração excessiva,2025-10-14 02:23:00
+P00181,M004,2025-01-06 13:55:42,18,Não planejada,Ajuste operacional,2025-01-06 14:13:42
+P00182,M009,2025-02-02 12:14:42,118,Planejada,Ajuste operacional,2025-02-02 14:12:42
+P00183,M010,2025-03-15 23:51:11,246,Não planejada,Falha elétrica,2025-03-16 03:57:11
+P00184,M009,2025-12-25 17:47:36,39,Planejada,Manutenção,2025-12-25 18:26:36
+P00185,M007,2025-01-10 03:22:29,358,Não planejada,Falta de matéria-prima,2025-01-10 09:20:29
+P00186,M008,2025-12-10 05:23:05,354,Não planejada,Falha elétrica,2025-12-10 11:17:05
+P00187,M020,2025-08-26 07:58:54,316,Planejada,Ajuste operacional,2025-08-26 13:14:54
+P00188,M011,2025-12-02 19:37:34,326,Não planejada,Falta de matéria-prima,2025-12-03 01:03:34
+P00189,M009,2025-06-28 23:37:37,169,Não planejada,Falta de matéria-prima,2025-06-29 02:26:37
+P00190,M009,2025-09-12 14:09:10,37,Planejada,Falta de matéria-prima,2025-09-12 14:46:10
+P00191,M007,2025-09-11 04:49:16,319,Não planejada,Falha elétrica,2025-09-11 10:08:16
+P00192,M010,2025-02-09 23:20:32,147,Planejada,Superaquecimento,2025-02-10 01:47:32
+P00193,M014,2025-04-27 07:59:20,132,Não planejada,Ajuste operacional,2025-04-27 10:11:20
+P00194,M008,2025-12-16 20:03:01,349,Planejada,Falha elétrica,2025-12-17 01:52:01
+P00195,M009,2025-01-15 20:04:54,312,Planejada,Ajuste operacional,2025-01-16 01:16:54
+P00196,M004,2025-02-12 16:06:07,315,Planejada,Vibração excessiva,2025-02-12 21:21:07
+P00197,M019,2025-03-24 13:22:52,151,Não planejada,Vibração excessiva,2025-03-24 15:53:52
+P00198,M011,2025-10-26 11:25:15,182,Não planejada,Vibração excessiva,2025-10-26 14:27:15
+P00199,M009,2025-01-22 03:29:21,268,Não planejada,Ajuste operacional,2025-01-22 07:57:21
+P00200,M009,2025-06-14 00:11:35,231,Não planejada,Falta de matéria-prima,2025-06-14 04:02:35
+P00201,M014,2025-03-15 21:04:38,161,Não planejada,Falha elétrica,2025-03-15 23:45:38
+P00202,M004,2025-05-14 12:31:37,92,Planejada,Ajuste operacional,2025-05-14 14:03:37
+P00203,M006,2025-06-17 22:04:25,328,Planejada,Vibração excessiva,2025-06-18 03:32:25
+P00204,M019,2025-05-31 22:03:55,13,Não planejada,Falta de matéria-prima,2025-05-31 22:16:55
+P00205,M006,2025-11-11 20:59:00,146,Planejada,Falta de matéria-prima,2025-11-11 23:25:00
+P00206,M008,2025-05-12 22:49:51,83,Não planejada,Vibração excessiva,2025-05-13 00:12:51
+P00207,M007,2025-09-14 01:23:26,236,Não planejada,Superaquecimento,2025-09-14 05:19:26
+P00208,M016,2025-02-02 23:45:44,117,Não planejada,Ajuste operacional,2025-02-03 01:42:44
+P00209,M004,2025-05-13 10:54:07,43,Não planejada,Ajuste operacional,2025-05-13 11:37:07
+P00210,M014,2025-03-15 19:24:46,136,Não planejada,Manutenção,2025-03-15 21:40:46
+P00211,M004,2025-02-16 08:30:30,187,Não planejada,Superaquecimento,2025-02-16 11:37:30
+P00212,M013,2025-10-03 09:15:01,250,Não planejada,Falta de matéria-prima,2025-10-03 13:25:01
+P00213,M004,2025-07-23 23:17:27,111,Planejada,Falta de matéria-prima,2025-07-24 01:08:27
+P00214,M006,2025-08-10 06:35:37,26,Planejada,Ajuste operacional,2025-08-10 07:01:37
+P00215,M002,2025-12-20 12:55:03,155,Não planejada,Superaquecimento,2025-12-20 15:30:03
+P00216,M018,2025-08-15 18:48:19,76,Planejada,Ajuste operacional,2025-08-15 20:04:19
+P00217,M019,2025-06-27 05:14:23,282,Não planejada,Superaquecimento,2025-06-27 09:56:23
+P00218,M007,2025-02-26 18:56:12,352,Não planejada,Falha elétrica,2025-02-27 00:48:12
+P00219,M007,2025-12-07 23:23:29,31,Não planejada,Falta de matéria-prima,2025-12-07 23:54:29
+P00220,M016,2025-06-02 02:44:11,218,Não planejada,Vibração excessiva,2025-06-02 06:22:11
+P00221,M012,2025-08-04 17:47:35,321,Não planejada,Falta de matéria-prima,2025-08-04 23:08:35
+P00222,M020,2025-07-04 11:01:22,175,Não planejada,Superaquecimento,2025-07-04 13:56:22
+P00223,M007,2025-07-12 04:00:10,100,Não planejada,Ajuste operacional,2025-07-12 05:40:10
+P00224,M002,2025-06-02 22:48:46,40,Não planejada,Manutenção,2025-06-02 23:28:46
+P00225,M012,2025-04-06 20:04:35,271,Não planejada,Superaquecimento,2025-04-07 00:35:35
+P00226,M016,2025-03-06 19:43:15,21,Não planejada,Falha elétrica,2025-03-06 20:04:15
+P00227,M011,2025-10-19 08:12:15,323,Não planejada,Manutenção,2025-10-19 13:35:15
+P00228,M011,2025-08-12 22:17:47,273,Planejada,Ajuste operacional,2025-08-13 02:50:47
+P00229,M007,2025-12-29 02:53:17,180,Não planejada,Vibração excessiva,2025-12-29 05:53:17
+P00230,M003,2025-01-13 23:26:34,26,Não planejada,Falha elétrica,2025-01-13 23:52:34
+P00231,M003,2025-10-04 10:16:00,52,Planejada,Superaquecimento,2025-10-04 11:08:00
+P00232,M013,2025-08-14 06:01:01,89,Planejada,Superaquecimento,2025-08-14 07:30:01
+P00233,M013,2025-01-05 21:45:05,224,Não planejada,Falha elétrica,2025-01-06 01:29:05
+P00234,M006,2025-09-01 15:53:22,250,Não planejada,Manutenção,2025-09-01 20:03:22
+P00235,M013,2025-08-28 23:06:32,77,Planejada,Falha elétrica,2025-08-29 00:23:32
+P00236,M011,2025-10-24 03:13:17,112,Não planejada,Superaquecimento,2025-10-24 05:05:17
+P00237,M002,2025-01-21 20:37:13,169,Planejada,Vibração excessiva,2025-01-21 23:26:13
+P00238,M016,2025-07-16 00:01:20,97,Planejada,Superaquecimento,2025-07-16 01:38:20
+P00239,M001,2025-02-28 19:48:22,80,Planejada,Vibração excessiva,2025-02-28 21:08:22
+P00240,M008,2025-11-06 10:26:45,287,Não planejada,Ajuste operacional,2025-11-06 15:13:45
+P00241,M016,2025-05-23 22:14:33,349,Não planejada,Ajuste operacional,2025-05-24 04:03:33
+P00242,M010,2025-09-25 08:41:00,353,Não planejada,Ajuste operacional,2025-09-25 14:34:00
+P00243,M007,2025-10-01 13:18:07,123,Não planejada,Ajuste operacional,2025-10-01 15:21:07
+P00244,M016,2025-03-27 12:53:50,185,Planejada,Falha elétrica,2025-03-27 15:58:50
+P00245,M001,2025-08-19 22:23:37,167,Planejada,Superaquecimento,2025-08-20 01:10:37
+P00246,M005,2025-01-03 00:00:00,232,Não planejada,Vibração excessiva,2025-01-03 03:52:00
+P00247,M001,2025-08-27 09:09:41,154,Planejada,Vibração excessiva,2025-08-27 11:43:41
+P00248,M014,2025-02-14 20:23:52,347,Não planejada,Manutenção,2025-02-15 02:10:52
+P00249,M019,2025-09-20 11:27:17,98,Planejada,Vibração excessiva,2025-09-20 13:05:17
+P00250,M007,2025-02-19 14:19:00,175,Não planejada,Falta de matéria-prima,2025-02-19 17:14:00
+P00251,M009,2025-12-06 13:05:25,25,Não planejada,Falha elétrica,2025-12-06 13:30:25
+P00252,M014,2025-07-26 18:05:44,218,Não planejada,Superaquecimento,2025-07-26 21:43:44
+P00253,M003,2025-09-03 10:36:23,68,Planejada,Manutenção,2025-09-03 11:44:23
+P00254,M001,2025-03-01 20:05:10,151,Não planejada,Superaquecimento,2025-03-01 22:36:10
+P00255,M018,2025-10-03 18:29:38,86,Não planejada,Falha elétrica,2025-10-03 19:55:38
+P00256,M009,2025-02-07 13:38:26,229,Não planejada,Manutenção,2025-02-07 17:27:26
+P00257,M020,2025-11-15 03:59:50,210,Não planejada,Falta de matéria-prima,2025-11-15 07:29:50
+P00258,M013,2025-05-24 20:38:31,284,Não planejada,Manutenção,2025-05-25 01:22:31
+P00259,M013,2025-06-16 10:36:28,13,Planejada,Vibração excessiva,2025-06-16 10:49:28
+P00260,M005,2025-12-18 12:22:51,291,Não planejada,Vibração excessiva,2025-12-18 17:13:51
+P00261,M006,2025-04-26 17:01:25,197,Não planejada,Ajuste operacional,2025-04-26 20:18:25
+P00262,M013,2025-10-30 14:32:14,25,Não planejada,Superaquecimento,2025-10-30 14:57:14
+P00263,M009,2025-05-07 16:09:17,297,Não planejada,Ajuste operacional,2025-05-07 21:06:17
+P00264,M001,2025-02-06 01:04:51,45,Planejada,Ajuste operacional,2025-02-06 01:49:51
+P00265,M005,2025-09-14 15:47:03,135,Planejada,Ajuste operacional,2025-09-14 18:02:03
+P00266,M010,2025-01-10 10:09:56,223,Não planejada,Falha elétrica,2025-01-10 13:52:56
+P00267,M009,2025-07-25 12:41:13,24,Não planejada,Superaquecimento,2025-07-25 13:05:13
+P00268,M018,2025-10-18 08:17:33,142,Planejada,Vibração excessiva,2025-10-18 10:39:33
+P00269,M020,2025-03-31 06:57:02,143,Planejada,Vibração excessiva,2025-03-31 09:20:02
+P00270,M020,2025-11-25 23:22:47,190,Não planejada,Superaquecimento,2025-11-26 02:32:47
+P00271,M003,2025-10-20 07:34:35,353,Não planejada,Manutenção,2025-10-20 13:27:35
+P00272,M006,2025-02-27 02:03:26,48,Planejada,Ajuste operacional,2025-02-27 02:51:26
+P00273,M014,2025-11-14 12:12:29,189,Não planejada,Falta de matéria-prima,2025-11-14 15:21:29
+P00274,M016,2025-12-24 17:30:59,62,Não planejada,Falta de matéria-prima,2025-12-24 18:32:59
+P00275,M010,2025-05-04 19:20:23,334,Planejada,Ajuste operacional,2025-05-05 00:54:23
+P00276,M008,2025-04-17 00:08:56,11,Não planejada,Ajuste operacional,2025-04-17 00:19:56
+P00277,M007,2025-08-21 05:21:31,149,Não planejada,Manutenção,2025-08-21 07:50:31
+P00278,M014,2025-08-17 04:18:00,180,Não planejada,Superaquecimento,2025-08-17 07:18:00
+P00279,M017,2025-11-30 15:29:50,199,Não planejada,Manutenção,2025-11-30 18:48:50
+P00280,M011,2025-03-14 03:16:12,226,Não planejada,Ajuste operacional,2025-03-14 07:02:12
+P00281,M014,2025-05-06 02:27:40,284,Planejada,Ajuste operacional,2025-05-06 07:11:40
+P00282,M015,2025-05-10 12:27:42,296,Não planejada,Superaquecimento,2025-05-10 17:23:42
+P00283,M016,2025-10-19 02:49:43,255,Não planejada,Vibração excessiva,2025-10-19 07:04:43
+P00284,M015,2025-11-23 16:39:06,104,Planejada,Falta de matéria-prima,2025-11-23 18:23:06
+P00285,M001,2025-12-06 07:27:34,300,Não planejada,Ajuste operacional,2025-12-06 12:27:34
+P00286,M007,2025-08-03 18:59:43,56,Não planejada,Falta de matéria-prima,2025-08-03 19:55:43
+P00287,M010,2025-08-27 20:11:22,255,Planejada,Vibração excessiva,2025-08-28 00:26:22
+P00288,M002,2025-12-21 22:39:30,317,Não planejada,Ajuste operacional,2025-12-22 03:56:30
+P00289,M003,2025-02-21 13:48:17,326,Não planejada,Vibração excessiva,2025-02-21 19:14:17
+P00290,M002,2025-03-09 16:32:35,87,Não planejada,Falta de matéria-prima,2025-03-09 17:59:35
+P00291,M003,2025-03-03 06:37:09,225,Planejada,Ajuste operacional,2025-03-03 10:22:09
+P00292,M001,2025-09-14 06:25:16,187,Planejada,Ajuste operacional,2025-09-14 09:32:16
+P00293,M003,2025-05-10 15:06:10,325,Não planejada,Falta de matéria-prima,2025-05-10 20:31:10
+P00294,M013,2025-05-22 01:35:49,194,Não planejada,Falta de matéria-prima,2025-05-22 04:49:49
+P00295,M007,2025-01-02 00:42:22,100,Planejada,Falta de matéria-prima,2025-01-02 02:22:22
+P00296,M012,2025-08-13 13:38:20,119,Planejada,Falha elétrica,2025-08-13 15:37:20
+P00297,M020,2025-02-02 22:28:15,86,Planejada,Superaquecimento,2025-02-02 23:54:15
+P00298,M019,2025-01-08 21:37:23,110,Não planejada,Falha elétrica,2025-01-08 23:27:23
+P00299,M001,2025-07-19 16:26:59,260,Não planejada,Ajuste operacional,2025-07-19 20:46:59
+P00300,M013,2025-01-19 08:43:56,65,Não planejada,Superaquecimento,2025-01-19 09:48:56
+P00301,M015,2025-03-31 10:41:08,354,Planejada,Superaquecimento,2025-03-31 16:35:08
+P00302,M004,2025-10-02 01:10:21,262,Planejada,Manutenção,2025-10-02 05:32:21
+P00303,M009,2025-06-24 07:36:44,123,Não planejada,Falha elétrica,2025-06-24 09:39:44
+P00304,M004,2025-08-17 19:05:44,198,Não planejada,Falta de matéria-prima,2025-08-17 22:23:44
+P00305,M014,2025-08-16 13:46:56,26,Planejada,Falta de matéria-prima,2025-08-16 14:12:56
+P00306,M013,2025-02-02 18:42:39,192,Não planejada,Superaquecimento,2025-02-02 21:54:39
+P00307,M007,2025-06-04 19:00:08,239,Não planejada,Ajuste operacional,2025-06-04 22:59:08
+P00308,M011,2025-12-13 23:59:36,33,Não planejada,Falta de matéria-prima,2025-12-14 00:32:36
+P00309,M013,2025-03-20 14:42:38,255,Planejada,Ajuste operacional,2025-03-20 18:57:38
+P00310,M004,2025-02-23 11:51:43,131,Não planejada,Falha elétrica,2025-02-23 14:02:43
+P00311,M009,2025-08-25 20:49:14,321,Não planejada,Ajuste operacional,2025-08-26 02:10:14
+P00312,M003,2025-05-03 03:49:43,270,Planejada,Superaquecimento,2025-05-03 08:19:43
+P00313,M005,2025-12-20 07:37:47,16,Não planejada,Ajuste operacional,2025-12-20 07:53:47
+P00314,M009,2025-12-24 10:37:47,280,Não planejada,Vibração excessiva,2025-12-24 15:17:47
+P00315,M002,2025-05-28 23:38:12,170,Planejada,Vibração excessiva,2025-05-29 02:28:12
+P00316,M014,2025-01-06 14:54:08,313,Planejada,Superaquecimento,2025-01-06 20:07:08
+P00317,M003,2025-04-24 02:15:58,219,Não planejada,Manutenção,2025-04-24 05:54:58
+P00318,M008,2025-12-15 16:16:13,131,Não planejada,Vibração excessiva,2025-12-15 18:27:13
+P00319,M006,2025-05-30 02:04:13,198,Não planejada,Ajuste operacional,2025-05-30 05:22:13
+P00320,M005,2025-11-24 14:16:31,171,Não planejada,Manutenção,2025-11-24 17:07:31
+P00321,M004,2025-03-26 06:10:47,118,Não planejada,Manutenção,2025-03-26 08:08:47
+P00322,M017,2025-09-09 01:49:20,124,Planejada,Ajuste operacional,2025-09-09 03:53:20
+P00323,M006,2025-11-27 11:14:51,308,Planejada,Manutenção,2025-11-27 16:22:51
+P00324,M019,2025-07-25 00:58:23,317,Não planejada,Superaquecimento,2025-07-25 06:15:23
+P00325,M005,2025-11-15 14:07:55,81,Não planejada,Falta de matéria-prima,2025-11-15 15:28:55
+P00326,M016,2025-07-28 12:17:44,44,Não planejada,Manutenção,2025-07-28 13:01:44
+P00327,M016,2025-11-08 20:54:33,339,Não planejada,Manutenção,2025-11-09 02:33:33
+P00328,M014,2025-06-02 06:05:15,165,Não planejada,Falta de matéria-prima,2025-06-02 08:50:15
+P00329,M009,2025-06-16 09:43:51,142,Não planejada,Falha elétrica,2025-06-16 12:05:51
+P00330,M005,2025-02-19 17:54:53,157,Não planejada,Falha elétrica,2025-02-19 20:31:53
+P00331,M004,2025-01-12 06:38:52,308,Não planejada,Falha elétrica,2025-01-12 11:46:52
+P00332,M020,2025-02-15 14:24:54,164,Planejada,Ajuste operacional,2025-02-15 17:08:54
+P00333,M019,2025-06-09 15:59:06,179,Não planejada,Falha elétrica,2025-06-09 18:58:06
+P00334,M015,2025-04-03 23:41:38,245,Planejada,Falha elétrica,2025-04-04 03:46:38
+P00335,M002,2025-07-11 15:30:17,158,Não planejada,Falta de matéria-prima,2025-07-11 18:08:17
+P00336,M008,2025-07-10 14:16:05,131,Planejada,Manutenção,2025-07-10 16:27:05
+P00337,M019,2025-05-09 07:36:51,102,Planejada,Ajuste operacional,2025-05-09 09:18:51
+P00338,M009,2025-02-24 08:49:01,329,Não planejada,Falta de matéria-prima,2025-02-24 14:18:01
+P00339,M011,2025-07-09 03:51:04,51,Planejada,Vibração excessiva,2025-07-09 04:42:04
+P00340,M010,2025-04-01 01:15:39,77,Não planejada,Superaquecimento,2025-04-01 02:32:39
+P00341,M018,2025-03-23 03:43:54,50,Não planejada,Vibração excessiva,2025-03-23 04:33:54
+P00342,M010,2025-08-03 20:58:59,131,Não planejada,Falha elétrica,2025-08-03 23:09:59
+P00343,M015,2025-08-28 06:46:40,178,Planejada,Vibração excessiva,2025-08-28 09:44:40
+P00344,M006,2025-10-15 14:52:21,59,Planejada,Falha elétrica,2025-10-15 15:51:21
+P00345,M002,2025-03-08 22:27:48,257,Não planejada,Ajuste operacional,2025-03-09 02:44:48
+P00346,M003,2025-01-25 06:51:43,243,Não planejada,Falha elétrica,2025-01-25 10:54:43
+P00347,M010,2025-06-24 01:32:58,150,Planejada,Superaquecimento,2025-06-24 04:02:58
+P00348,M006,2025-05-16 18:17:37,328,Planejada,Falha elétrica,2025-05-16 23:45:37
+P00349,M015,2025-10-21 16:25:51,339,Não planejada,Vibração excessiva,2025-10-21 22:04:51
+P00350,M003,2025-03-04 15:01:13,161,Não planejada,Ajuste operacional,2025-03-04 17:42:13
+P00351,M005,2025-12-13 18:53:47,180,Planejada,Superaquecimento,2025-12-13 21:53:47
+P00352,M002,2025-05-30 11:12:27,203,Não planejada,Vibração excessiva,2025-05-30 14:35:27
+P00353,M009,2025-07-19 01:44:15,200,Planejada,Ajuste operacional,2025-07-19 05:04:15
+P00354,M008,2025-09-22 08:10:25,277,Não planejada,Falha elétrica,2025-09-22 12:47:25
+P00355,M016,2025-03-30 17:29:56,253,Planejada,Superaquecimento,2025-03-30 21:42:56
+P00356,M020,2025-09-22 07:43:18,18,Não planejada,Vibração excessiva,2025-09-22 08:01:18
+P00357,M011,2025-07-07 03:14:42,325,Não planejada,Vibração excessiva,2025-07-07 08:39:42
+P00358,M018,2025-11-17 09:31:54,292,Planejada,Superaquecimento,2025-11-17 14:23:54
+P00359,M012,2025-04-27 20:13:03,273,Planejada,Manutenção,2025-04-28 00:46:03
+P00360,M014,2025-10-01 06:47:00,202,Não planejada,Vibração excessiva,2025-10-01 10:09:00
+P00361,M013,2025-06-06 19:18:02,325,Planejada,Vibração excessiva,2025-06-07 00:43:02
+P00362,M005,2025-09-02 07:25:26,317,Planejada,Vibração excessiva,2025-09-02 12:42:26
+P00363,M008,2025-11-14 15:18:24,84,Não planejada,Vibração excessiva,2025-11-14 16:42:24
+P00364,M015,2025-06-27 11:16:25,341,Não planejada,Vibração excessiva,2025-06-27 16:57:25
+P00365,M018,2025-03-01 05:25:26,27,Não planejada,Falha elétrica,2025-03-01 05:52:26
+P00366,M020,2025-06-11 02:35:45,203,Planejada,Vibração excessiva,2025-06-11 05:58:45
+P00367,M013,2025-06-17 18:01:41,279,Não planejada,Falha elétrica,2025-06-17 22:40:41
+P00368,M015,2025-04-12 10:01:55,311,Planejada,Vibração excessiva,2025-04-12 15:12:55
+P00369,M012,2025-09-18 21:09:13,16,Não planejada,Manutenção,2025-09-18 21:25:13
+P00370,M012,2025-12-22 12:31:43,74,Não planejada,Falha elétrica,2025-12-22 13:45:43
+P00371,M006,2025-11-18 15:01:38,150,Planejada,Manutenção,2025-11-18 17:31:38
+P00372,M002,2025-12-03 05:48:17,82,Não planejada,Ajuste operacional,2025-12-03 07:10:17
+P00373,M002,2025-07-28 07:55:38,309,Planejada,Manutenção,2025-07-28 13:04:38
+P00374,M017,2025-10-25 04:06:25,198,Planejada,Manutenção,2025-10-25 07:24:25
+P00375,M008,2025-03-18 06:31:06,115,Planejada,Vibração excessiva,2025-03-18 08:26:06
+P00376,M013,2025-01-06 20:36:06,48,Não planejada,Superaquecimento,2025-01-06 21:24:06
+P00377,M019,2025-02-15 02:30:20,284,Não planejada,Falta de matéria-prima,2025-02-15 07:14:20
+P00378,M014,2025-10-29 22:43:46,253,Não planejada,Ajuste operacional,2025-10-30 02:56:46
+P00379,M010,2025-12-02 19:45:09,167,Não planejada,Superaquecimento,2025-12-02 22:32:09
+P00380,M010,2025-06-27 16:38:58,231,Planejada,Falta de matéria-prima,2025-06-27 20:29:58
+P00381,M016,2025-12-11 00:08:57,65,Não planejada,Falta de matéria-prima,2025-12-11 01:13:57
+P00382,M017,2025-02-27 07:43:27,306,Não planejada,Manutenção,2025-02-27 12:49:27
+P00383,M013,2025-05-15 22:37:50,250,Não planejada,Manutenção,2025-05-16 02:47:50
+P00384,M020,2025-10-24 08:32:36,288,Não planejada,Falha elétrica,2025-10-24 13:20:36
+P00385,M007,2025-02-04 16:36:04,303,Não planejada,Falha elétrica,2025-02-04 21:39:04
+P00386,M001,2025-04-22 13:20:43,262,Não planejada,Manutenção,2025-04-22 17:42:43
+P00387,M001,2025-12-06 14:36:14,41,Planejada,Falta de matéria-prima,2025-12-06 15:17:14
+P00388,M011,2025-04-17 15:47:12,42,Não planejada,Manutenção,2025-04-17 16:29:12
+P00389,M014,2025-05-09 16:01:21,253,Planejada,Ajuste operacional,2025-05-09 20:14:21
+P00390,M019,2025-11-04 11:19:04,202,Não planejada,Falta de matéria-prima,2025-11-04 14:41:04
+P00391,M004,2025-05-31 02:40:54,116,Não planejada,Falha elétrica,2025-05-31 04:36:54
+P00392,M015,2025-04-23 16:00:46,319,Planejada,Superaquecimento,2025-04-23 21:19:46
+P00393,M004,2025-10-08 05:36:54,136,Não planejada,Vibração excessiva,2025-10-08 07:52:54
+P00394,M012,2025-09-17 17:47:17,187,Planejada,Vibração excessiva,2025-09-17 20:54:17
+P00395,M001,2025-01-28 13:45:44,243,Não planejada,Vibração excessiva,2025-01-28 17:48:44
+P00396,M016,2025-04-09 02:31:08,185,Planejada,Ajuste operacional,2025-04-09 05:36:08
+P00397,M016,2025-04-27 12:49:41,321,Não planejada,Falta de matéria-prima,2025-04-27 18:10:41
+P00398,M002,2025-05-31 20:03:57,250,Planejada,Vibração excessiva,2025-06-01 00:13:57
+P00399,M014,2025-10-17 15:56:42,250,Planejada,Falta de matéria-prima,2025-10-17 20:06:42
+P00400,M017,2025-12-13 10:50:35,228,Planejada,Superaquecimento,2025-12-13 14:38:35
+P00401,M009,2025-11-19 20:31:34,72,Planejada,Ajuste operacional,2025-11-19 21:43:34
+P00402,M019,2025-09-23 14:21:58,104,Não planejada,Manutenção,2025-09-23 16:05:58
+P00403,M010,2025-01-25 15:52:07,218,Planejada,Vibração excessiva,2025-01-25 19:30:07
+P00404,M007,2025-10-04 12:51:40,29,Planejada,Falta de matéria-prima,2025-10-04 13:20:40
+P00405,M007,2025-09-28 17:20:57,53,Não planejada,Ajuste operacional,2025-09-28 18:13:57
+P00406,M001,2025-09-08 18:23:03,19,Planejada,Superaquecimento,2025-09-08 18:42:03
+P00407,M006,2025-08-14 02:35:57,233,Não planejada,Falta de matéria-prima,2025-08-14 06:28:57
+P00408,M020,2025-11-04 10:20:00,350,Planejada,Manutenção,2025-11-04 16:10:00
+P00409,M007,2025-07-09 13:52:57,251,Não planejada,Falha elétrica,2025-07-09 18:03:57
+P00410,M014,2025-05-25 07:51:59,182,Não planejada,Falha elétrica,2025-05-25 10:53:59
+P00411,M018,2025-02-15 13:56:14,314,Não planejada,Superaquecimento,2025-02-15 19:10:14
+P00412,M015,2025-08-24 01:23:35,324,Não planejada,Manutenção,2025-08-24 06:47:35
+P00413,M001,2025-06-16 07:21:43,211,Planejada,Ajuste operacional,2025-06-16 10:52:43
+P00414,M006,2025-04-13 05:53:02,56,Não planejada,Falha elétrica,2025-04-13 06:49:02
+P00415,M010,2025-07-16 19:05:30,187,Não planejada,Ajuste operacional,2025-07-16 22:12:30
+P00416,M016,2025-10-25 03:46:52,303,Não planejada,Falta de matéria-prima,2025-10-25 08:49:52
+P00417,M008,2025-01-04 19:11:00,256,Planejada,Falta de matéria-prima,2025-01-04 23:27:00
+P00418,M007,2025-04-24 17:43:12,71,Não planejada,Manutenção,2025-04-24 18:54:12
+P00419,M005,2025-09-07 18:21:24,34,Planejada,Falta de matéria-prima,2025-09-07 18:55:24
+P00420,M002,2025-09-24 16:51:14,280,Não planejada,Manutenção,2025-09-24 21:31:14
+P00421,M014,2025-05-02 05:54:13,163,Não planejada,Falta de matéria-prima,2025-05-02 08:37:13
+P00422,M019,2025-12-06 00:53:53,50,Planejada,Manutenção,2025-12-06 01:43:53
+P00423,M002,2025-10-17 00:51:17,352,Planejada,Superaquecimento,2025-10-17 06:43:17
+P00424,M008,2025-09-20 17:51:52,24,Não planejada,Ajuste operacional,2025-09-20 18:15:52
+P00425,M004,2025-06-08 05:32:15,47,Não planejada,Superaquecimento,2025-06-08 06:19:15
+P00426,M013,2025-06-07 22:06:01,177,Não planejada,Vibração excessiva,2025-06-08 01:03:01
+P00427,M020,2025-05-28 10:03:28,186,Planejada,Falta de matéria-prima,2025-05-28 13:09:28
+P00428,M007,2025-11-20 06:16:46,15,Não planejada,Manutenção,2025-11-20 06:31:46
+P00429,M001,2025-04-20 05:17:47,179,Não planejada,Falta de matéria-prima,2025-04-20 08:16:47
+P00430,M019,2025-10-17 00:21:35,32,Planejada,Falta de matéria-prima,2025-10-17 00:53:35
+P00431,M014,2025-06-22 02:31:58,219,Não planejada,Superaquecimento,2025-06-22 06:10:58
+P00432,M002,2025-11-16 14:01:34,260,Não planejada,Falta de matéria-prima,2025-11-16 18:21:34
+P00433,M006,2025-08-19 14:51:28,303,Não planejada,Falha elétrica,2025-08-19 19:54:28
+P00434,M009,2025-09-01 17:59:02,241,Planejada,Falta de matéria-prima,2025-09-01 22:00:02
+P00435,M012,2025-01-12 14:24:03,21,Não planejada,Manutenção,2025-01-12 14:45:03
+P00436,M002,2025-11-18 14:23:04,28,Não planejada,Falha elétrica,2025-11-18 14:51:04
+P00437,M011,2025-10-30 06:32:13,353,Não planejada,Ajuste operacional,2025-10-30 12:25:13
+P00438,M015,2025-07-22 15:00:52,65,Planejada,Falha elétrica,2025-07-22 16:05:52
+P00439,M005,2025-01-19 23:38:05,117,Não planejada,Vibração excessiva,2025-01-20 01:35:05
+P00440,M006,2025-11-30 07:06:38,12,Não planejada,Vibração excessiva,2025-11-30 07:18:38
+P00441,M015,2025-04-21 02:36:14,187,Não planejada,Falta de matéria-prima,2025-04-21 05:43:14
+P00442,M006,2025-08-20 19:03:16,317,Não planejada,Falta de matéria-prima,2025-08-21 00:20:16
+P00443,M001,2025-06-02 00:32:53,168,Não planejada,Superaquecimento,2025-06-02 03:20:53
+P00444,M005,2025-04-19 15:36:19,84,Não planejada,Falha elétrica,2025-04-19 17:00:19
+P00445,M015,2025-11-10 00:02:36,339,Planejada,Falta de matéria-prima,2025-11-10 05:41:36
+P00446,M009,2025-08-19 14:09:25,225,Não planejada,Falta de matéria-prima,2025-08-19 17:54:25
+P00447,M017,2025-10-21 14:48:15,202,Planejada,Falha elétrica,2025-10-21 18:10:15
+P00448,M009,2025-01-10 01:56:25,21,Planejada,Falha elétrica,2025-01-10 02:17:25
+P00449,M018,2025-08-03 16:51:32,270,Não planejada,Ajuste operacional,2025-08-03 21:21:32
+P00450,M017,2025-12-14 20:06:28,105,Não planejada,Manutenção,2025-12-14 21:51:28
+P00451,M018,2025-10-26 23:32:30,86,Planejada,Falta de matéria-prima,2025-10-27 00:58:30
+P00452,M018,2025-09-17 17:25:40,265,Não planejada,Superaquecimento,2025-09-17 21:50:40
+P00453,M017,2025-04-17 20:34:54,263,Planejada,Falta de matéria-prima,2025-04-18 00:57:54
+P00454,M001,2025-10-23 05:23:40,97,Não planejada,Superaquecimento,2025-10-23 07:00:40
+P00455,M010,2025-01-16 23:21:21,161,Não planejada,Superaquecimento,2025-01-17 02:02:21
+P00456,M011,2025-08-23 20:46:48,245,Não planejada,Falta de matéria-prima,2025-08-24 00:51:48
+P00457,M014,2025-06-15 14:26:26,283,Planejada,Vibração excessiva,2025-06-15 19:09:26
+P00458,M010,2025-07-08 23:52:06,51,Planejada,Manutenção,2025-07-09 00:43:06
+P00459,M014,2025-03-11 01:49:48,237,Não planejada,Falha elétrica,2025-03-11 05:46:48
+P00460,M011,2025-08-16 08:08:37,294,Planejada,Manutenção,2025-08-16 13:02:37
+P00461,M011,2025-11-07 12:06:37,78,Não planejada,Falta de matéria-prima,2025-11-07 13:24:37
+P00462,M012,2025-07-30 01:30:47,300,Não planejada,Falta de matéria-prima,2025-07-30 06:30:47
+P00463,M020,2025-04-23 21:09:09,180,Planejada,Manutenção,2025-04-24 00:09:09
+P00464,M001,2025-09-06 16:35:08,336,Planejada,Falta de matéria-prima,2025-09-06 22:11:08
+P00465,M005,2025-12-17 18:34:42,274,Planejada,Manutenção,2025-12-17 23:08:42
+P00466,M012,2025-08-23 22:04:00,18,Planejada,Falha elétrica,2025-08-23 22:22:00
+P00467,M019,2025-07-19 21:31:20,172,Não planejada,Falta de matéria-prima,2025-07-20 00:23:20
+P00468,M013,2025-08-24 14:17:35,328,Não planejada,Manutenção,2025-08-24 19:45:35
+P00469,M014,2025-07-25 07:27:07,50,Não planejada,Falha elétrica,2025-07-25 08:17:07
+P00470,M020,2025-03-04 19:43:54,304,Não planejada,Ajuste operacional,2025-03-05 00:47:54
+P00471,M009,2025-02-02 17:57:35,212,Não planejada,Falta de matéria-prima,2025-02-02 21:29:35
+P00472,M011,2025-03-17 12:18:25,289,Não planejada,Falha elétrica,2025-03-17 17:07:25
+P00473,M008,2025-04-08 22:14:35,257,Não planejada,Falta de matéria-prima,2025-04-09 02:31:35
+P00474,M012,2025-12-07 12:33:13,174,Planejada,Ajuste operacional,2025-12-07 15:27:13
+P00475,M005,2025-02-12 13:46:45,253,Não planejada,Vibração excessiva,2025-02-12 17:59:45
+P00476,M008,2025-05-01 06:32:29,304,Não planejada,Manutenção,2025-05-01 11:36:29
+P00477,M009,2025-07-27 10:54:13,288,Planejada,Vibração excessiva,2025-07-27 15:42:13
+P00478,M019,2025-09-25 08:12:33,79,Não planejada,Manutenção,2025-09-25 09:31:33
+P00479,M008,2025-02-11 23:19:35,201,Não planejada,Superaquecimento,2025-02-12 02:40:35
+P00480,M001,2025-09-21 05:55:29,121,Não planejada,Superaquecimento,2025-09-21 07:56:29
+P00481,M006,2025-09-21 04:09:52,16,Planejada,Falta de matéria-prima,2025-09-21 04:25:52
+P00482,M001,2025-10-19 00:33:38,128,Não planejada,Superaquecimento,2025-10-19 02:41:38
+P00483,M013,2025-02-22 03:09:03,309,Não planejada,Falta de matéria-prima,2025-02-22 08:18:03
+P00484,M007,2025-09-19 06:50:48,51,Não planejada,Falha elétrica,2025-09-19 07:41:48
+P00485,M013,2025-12-04 08:31:35,86,Planejada,Vibração excessiva,2025-12-04 09:57:35
+P00486,M014,2025-11-20 04:36:45,204,Não planejada,Vibração excessiva,2025-11-20 08:00:45
+P00487,M014,2025-03-29 00:48:11,134,Não planejada,Falta de matéria-prima,2025-03-29 03:02:11
+P00488,M014,2025-04-20 13:29:19,290,Planejada,Manutenção,2025-04-20 18:19:19
+P00489,M005,2025-08-09 22:39:57,197,Planejada,Vibração excessiva,2025-08-10 01:56:57
+P00490,M005,2025-07-07 02:52:23,143,Não planejada,Vibração excessiva,2025-07-07 05:15:23
+P00491,M012,2025-06-02 01:45:39,25,Não planejada,Superaquecimento,2025-06-02 02:10:39
+P00492,M007,2025-03-11 04:35:08,272,Não planejada,Vibração excessiva,2025-03-11 09:07:08
+P00493,M010,2025-01-21 02:20:33,61,Não planejada,Vibração excessiva,2025-01-21 03:21:33
+P00494,M007,2025-04-14 16:04:31,59,Não planejada,Manutenção,2025-04-14 17:03:31
+P00495,M005,2025-03-06 04:18:32,264,Não planejada,Falha elétrica,2025-03-06 08:42:32
+P00496,M004,2025-05-10 07:01:51,122,Não planejada,Manutenção,2025-05-10 09:03:51
+P00497,M007,2025-01-13 03:58:15,183,Planejada,Superaquecimento,2025-01-13 07:01:15
+P00498,M005,2025-01-01 04:30:11,109,Não planejada,Superaquecimento,2025-01-01 06:19:11
+P00499,M004,2025-11-05 05:36:21,148,Não planejada,Falha elétrica,2025-11-05 08:04:21
+P00500,M015,2025-09-02 16:11:33,277,Não planejada,Vibração excessiva,2025-09-02 20:48:33
+P00501,M005,2025-04-24 15:06:47,200,Não planejada,Superaquecimento,2025-04-24 18:26:47
+P00502,M007,2025-03-27 01:34:25,263,Não planejada,Superaquecimento,2025-03-27 05:57:25
+P00503,M015,2025-02-21 09:30:50,186,Não planejada,Manutenção,2025-02-21 12:36:50
+P00504,M018,2025-06-05 10:36:28,161,Planejada,Vibração excessiva,2025-06-05 13:17:28
+P00505,M003,2025-11-04 09:33:46,91,Planejada,Superaquecimento,2025-11-04 11:04:46
+P00506,M019,2025-09-06 03:11:06,20,Não planejada,Vibração excessiva,2025-09-06 03:31:06
+P00507,M013,2025-03-28 23:19:21,300,Não planejada,Ajuste operacional,2025-03-29 04:19:21
+P00508,M004,2025-09-01 22:04:36,277,Não planejada,Superaquecimento,2025-09-02 02:41:36
+P00509,M018,2025-09-23 19:47:56,180,Não planejada,Falha elétrica,2025-09-23 22:47:56
+P00510,M011,2025-05-15 03:43:42,14,Não planejada,Ajuste operacional,2025-05-15 03:57:42
+P00511,M015,2025-12-12 06:26:22,10,Não planejada,Falta de matéria-prima,2025-12-12 06:36:22
+P00512,M006,2025-06-21 06:36:50,185,Não planejada,Vibração excessiva,2025-06-21 09:41:50
+P00513,M001,2025-06-02 02:33:39,333,Planejada,Vibração excessiva,2025-06-02 08:06:39
+P00514,M012,2025-07-11 16:22:29,167,Não planejada,Falha elétrica,2025-07-11 19:09:29
+P00515,M012,2025-08-18 15:36:23,95,Planejada,Manutenção,2025-08-18 17:11:23
+P00516,M007,2025-04-27 02:15:54,264,Não planejada,Manutenção,2025-04-27 06:39:54
+P00517,M012,2025-04-28 13:37:41,320,Planejada,Manutenção,2025-04-28 18:57:41
+P00518,M008,2025-11-30 10:32:19,113,Não planejada,Falha elétrica,2025-11-30 12:25:19
+P00519,M019,2025-07-16 04:18:49,304,Não planejada,Falha elétrica,2025-07-16 09:22:49
+P00520,M010,2025-11-12 12:31:13,141,Planejada,Ajuste operacional,2025-11-12 14:52:13
+P00521,M006,2025-06-23 22:55:36,235,Não planejada,Vibração excessiva,2025-06-24 02:50:36
+P00522,M012,2025-09-08 08:57:29,48,Planejada,Ajuste operacional,2025-09-08 09:45:29
+P00523,M013,2025-09-19 22:00:54,77,Planejada,Manutenção,2025-09-19 23:17:54
+P00524,M020,2025-03-20 11:09:39,106,Planejada,Ajuste operacional,2025-03-20 12:55:39
+P00525,M012,2025-11-23 06:43:57,38,Não planejada,Superaquecimento,2025-11-23 07:21:57
+P00526,M012,2025-02-11 05:28:59,93,Não planejada,Manutenção,2025-02-11 07:01:59
+P00527,M020,2025-09-30 05:57:03,271,Não planejada,Manutenção,2025-09-30 10:28:03
+P00528,M017,2025-06-30 07:29:28,162,Não planejada,Vibração excessiva,2025-06-30 10:11:28
+P00529,M015,2025-05-01 17:56:46,341,Planejada,Vibração excessiva,2025-05-01 23:37:46
+P00530,M010,2025-12-01 12:01:14,259,Não planejada,Manutenção,2025-12-01 16:20:14
+P00531,M008,2025-02-28 15:05:49,328,Planejada,Falta de matéria-prima,2025-02-28 20:33:49
+P00532,M017,2025-09-12 08:07:56,246,Não planejada,Superaquecimento,2025-09-12 12:13:56
+P00533,M019,2025-03-27 00:36:15,141,Não planejada,Manutenção,2025-03-27 02:57:15
+P00534,M010,2025-08-24 12:06:14,185,Não planejada,Manutenção,2025-08-24 15:11:14
+P00535,M002,2025-09-13 04:19:14,69,Não planejada,Manutenção,2025-09-13 05:28:14
+P00536,M006,2025-08-21 23:15:38,169,Planejada,Ajuste operacional,2025-08-22 02:04:38
+P00537,M009,2025-07-20 14:12:30,165,Planejada,Falta de matéria-prima,2025-07-20 16:57:30
+P00538,M019,2025-11-13 17:20:29,32,Planejada,Superaquecimento,2025-11-13 17:52:29
+P00539,M014,2025-07-12 15:42:47,336,Planejada,Falha elétrica,2025-07-12 21:18:47
+P00540,M014,2025-08-14 18:06:27,132,Planejada,Manutenção,2025-08-14 20:18:27
+P00541,M015,2025-10-26 19:18:46,287,Não planejada,Ajuste operacional,2025-10-27 00:05:46
+P00542,M016,2025-12-16 00:44:44,51,Não planejada,Superaquecimento,2025-12-16 01:35:44
+P00543,M008,2025-05-18 07:28:44,316,Planejada,Manutenção,2025-05-18 12:44:44
+P00544,M015,2025-03-21 18:50:51,227,Não planejada,Manutenção,2025-03-21 22:37:51
+P00545,M004,2025-07-04 05:19:39,118,Planejada,Superaquecimento,2025-07-04 07:17:39
+P00546,M005,2025-11-08 00:18:37,138,Não planejada,Ajuste operacional,2025-11-08 02:36:37
+P00547,M012,2025-03-17 13:15:57,231,Não planejada,Falha elétrica,2025-03-17 17:06:57
+P00548,M009,2025-12-15 09:20:25,258,Não planejada,Superaquecimento,2025-12-15 13:38:25
+P00549,M002,2025-11-22 22:19:09,343,Não planejada,Vibração excessiva,2025-11-23 04:02:09
+P00550,M017,2025-10-24 07:01:25,37,Planejada,Falha elétrica,2025-10-24 07:38:25
+P00551,M016,2025-06-06 06:53:48,11,Planejada,Superaquecimento,2025-06-06 07:04:48
+P00552,M016,2025-11-21 00:34:43,76,Não planejada,Manutenção,2025-11-21 01:50:43
+P00553,M007,2025-09-28 21:00:56,163,Planejada,Ajuste operacional,2025-09-28 23:43:56
+P00554,M007,2025-10-08 12:13:16,264,Planejada,Falta de matéria-prima,2025-10-08 16:37:16
+P00555,M012,2025-06-12 22:41:17,68,Não planejada,Vibração excessiva,2025-06-12 23:49:17
+P00556,M013,2025-07-12 12:00:39,118,Não planejada,Falha elétrica,2025-07-12 13:58:39
+P00557,M003,2025-09-26 05:59:56,265,Não planejada,Manutenção,2025-09-26 10:24:56
+P00558,M001,2025-05-22 19:50:02,169,Planejada,Falha elétrica,2025-05-22 22:39:02
+P00559,M008,2025-06-10 14:57:17,270,Não planejada,Falta de matéria-prima,2025-06-10 19:27:17
+P00560,M004,2025-06-28 00:30:24,108,Não planejada,Vibração excessiva,2025-06-28 02:18:24
+P00561,M011,2025-04-04 19:50:56,182,Planejada,Manutenção,2025-04-04 22:52:56
+P00562,M019,2025-07-31 03:37:28,138,Não planejada,Ajuste operacional,2025-07-31 05:55:28
+P00563,M001,2025-01-20 05:26:28,151,Planejada,Falha elétrica,2025-01-20 07:57:28
+P00564,M003,2025-12-01 12:51:59,348,Não planejada,Falha elétrica,2025-12-01 18:39:59
+P00565,M015,2025-05-20 13:53:07,314,Não planejada,Falta de matéria-prima,2025-05-20 19:07:07
+P00566,M007,2025-08-26 02:12:17,243,Não planejada,Ajuste operacional,2025-08-26 06:15:17
+P00567,M013,2025-07-03 05:49:34,242,Não planejada,Ajuste operacional,2025-07-03 09:51:34
+P00568,M014,2025-07-25 01:26:29,105,Planejada,Falta de matéria-prima,2025-07-25 03:11:29
+P00569,M004,2025-08-15 11:04:39,293,Não planejada,Falta de matéria-prima,2025-08-15 15:57:39
+P00570,M019,2025-11-01 11:57:55,138,Não planejada,Falta de matéria-prima,2025-11-01 14:15:55
+P00571,M016,2025-12-21 08:59:37,76,Planejada,Superaquecimento,2025-12-21 10:15:37
+P00572,M020,2025-01-31 19:40:48,55,Não planejada,Ajuste operacional,2025-01-31 20:35:48
+P00573,M007,2025-04-23 13:57:08,337,Planejada,Falta de matéria-prima,2025-04-23 19:34:08
+P00574,M005,2025-05-26 20:29:24,151,Planejada,Superaquecimento,2025-05-26 23:00:24
+P00575,M005,2025-10-19 12:17:48,115,Planejada,Superaquecimento,2025-10-19 14:12:48
+P00576,M004,2025-05-05 17:38:50,56,Planejada,Falta de matéria-prima,2025-05-05 18:34:50
+P00577,M016,2025-03-25 15:39:40,289,Não planejada,Falha elétrica,2025-03-25 20:28:40
+P00578,M010,2025-01-06 02:14:30,227,Não planejada,Ajuste operacional,2025-01-06 06:01:30
+P00579,M009,2025-01-28 11:46:28,348,Não planejada,Ajuste operacional,2025-01-28 17:34:28
+P00580,M004,2025-04-18 12:55:47,55,Não planejada,Ajuste operacional,2025-04-18 13:50:47
+P00581,M013,2025-01-30 08:50:24,326,Não planejada,Falha elétrica,2025-01-30 14:16:24
+P00582,M013,2025-07-20 00:56:13,146,Não planejada,Vibração excessiva,2025-07-20 03:22:13
+P00583,M017,2025-08-10 21:34:52,133,Não planejada,Ajuste operacional,2025-08-10 23:47:52
+P00584,M001,2025-10-19 22:07:23,190,Planejada,Manutenção,2025-10-20 01:17:23
+P00585,M002,2025-09-01 08:26:08,135,Planejada,Ajuste operacional,2025-09-01 10:41:08
+P00586,M017,2025-02-06 02:12:06,228,Não planejada,Vibração excessiva,2025-02-06 06:00:06
+P00587,M017,2025-08-07 13:10:30,214,Planejada,Falta de matéria-prima,2025-08-07 16:44:30
+P00588,M010,2025-09-12 21:47:21,20,Não planejada,Falta de matéria-prima,2025-09-12 22:07:21
+P00589,M009,2025-02-28 19:20:20,15,Planejada,Falta de matéria-prima,2025-02-28 19:35:20
+P00590,M012,2025-07-04 22:27:44,321,Não planejada,Ajuste operacional,2025-07-05 03:48:44
+P00591,M001,2025-12-26 01:08:55,279,Planejada,Superaquecimento,2025-12-26 05:47:55
+P00592,M017,2025-04-25 05:31:22,276,Planejada,Ajuste operacional,2025-04-25 10:07:22
+P00593,M013,2025-05-17 12:24:02,353,Não planejada,Vibração excessiva,2025-05-17 18:17:02
+P00594,M020,2025-08-02 04:33:00,280,Não planejada,Manutenção,2025-08-02 09:13:00
+P00595,M016,2025-06-30 08:04:47,46,Não planejada,Superaquecimento,2025-06-30 08:50:47
+P00596,M018,2025-06-06 12:39:27,143,Não planejada,Falta de matéria-prima,2025-06-06 15:02:27
+P00597,M004,2025-01-22 10:08:23,23,Não planejada,Falha elétrica,2025-01-22 10:31:23
+P00598,M003,2025-08-15 10:09:30,10,Planejada,Falta de matéria-prima,2025-08-15 10:19:30
+P00599,M013,2025-05-25 01:47:17,312,Planejada,Superaquecimento,2025-05-25 06:59:17
+P00600,M004,2025-05-08 04:32:03,29,Não planejada,Superaquecimento,2025-05-08 05:01:03
+P00601,M019,2025-11-21 19:51:07,160,Planejada,Ajuste operacional,2025-11-21 22:31:07
+P00602,M005,2025-07-13 05:43:17,101,Não planejada,Falha elétrica,2025-07-13 07:24:17
+P00603,M008,2025-08-04 02:21:27,348,Não planejada,Ajuste operacional,2025-08-04 08:09:27
+P00604,M016,2025-07-07 13:52:34,227,Não planejada,Manutenção,2025-07-07 17:39:34
+P00605,M018,2025-09-22 14:24:42,234,Não planejada,Falta de matéria-prima,2025-09-22 18:18:42
+P00606,M008,2025-06-14 09:09:10,358,Não planejada,Superaquecimento,2025-06-14 15:07:10
+P00607,M012,2025-12-07 04:58:42,233,Não planejada,Falha elétrica,2025-12-07 08:51:42
+P00608,M010,2025-06-30 06:21:39,23,Planejada,Ajuste operacional,2025-06-30 06:44:39
+P00609,M020,2025-08-17 23:43:53,291,Não planejada,Superaquecimento,2025-08-18 04:34:53
+P00610,M004,2025-05-21 04:40:55,18,Planejada,Vibração excessiva,2025-05-21 04:58:55
+P00611,M020,2025-12-26 05:19:54,331,Planejada,Manutenção,2025-12-26 10:50:54
+P00612,M004,2025-10-16 17:13:28,284,Planejada,Falha elétrica,2025-10-16 21:57:28
+P00613,M008,2025-09-25 22:08:26,265,Não planejada,Superaquecimento,2025-09-26 02:33:26
+P00614,M011,2025-11-26 15:01:26,184,Planejada,Manutenção,2025-11-26 18:05:26
+P00615,M011,2025-02-13 02:12:21,82,Não planejada,Falha elétrica,2025-02-13 03:34:21
+P00616,M019,2025-11-15 21:44:47,37,Não planejada,Vibração excessiva,2025-11-15 22:21:47
+P00617,M005,2025-02-02 10:05:30,262,Não planejada,Falta de matéria-prima,2025-02-02 14:27:30
+P00618,M017,2025-08-15 13:57:15,287,Planejada,Vibração excessiva,2025-08-15 18:44:15
+P00619,M018,2025-01-23 03:01:55,285,Planejada,Manutenção,2025-01-23 07:46:55
+P00620,M003,2025-02-09 06:43:45,256,Planejada,Ajuste operacional,2025-02-09 10:59:45
+P00621,M020,2025-01-28 17:11:02,190,Não planejada,Vibração excessiva,2025-01-28 20:21:02
+P00622,M020,2025-08-05 10:48:41,317,Não planejada,Superaquecimento,2025-08-05 16:05:41
+P00623,M020,2025-07-24 17:59:59,276,Não planejada,Superaquecimento,2025-07-24 22:35:59
+P00624,M010,2025-04-07 16:19:34,256,Planejada,Manutenção,2025-04-07 20:35:34
+P00625,M004,2025-09-11 04:23:40,57,Planejada,Falta de matéria-prima,2025-09-11 05:20:40
+P00626,M015,2025-10-25 13:38:33,183,Planejada,Superaquecimento,2025-10-25 16:41:33
+P00627,M011,2025-04-29 01:28:34,345,Não planejada,Superaquecimento,2025-04-29 07:13:34
+P00628,M020,2025-11-26 07:19:43,82,Não planejada,Ajuste operacional,2025-11-26 08:41:43
+P00629,M012,2025-06-26 22:34:13,178,Planejada,Manutenção,2025-06-27 01:32:13
+P00630,M004,2025-01-10 00:58:42,128,Não planejada,Superaquecimento,2025-01-10 03:06:42
+P00631,M012,2025-06-27 00:25:42,142,Não planejada,Manutenção,2025-06-27 02:47:42
+P00632,M020,2025-01-28 00:34:53,236,Planejada,Vibração excessiva,2025-01-28 04:30:53
+P00633,M013,2025-12-15 08:13:06,225,Não planejada,Vibração excessiva,2025-12-15 11:58:06
+P00634,M020,2025-01-19 09:31:58,146,Não planejada,Manutenção,2025-01-19 11:57:58
+P00635,M013,2025-01-08 05:45:39,163,Não planejada,Falha elétrica,2025-01-08 08:28:39
+P00636,M018,2025-01-10 23:23:48,355,Não planejada,Superaquecimento,2025-01-11 05:18:48
+P00637,M002,2025-08-17 03:04:51,238,Não planejada,Falta de matéria-prima,2025-08-17 07:02:51
+P00638,M020,2025-01-22 17:40:32,94,Não planejada,Falta de matéria-prima,2025-01-22 19:14:32
+P00639,M006,2025-06-03 15:32:10,307,Não planejada,Manutenção,2025-06-03 20:39:10
+P00640,M017,2025-05-15 13:52:17,133,Não planejada,Falta de matéria-prima,2025-05-15 16:05:17
+P00641,M018,2025-08-15 19:10:22,30,Planejada,Superaquecimento,2025-08-15 19:40:22
+P00642,M008,2025-10-02 15:18:22,89,Planejada,Falta de matéria-prima,2025-10-02 16:47:22
+P00643,M001,2025-03-04 08:58:11,340,Não planejada,Vibração excessiva,2025-03-04 14:38:11
+P00644,M007,2025-01-13 12:41:13,244,Não planejada,Manutenção,2025-01-13 16:45:13
+P00645,M018,2025-08-12 08:26:07,191,Não planejada,Falha elétrica,2025-08-12 11:37:07
+P00646,M014,2025-08-23 01:23:53,23,Planejada,Ajuste operacional,2025-08-23 01:46:53
+P00647,M019,2025-12-06 00:08:18,116,Não planejada,Vibração excessiva,2025-12-06 02:04:18
+P00648,M012,2025-09-15 16:20:25,145,Não planejada,Falta de matéria-prima,2025-09-15 18:45:25
+P00649,M017,2025-09-11 07:30:32,338,Não planejada,Manutenção,2025-09-11 13:08:32
+P00650,M009,2025-07-31 22:25:46,335,Não planejada,Falha elétrica,2025-08-01 04:00:46
+P00651,M005,2025-01-31 18:20:35,63,Não planejada,Vibração excessiva,2025-01-31 19:23:35
+P00652,M012,2025-10-27 07:57:50,169,Planejada,Ajuste operacional,2025-10-27 10:46:50
+P00653,M007,2025-01-08 17:23:01,263,Não planejada,Manutenção,2025-01-08 21:46:01
+P00654,M015,2025-12-29 06:20:17,210,Planejada,Falha elétrica,2025-12-29 09:50:17
+P00655,M014,2025-02-26 07:28:08,333,Não planejada,Vibração excessiva,2025-02-26 13:01:08
+P00656,M013,2025-10-28 01:23:19,305,Não planejada,Vibração excessiva,2025-10-28 06:28:19
+P00657,M013,2025-03-07 13:02:11,146,Não planejada,Superaquecimento,2025-03-07 15:28:11
+P00658,M007,2025-11-24 00:00:50,209,Não planejada,Superaquecimento,2025-11-24 03:29:50
+P00659,M012,2025-07-30 09:50:35,177,Planejada,Manutenção,2025-07-30 12:47:35
+P00660,M015,2025-10-11 17:22:49,109,Não planejada,Ajuste operacional,2025-10-11 19:11:49
+P00661,M020,2025-12-25 18:10:43,303,Planejada,Falha elétrica,2025-12-25 23:13:43
+P00662,M016,2025-03-14 01:16:30,244,Não planejada,Vibração excessiva,2025-03-14 05:20:30
+P00663,M012,2025-05-07 14:03:48,142,Não planejada,Ajuste operacional,2025-05-07 16:25:48
+P00664,M002,2025-08-09 04:16:09,326,Não planejada,Ajuste operacional,2025-08-09 09:42:09
+P00665,M011,2025-01-17 05:13:30,237,Não planejada,Ajuste operacional,2025-01-17 09:10:30
+P00666,M016,2025-05-01 04:32:31,21,Não planejada,Falta de matéria-prima,2025-05-01 04:53:31
+P00667,M001,2025-10-08 08:45:08,307,Planejada,Falta de matéria-prima,2025-10-08 13:52:08
+P00668,M015,2025-08-03 07:29:50,194,Não planejada,Falta de matéria-prima,2025-08-03 10:43:50
+P00669,M007,2025-08-24 14:04:38,288,Não planejada,Ajuste operacional,2025-08-24 18:52:38
+P00670,M011,2025-05-28 21:32:30,70,Planejada,Falha elétrica,2025-05-28 22:42:30
+P00671,M020,2025-01-08 15:09:44,11,Não planejada,Falha elétrica,2025-01-08 15:20:44
+P00672,M004,2025-01-25 05:21:14,329,Planejada,Falha elétrica,2025-01-25 10:50:14
+P00673,M012,2025-06-04 14:42:23,27,Não planejada,Ajuste operacional,2025-06-04 15:09:23
+P00674,M019,2025-01-30 04:50:57,71,Não planejada,Superaquecimento,2025-01-30 06:01:57
+P00675,M011,2025-08-12 10:23:58,84,Planejada,Vibração excessiva,2025-08-12 11:47:58
+P00676,M005,2025-01-03 07:36:22,270,Não planejada,Vibração excessiva,2025-01-03 12:06:22
+P00677,M014,2025-09-18 09:13:29,117,Planejada,Ajuste operacional,2025-09-18 11:10:29
+P00678,M008,2025-12-11 06:46:16,62,Não planejada,Superaquecimento,2025-12-11 07:48:16
+P00679,M017,2025-03-30 14:11:17,331,Planejada,Falha elétrica,2025-03-30 19:42:17
+P00680,M015,2025-04-29 01:35:58,103,Planejada,Falha elétrica,2025-04-29 03:18:58
+P00681,M008,2025-10-14 18:05:48,221,Não planejada,Falta de matéria-prima,2025-10-14 21:46:48
+P00682,M009,2025-02-27 21:29:52,18,Não planejada,Falha elétrica,2025-02-27 21:47:52
+P00683,M001,2025-10-24 10:34:13,297,Não planejada,Ajuste operacional,2025-10-24 15:31:13
+P00684,M015,2025-05-13 14:30:16,148,Planejada,Manutenção,2025-05-13 16:58:16
+P00685,M008,2025-02-23 04:40:07,212,Não planejada,Vibração excessiva,2025-02-23 08:12:07
+P00686,M003,2025-08-20 19:04:57,131,Planejada,Superaquecimento,2025-08-20 21:15:57
+P00687,M019,2025-07-08 21:18:22,301,Não planejada,Superaquecimento,2025-07-09 02:19:22
+P00688,M019,2025-05-28 15:25:30,23,Não planejada,Superaquecimento,2025-05-28 15:48:30
+P00689,M003,2025-08-20 18:55:35,53,Não planejada,Falta de matéria-prima,2025-08-20 19:48:35
+P00690,M012,2025-11-30 13:38:24,67,Planejada,Vibração excessiva,2025-11-30 14:45:24
+P00691,M016,2025-04-01 22:11:50,120,Planejada,Ajuste operacional,2025-04-02 00:11:50
+P00692,M012,2025-07-08 15:57:50,286,Planejada,Ajuste operacional,2025-07-08 20:43:50
+P00693,M011,2025-09-05 22:00:19,54,Não planejada,Falha elétrica,2025-09-05 22:54:19
+P00694,M003,2025-04-27 07:50:35,287,Não planejada,Superaquecimento,2025-04-27 12:37:35
+P00695,M008,2025-01-09 06:02:13,268,Não planejada,Ajuste operacional,2025-01-09 10:30:13
+P00696,M011,2025-09-10 15:38:18,257,Não planejada,Falha elétrica,2025-09-10 19:55:18
+P00697,M015,2025-09-06 14:17:26,264,Planejada,Falta de matéria-prima,2025-09-06 18:41:26
+P00698,M007,2025-07-01 10:23:07,76,Não planejada,Superaquecimento,2025-07-01 11:39:07
+P00699,M014,2025-07-17 00:58:32,134,Planejada,Manutenção,2025-07-17 03:12:32
+P00700,M015,2025-10-20 05:31:43,58,Não planejada,Falta de matéria-prima,2025-10-20 06:29:43
+P00701,M016,2025-06-03 13:15:02,84,Não planejada,Vibração excessiva,2025-06-03 14:39:02
+P00702,M012,2025-09-11 22:14:11,347,Não planejada,Vibração excessiva,2025-09-12 04:01:11
+P00703,M014,2025-12-09 17:27:49,269,Não planejada,Ajuste operacional,2025-12-09 21:56:49
+P00704,M001,2025-11-14 07:21:24,248,Planejada,Superaquecimento,2025-11-14 11:29:24
+P00705,M010,2025-07-02 21:28:42,270,Não planejada,Ajuste operacional,2025-07-03 01:58:42
+P00706,M016,2025-05-26 00:56:47,263,Não planejada,Falha elétrica,2025-05-26 05:19:47
+P00707,M015,2025-01-12 13:46:57,10,Não planejada,Falha elétrica,2025-01-12 13:56:57
+P00708,M003,2025-08-20 10:05:27,231,Planejada,Falta de matéria-prima,2025-08-20 13:56:27
+P00709,M011,2025-12-13 08:07:19,137,Planejada,Superaquecimento,2025-12-13 10:24:19
+P00710,M017,2025-05-29 16:26:17,214,Não planejada,Falta de matéria-prima,2025-05-29 20:00:17
+P00711,M016,2025-10-20 02:16:36,231,Não planejada,Falta de matéria-prima,2025-10-20 06:07:36
+P00712,M020,2025-06-02 12:30:09,179,Planejada,Manutenção,2025-06-02 15:29:09
+P00713,M007,2025-12-27 19:09:58,335,Não planejada,Superaquecimento,2025-12-28 00:44:58
+P00714,M004,2025-10-28 08:02:54,93,Não planejada,Vibração excessiva,2025-10-28 09:35:54
+P00715,M003,2025-10-28 19:41:50,12,Planejada,Ajuste operacional,2025-10-28 19:53:50
+P00716,M008,2025-11-10 03:09:02,119,Planejada,Superaquecimento,2025-11-10 05:08:02
+P00717,M015,2025-07-22 18:14:12,96,Não planejada,Falta de matéria-prima,2025-07-22 19:50:12
+P00718,M003,2025-01-08 03:04:17,193,Planejada,Manutenção,2025-01-08 06:17:17
+P00719,M018,2025-06-28 10:06:10,156,Planejada,Vibração excessiva,2025-06-28 12:42:10
+P00720,M001,2025-09-17 18:59:48,17,Não planejada,Superaquecimento,2025-09-17 19:16:48
+P00721,M018,2025-01-05 00:05:59,347,Não planejada,Superaquecimento,2025-01-05 05:52:59
+P00722,M009,2025-09-15 08:53:55,139,Não planejada,Ajuste operacional,2025-09-15 11:12:55
+P00723,M020,2025-05-20 19:56:19,184,Não planejada,Ajuste operacional,2025-05-20 23:00:19
+P00724,M020,2025-02-24 13:51:56,99,Não planejada,Falha elétrica,2025-02-24 15:30:56
+P00725,M013,2025-12-09 07:12:52,112,Não planejada,Manutenção,2025-12-09 09:04:52
+P00726,M010,2025-07-27 18:40:08,251,Planejada,Vibração excessiva,2025-07-27 22:51:08
+P00727,M012,2025-03-30 12:51:41,115,Não planejada,Manutenção,2025-03-30 14:46:41
+P00728,M010,2025-09-30 10:23:52,292,Não planejada,Vibração excessiva,2025-09-30 15:15:52
+P00729,M012,2025-06-09 08:14:40,145,Planejada,Falha elétrica,2025-06-09 10:39:40
+P00730,M005,2025-04-22 13:01:24,341,Não planejada,Falta de matéria-prima,2025-04-22 18:42:24
+P00731,M001,2025-09-05 12:10:05,104,Não planejada,Manutenção,2025-09-05 13:54:05
+P00732,M020,2025-02-19 05:43:06,358,Não planejada,Ajuste operacional,2025-02-19 11:41:06
+P00733,M009,2025-06-16 03:11:53,169,Não planejada,Ajuste operacional,2025-06-16 06:00:53
+P00734,M009,2025-02-01 02:47:09,336,Não planejada,Superaquecimento,2025-02-01 08:23:09
+P00735,M020,2025-04-08 19:18:46,228,Não planejada,Superaquecimento,2025-04-08 23:06:46
+P00736,M009,2025-07-28 11:25:04,352,Não planejada,Falha elétrica,2025-07-28 17:17:04
+P00737,M010,2025-04-11 23:24:20,245,Não planejada,Falta de matéria-prima,2025-04-12 03:29:20
+P00738,M002,2025-11-25 08:42:32,235,Planejada,Falta de matéria-prima,2025-11-25 12:37:32
+P00739,M017,2025-11-28 19:53:17,319,Não planejada,Falta de matéria-prima,2025-11-29 01:12:17
+P00740,M018,2025-03-20 18:12:29,324,Planejada,Vibração excessiva,2025-03-20 23:36:29
+P00741,M017,2025-05-10 14:15:23,98,Não planejada,Manutenção,2025-05-10 15:53:23
+P00742,M001,2025-09-02 07:46:42,96,Não planejada,Falta de matéria-prima,2025-09-02 09:22:42
+P00743,M019,2025-06-05 14:57:21,159,Não planejada,Ajuste operacional,2025-06-05 17:36:21
+P00744,M017,2025-01-13 05:42:41,324,Não planejada,Vibração excessiva,2025-01-13 11:06:41
+P00745,M002,2025-02-01 01:56:22,351,Não planejada,Manutenção,2025-02-01 07:47:22
+P00746,M017,2025-03-01 16:22:50,143,Não planejada,Ajuste operacional,2025-03-01 18:45:50
+P00747,M006,2025-05-19 18:58:35,158,Não planejada,Ajuste operacional,2025-05-19 21:36:35
+P00748,M005,2025-01-17 00:30:34,29,Não planejada,Superaquecimento,2025-01-17 00:59:34
+P00749,M019,2025-09-19 06:19:08,193,Não planejada,Ajuste operacional,2025-09-19 09:32:08
+P00750,M011,2025-07-05 16:34:32,265,Não planejada,Ajuste operacional,2025-07-05 20:59:32
+P00751,M010,2025-04-03 11:11:27,151,Planejada,Superaquecimento,2025-04-03 13:42:27
+P00752,M015,2025-09-20 07:29:37,166,Não planejada,Superaquecimento,2025-09-20 10:15:37
+P00753,M018,2025-06-20 19:19:26,278,Não planejada,Superaquecimento,2025-06-20 23:57:26
+P00754,M014,2025-10-16 19:38:12,311,Não planejada,Manutenção,2025-10-17 00:49:12
+P00755,M006,2025-12-08 13:34:26,96,Planejada,Ajuste operacional,2025-12-08 15:10:26
+P00756,M004,2025-06-05 09:18:25,207,Não planejada,Ajuste operacional,2025-06-05 12:45:25
+P00757,M018,2025-04-15 01:06:23,181,Não planejada,Manutenção,2025-04-15 04:07:23
+P00758,M010,2025-11-29 08:35:59,328,Não planejada,Superaquecimento,2025-11-29 14:03:59
+P00759,M016,2025-02-05 00:09:01,343,Planejada,Superaquecimento,2025-02-05 05:52:01
+P00760,M002,2025-08-18 14:41:51,342,Planejada,Manutenção,2025-08-18 20:23:51
+P00761,M004,2025-11-16 00:24:34,290,Planejada,Superaquecimento,2025-11-16 05:14:34
+P00762,M019,2025-02-14 02:32:48,211,Não planejada,Ajuste operacional,2025-02-14 06:03:48
+P00763,M018,2025-08-21 13:44:15,206,Não planejada,Falha elétrica,2025-08-21 17:10:15
+P00764,M011,2025-12-23 05:06:58,178,Planejada,Ajuste operacional,2025-12-23 08:04:58
+P00765,M015,2025-11-20 21:13:49,335,Não planejada,Vibração excessiva,2025-11-21 02:48:49
+P00766,M006,2025-07-10 01:44:48,14,Planejada,Falta de matéria-prima,2025-07-10 01:58:48
+P00767,M014,2025-11-24 08:06:21,227,Planejada,Manutenção,2025-11-24 11:53:21
+P00768,M002,2025-01-18 07:42:00,94,Planejada,Ajuste operacional,2025-01-18 09:16:00
+P00769,M015,2025-03-12 10:54:19,32,Não planejada,Ajuste operacional,2025-03-12 11:26:19
+P00770,M008,2025-10-12 17:09:27,317,Não planejada,Ajuste operacional,2025-10-12 22:26:27
+P00771,M019,2025-11-23 23:41:11,306,Não planejada,Manutenção,2025-11-24 04:47:11
+P00772,M003,2025-11-05 09:21:26,180,Não planejada,Superaquecimento,2025-11-05 12:21:26
+P00773,M002,2025-06-01 00:41:12,349,Não planejada,Superaquecimento,2025-06-01 06:30:12
+P00774,M017,2025-03-08 17:09:32,248,Não planejada,Falta de matéria-prima,2025-03-08 21:17:32
+P00775,M010,2025-09-21 18:10:49,67,Não planejada,Vibração excessiva,2025-09-21 19:17:49
+P00776,M009,2025-02-14 13:16:37,261,Não planejada,Manutenção,2025-02-14 17:37:37
+P00777,M012,2025-02-12 06:18:36,217,Planejada,Falta de matéria-prima,2025-02-12 09:55:36
+P00778,M004,2025-05-26 23:56:05,189,Não planejada,Manutenção,2025-05-27 03:05:05
+P00779,M002,2025-03-10 21:53:22,28,Planejada,Falta de matéria-prima,2025-03-10 22:21:22
+P00780,M004,2025-07-12 11:36:19,191,Não planejada,Superaquecimento,2025-07-12 14:47:19
+P00781,M013,2025-03-13 20:17:53,44,Planejada,Falha elétrica,2025-03-13 21:01:53
+P00782,M020,2025-01-20 18:39:55,124,Não planejada,Falta de matéria-prima,2025-01-20 20:43:55
+P00783,M009,2025-04-26 10:10:55,99,Planejada,Falta de matéria-prima,2025-04-26 11:49:55
+P00784,M005,2025-01-19 22:49:21,74,Planejada,Falha elétrica,2025-01-20 00:03:21
+P00785,M009,2025-09-05 04:13:26,32,Não planejada,Falha elétrica,2025-09-05 04:45:26
+P00786,M001,2025-05-24 04:52:13,67,Planejada,Falta de matéria-prima,2025-05-24 05:59:13
+P00787,M014,2025-05-04 05:00:20,329,Planejada,Falta de matéria-prima,2025-05-04 10:29:20
+P00788,M014,2025-11-11 15:38:15,26,Planejada,Falta de matéria-prima,2025-11-11 16:04:15
+P00789,M019,2025-05-28 19:25:35,137,Planejada,Vibração excessiva,2025-05-28 21:42:35
+P00790,M019,2025-11-19 02:35:40,149,Não planejada,Falta de matéria-prima,2025-11-19 05:04:40
+P00791,M011,2025-10-27 00:22:10,344,Não planejada,Superaquecimento,2025-10-27 06:06:10
+P00792,M010,2025-10-29 10:11:46,286,Não planejada,Superaquecimento,2025-10-29 14:57:46
+P00793,M020,2025-08-30 18:18:55,59,Não planejada,Ajuste operacional,2025-08-30 19:17:55
+P00794,M012,2025-11-27 22:31:47,297,Não planejada,Superaquecimento,2025-11-28 03:28:47
+P00795,M020,2025-07-01 19:13:52,355,Não planejada,Vibração excessiva,2025-07-02 01:08:52
+P00796,M014,2025-01-28 08:24:14,35,Planejada,Vibração excessiva,2025-01-28 08:59:14
+P00797,M015,2025-11-25 20:59:12,18,Não planejada,Manutenção,2025-11-25 21:17:12
+P00798,M001,2025-08-07 06:39:27,124,Planejada,Manutenção,2025-08-07 08:43:27
+P00799,M017,2025-09-14 04:39:04,218,Planejada,Superaquecimento,2025-09-14 08:17:04
+P00800,M001,2025-03-08 20:16:59,167,Não planejada,Falta de matéria-prima,2025-03-08 23:03:59
+P00801,M006,2025-08-24 04:41:30,255,Não planejada,Manutenção,2025-08-24 08:56:30
+P00802,M012,2025-02-24 17:33:44,139,Planejada,Vibração excessiva,2025-02-24 19:52:44
+P00803,M017,2025-04-15 02:11:08,96,Planejada,Ajuste operacional,2025-04-15 03:47:08
+P00804,M005,2025-01-27 12:13:03,289,Planejada,Superaquecimento,2025-01-27 17:02:03
+P00805,M005,2025-09-07 14:14:26,286,Planejada,Ajuste operacional,2025-09-07 19:00:26
+P00806,M013,2025-09-09 09:55:38,246,Não planejada,Vibração excessiva,2025-09-09 14:01:38
+P00807,M014,2025-02-22 22:47:55,219,Não planejada,Falta de matéria-prima,2025-02-23 02:26:55
+P00808,M008,2025-10-26 13:02:05,65,Não planejada,Vibração excessiva,2025-10-26 14:07:05
+P00809,M020,2025-01-09 12:06:22,105,Não planejada,Ajuste operacional,2025-01-09 13:51:22
+P00810,M008,2025-06-26 20:46:02,86,Não planejada,Vibração excessiva,2025-06-26 22:12:02
+P00811,M012,2025-07-08 05:19:29,240,Não planejada,Falha elétrica,2025-07-08 09:19:29
+P00812,M009,2025-04-06 19:45:10,184,Não planejada,Manutenção,2025-04-06 22:49:10
+P00813,M010,2025-01-06 09:58:38,139,Planejada,Falha elétrica,2025-01-06 12:17:38
+P00814,M003,2025-08-09 05:38:29,136,Não planejada,Falha elétrica,2025-08-09 07:54:29
+P00815,M011,2025-07-31 14:12:12,172,Não planejada,Vibração excessiva,2025-07-31 17:04:12
+P00816,M004,2025-02-23 09:12:01,139,Não planejada,Ajuste operacional,2025-02-23 11:31:01
+P00817,M001,2025-05-21 05:09:15,176,Não planejada,Ajuste operacional,2025-05-21 08:05:15
+P00818,M006,2025-06-08 04:54:50,141,Não planejada,Manutenção,2025-06-08 07:15:50
+P00819,M004,2025-12-11 17:20:43,168,Não planejada,Ajuste operacional,2025-12-11 20:08:43
+P00820,M007,2025-10-21 10:46:05,117,Planejada,Superaquecimento,2025-10-21 12:43:05
+P00821,M020,2025-05-07 22:33:16,311,Não planejada,Falta de matéria-prima,2025-05-08 03:44:16
+P00822,M011,2025-09-15 06:11:05,186,Não planejada,Vibração excessiva,2025-09-15 09:17:05
+P00823,M011,2025-01-30 18:21:52,300,Planejada,Manutenção,2025-01-30 23:21:52
+P00824,M003,2025-08-10 17:09:01,247,Não planejada,Vibração excessiva,2025-08-10 21:16:01
+P00825,M012,2025-02-13 23:34:40,85,Não planejada,Vibração excessiva,2025-02-14 00:59:40
+P00826,M002,2025-06-06 10:33:54,199,Planejada,Ajuste operacional,2025-06-06 13:52:54
+P00827,M009,2025-09-25 04:16:08,306,Planejada,Vibração excessiva,2025-09-25 09:22:08
+P00828,M006,2025-01-30 08:00:59,184,Não planejada,Manutenção,2025-01-30 11:04:59
+P00829,M013,2025-10-14 14:09:51,255,Não planejada,Manutenção,2025-10-14 18:24:51
+P00830,M017,2025-11-30 07:04:28,76,Não planejada,Falta de matéria-prima,2025-11-30 08:20:28
+P00831,M017,2025-07-09 15:36:10,277,Não planejada,Ajuste operacional,2025-07-09 20:13:10
+P00832,M020,2025-05-04 12:55:25,333,Não planejada,Falta de matéria-prima,2025-05-04 18:28:25
+P00833,M009,2025-04-17 13:47:54,24,Não planejada,Superaquecimento,2025-04-17 14:11:54
+P00834,M006,2025-12-07 04:47:11,321,Não planejada,Manutenção,2025-12-07 10:08:11
+P00835,M012,2025-03-24 23:42:16,144,Não planejada,Vibração excessiva,2025-03-25 02:06:16
+P00836,M018,2025-11-05 12:30:06,45,Não planejada,Superaquecimento,2025-11-05 13:15:06
+P00837,M015,2025-10-03 07:31:38,86,Planejada,Vibração excessiva,2025-10-03 08:57:38
+P00838,M003,2025-04-13 12:24:53,97,Não planejada,Vibração excessiva,2025-04-13 14:01:53
+P00839,M008,2025-04-07 05:27:37,171,Não planejada,Manutenção,2025-04-07 08:18:37
+P00840,M020,2025-03-21 19:11:37,228,Planejada,Ajuste operacional,2025-03-21 22:59:37
+P00841,M015,2025-05-10 07:30:40,209,Não planejada,Ajuste operacional,2025-05-10 10:59:40
+P00842,M002,2025-08-04 14:33:30,243,Não planejada,Ajuste operacional,2025-08-04 18:36:30
+P00843,M009,2025-04-30 23:28:19,268,Não planejada,Falta de matéria-prima,2025-05-01 03:56:19
+P00844,M008,2025-01-22 03:37:47,334,Planejada,Falta de matéria-prima,2025-01-22 09:11:47
+P00845,M012,2025-04-13 16:10:44,117,Planejada,Manutenção,2025-04-13 18:07:44
+P00846,M005,2025-02-26 19:11:41,294,Planejada,Superaquecimento,2025-02-27 00:05:41
+P00847,M006,2025-03-21 05:07:10,236,Não planejada,Falha elétrica,2025-03-21 09:03:10
+P00848,M008,2025-07-02 08:33:26,61,Não planejada,Superaquecimento,2025-07-02 09:34:26
+P00849,M013,2025-02-20 13:46:11,308,Não planejada,Falta de matéria-prima,2025-02-20 18:54:11
+P00850,M019,2025-04-14 23:42:26,180,Não planejada,Vibração excessiva,2025-04-15 02:42:26
+P00851,M009,2025-03-03 16:32:37,61,Não planejada,Manutenção,2025-03-03 17:33:37
+P00852,M004,2025-11-30 09:08:51,46,Não planejada,Vibração excessiva,2025-11-30 09:54:51
+P00853,M020,2025-06-07 21:17:01,66,Planejada,Falha elétrica,2025-06-07 22:23:01
+P00854,M015,2025-12-18 13:47:01,282,Planejada,Falta de matéria-prima,2025-12-18 18:29:01
+P00855,M014,2025-09-07 13:47:37,261,Planejada,Ajuste operacional,2025-09-07 18:08:37
+P00856,M013,2025-07-19 18:06:59,344,Não planejada,Vibração excessiva,2025-07-19 23:50:59
+P00857,M010,2025-02-17 00:17:35,20,Não planejada,Superaquecimento,2025-02-17 00:37:35
+P00858,M001,2025-05-30 05:57:35,314,Não planejada,Vibração excessiva,2025-05-30 11:11:35
+P00859,M012,2025-01-03 05:14:51,297,Não planejada,Ajuste operacional,2025-01-03 10:11:51
+P00860,M011,2025-08-21 18:45:46,163,Não planejada,Ajuste operacional,2025-08-21 21:28:46
+P00861,M009,2025-08-24 19:19:04,190,Planejada,Falha elétrica,2025-08-24 22:29:04
+P00862,M015,2025-10-20 08:20:23,339,Não planejada,Manutenção,2025-10-20 13:59:23
+P00863,M001,2025-03-30 08:21:02,256,Não planejada,Falha elétrica,2025-03-30 12:37:02
+P00864,M020,2025-09-14 04:33:43,151,Não planejada,Falha elétrica,2025-09-14 07:04:43
+P00865,M003,2025-11-20 14:19:24,151,Planejada,Superaquecimento,2025-11-20 16:50:24
+P00866,M007,2025-11-28 02:38:06,294,Não planejada,Falha elétrica,2025-11-28 07:32:06
+P00867,M016,2025-03-27 20:56:02,306,Não planejada,Superaquecimento,2025-03-28 02:02:02
+P00868,M006,2025-04-11 13:31:58,205,Não planejada,Superaquecimento,2025-04-11 16:56:58
+P00869,M010,2025-08-11 05:29:43,300,Planejada,Superaquecimento,2025-08-11 10:29:43
+P00870,M019,2025-09-08 13:47:24,42,Planejada,Ajuste operacional,2025-09-08 14:29:24
+P00871,M019,2025-07-28 11:51:22,130,Não planejada,Falta de matéria-prima,2025-07-28 14:01:22
+P00872,M004,2025-02-17 19:57:32,14,Não planejada,Superaquecimento,2025-02-17 20:11:32
+P00873,M002,2025-02-16 11:57:20,318,Não planejada,Vibração excessiva,2025-02-16 17:15:20
+P00874,M012,2025-07-01 13:21:59,280,Planejada,Vibração excessiva,2025-07-01 18:01:59
+P00875,M010,2025-11-20 05:13:40,263,Não planejada,Manutenção,2025-11-20 09:36:40
+P00876,M013,2025-05-07 01:38:54,57,Não planejada,Vibração excessiva,2025-05-07 02:35:54
+P00877,M009,2025-02-18 17:02:40,242,Planejada,Ajuste operacional,2025-02-18 21:04:40
+P00878,M020,2025-07-30 16:36:38,196,Não planejada,Falta de matéria-prima,2025-07-30 19:52:38
+P00879,M004,2025-06-16 06:16:06,271,Não planejada,Falha elétrica,2025-06-16 10:47:06
+P00880,M012,2025-12-28 10:50:08,23,Planejada,Vibração excessiva,2025-12-28 11:13:08
+P00881,M001,2025-06-01 15:46:29,244,Planejada,Ajuste operacional,2025-06-01 19:50:29
+P00882,M018,2025-10-06 01:39:00,214,Planejada,Superaquecimento,2025-10-06 05:13:00
+P00883,M015,2025-01-08 14:13:09,129,Não planejada,Vibração excessiva,2025-01-08 16:22:09
+P00884,M015,2025-07-22 13:55:22,278,Planejada,Falta de matéria-prima,2025-07-22 18:33:22
+P00885,M001,2025-06-15 23:35:31,35,Não planejada,Ajuste operacional,2025-06-16 00:10:31
+P00886,M011,2025-10-08 23:44:25,305,Não planejada,Ajuste operacional,2025-10-09 04:49:25
+P00887,M001,2025-11-06 02:56:17,190,Planejada,Ajuste operacional,2025-11-06 06:06:17
+P00888,M006,2025-12-27 17:44:07,266,Planejada,Ajuste operacional,2025-12-27 22:10:07
+P00889,M020,2025-04-18 14:42:42,79,Não planejada,Falha elétrica,2025-04-18 16:01:42
+P00890,M010,2025-04-29 20:23:59,88,Planejada,Superaquecimento,2025-04-29 21:51:59
+P00891,M001,2025-10-09 12:55:17,154,Planejada,Manutenção,2025-10-09 15:29:17
+P00892,M013,2025-08-28 20:57:10,19,Não planejada,Falta de matéria-prima,2025-08-28 21:16:10
+P00893,M002,2025-07-26 15:14:49,323,Não planejada,Manutenção,2025-07-26 20:37:49
+P00894,M011,2025-05-25 13:31:18,23,Planejada,Falha elétrica,2025-05-25 13:54:18
+P00895,M008,2025-06-19 10:39:54,228,Planejada,Ajuste operacional,2025-06-19 14:27:54
+P00896,M002,2025-06-30 09:58:51,134,Planejada,Falha elétrica,2025-06-30 12:12:51
+P00897,M011,2025-03-06 21:54:09,66,Não planejada,Vibração excessiva,2025-03-06 23:00:09
+P00898,M012,2025-05-25 19:23:24,332,Não planejada,Falha elétrica,2025-05-26 00:55:24
+P00899,M008,2025-03-07 05:22:41,132,Não planejada,Manutenção,2025-03-07 07:34:41
+P00900,M005,2025-06-26 07:40:02,242,Planejada,Falta de matéria-prima,2025-06-26 11:42:02
+P00901,M002,2025-09-28 01:40:34,67,Não planejada,Falta de matéria-prima,2025-09-28 02:47:34
+P00902,M016,2025-11-22 20:45:17,52,Não planejada,Ajuste operacional,2025-11-22 21:37:17
+P00903,M020,2025-08-26 20:34:00,298,Não planejada,Ajuste operacional,2025-08-27 01:32:00
+P00904,M004,2025-04-24 10:13:11,235,Não planejada,Superaquecimento,2025-04-24 14:08:11
+P00905,M020,2025-06-26 15:17:23,194,Planejada,Ajuste operacional,2025-06-26 18:31:23
+P00906,M011,2025-09-15 10:57:30,125,Não planejada,Vibração excessiva,2025-09-15 13:02:30
+P00907,M018,2025-03-17 00:37:51,76,Não planejada,Superaquecimento,2025-03-17 01:53:51
+P00908,M009,2025-07-31 09:42:12,56,Planejada,Ajuste operacional,2025-07-31 10:38:12
+P00909,M018,2025-05-22 06:20:21,57,Não planejada,Ajuste operacional,2025-05-22 07:17:21
+P00910,M007,2025-12-17 20:37:52,80,Planejada,Superaquecimento,2025-12-17 21:57:52
+P00911,M011,2025-05-05 09:38:06,84,Planejada,Vibração excessiva,2025-05-05 11:02:06
+P00912,M004,2025-10-05 04:12:31,269,Planejada,Ajuste operacional,2025-10-05 08:41:31
+P00913,M002,2025-07-27 20:42:06,53,Não planejada,Superaquecimento,2025-07-27 21:35:06
+P00914,M009,2025-09-05 21:46:13,204,Não planejada,Manutenção,2025-09-06 01:10:13
+P00915,M014,2025-06-06 03:48:46,113,Planejada,Falha elétrica,2025-06-06 05:41:46
+P00916,M009,2025-06-04 12:21:29,222,Não planejada,Vibração excessiva,2025-06-04 16:03:29
+P00917,M011,2025-05-21 00:55:55,126,Planejada,Falta de matéria-prima,2025-05-21 03:01:55
+P00918,M018,2025-04-14 20:45:00,190,Planejada,Ajuste operacional,2025-04-14 23:55:00
+P00919,M004,2025-05-20 22:13:37,55,Não planejada,Superaquecimento,2025-05-20 23:08:37
+P00920,M001,2025-05-10 23:48:17,236,Planejada,Ajuste operacional,2025-05-11 03:44:17
+P00921,M011,2025-04-12 01:53:37,199,Não planejada,Falha elétrica,2025-04-12 05:12:37
+P00922,M006,2025-09-26 07:05:26,260,Não planejada,Manutenção,2025-09-26 11:25:26
+P00923,M003,2025-02-14 02:20:10,70,Planejada,Manutenção,2025-02-14 03:30:10
+P00924,M002,2025-10-16 15:28:56,107,Não planejada,Falha elétrica,2025-10-16 17:15:56
+P00925,M001,2025-12-28 21:48:35,163,Não planejada,Superaquecimento,2025-12-29 00:31:35
+P00926,M012,2025-06-16 01:14:03,37,Não planejada,Manutenção,2025-06-16 01:51:03
+P00927,M016,2025-11-05 02:12:18,143,Planejada,Manutenção,2025-11-05 04:35:18
+P00928,M006,2025-04-18 07:40:29,302,Não planejada,Ajuste operacional,2025-04-18 12:42:29
+P00929,M002,2025-05-25 21:33:17,237,Planejada,Vibração excessiva,2025-05-26 01:30:17
+P00930,M016,2025-12-03 22:22:56,286,Não planejada,Ajuste operacional,2025-12-04 03:08:56
+P00931,M016,2025-11-22 10:54:10,327,Não planejada,Falta de matéria-prima,2025-11-22 16:21:10
+P00932,M016,2025-09-24 01:26:08,240,Planejada,Vibração excessiva,2025-09-24 05:26:08
+P00933,M019,2025-03-18 01:20:10,348,Não planejada,Ajuste operacional,2025-03-18 07:08:10
+P00934,M002,2025-06-01 21:30:54,98,Planejada,Vibração excessiva,2025-06-01 23:08:54
+P00935,M017,2025-01-28 03:50:46,31,Não planejada,Manutenção,2025-01-28 04:21:46
+P00936,M018,2025-05-07 17:24:25,195,Não planejada,Superaquecimento,2025-05-07 20:39:25
+P00937,M018,2025-04-05 21:09:35,146,Não planejada,Vibração excessiva,2025-04-05 23:35:35
+P00938,M014,2025-05-04 12:43:57,29,Não planejada,Manutenção,2025-05-04 13:12:57
+P00939,M004,2025-06-24 00:18:23,357,Não planejada,Vibração excessiva,2025-06-24 06:15:23
+P00940,M005,2025-12-19 10:42:56,344,Não planejada,Falta de matéria-prima,2025-12-19 16:26:56
+P00941,M012,2025-10-03 13:05:26,266,Planejada,Falta de matéria-prima,2025-10-03 17:31:26
+P00942,M020,2025-08-25 16:02:58,45,Não planejada,Falta de matéria-prima,2025-08-25 16:47:58
+P00943,M011,2025-11-13 03:04:30,135,Planejada,Falta de matéria-prima,2025-11-13 05:19:30
+P00944,M002,2025-12-25 04:57:52,197,Planejada,Manutenção,2025-12-25 08:14:52
+P00945,M015,2025-03-20 21:29:33,258,Não planejada,Vibração excessiva,2025-03-21 01:47:33
+P00946,M015,2025-07-16 11:03:10,299,Não planejada,Vibração excessiva,2025-07-16 16:02:10
+P00947,M004,2025-02-23 13:32:22,305,Não planejada,Manutenção,2025-02-23 18:37:22
+P00948,M016,2025-02-04 18:52:20,141,Não planejada,Ajuste operacional,2025-02-04 21:13:20
+P00949,M019,2025-09-12 13:55:43,178,Não planejada,Falha elétrica,2025-09-12 16:53:43
+P00950,M008,2025-06-16 11:19:03,237,Planejada,Vibração excessiva,2025-06-16 15:16:03
+P00951,M019,2025-12-14 05:54:51,277,Não planejada,Ajuste operacional,2025-12-14 10:31:51
+P00952,M019,2025-10-08 04:57:48,175,Não planejada,Falta de matéria-prima,2025-10-08 07:52:48
+P00953,M012,2025-11-04 19:35:51,218,Não planejada,Vibração excessiva,2025-11-04 23:13:51
+P00954,M013,2025-01-19 04:15:18,23,Não planejada,Ajuste operacional,2025-01-19 04:38:18
+P00955,M013,2025-01-14 11:49:10,344,Não planejada,Superaquecimento,2025-01-14 17:33:10
+P00956,M016,2025-10-20 23:56:48,108,Não planejada,Superaquecimento,2025-10-21 01:44:48
+P00957,M005,2025-06-08 13:43:12,138,Não planejada,Superaquecimento,2025-06-08 16:01:12
+P00958,M005,2025-12-24 23:23:07,285,Não planejada,Falta de matéria-prima,2025-12-25 04:08:07
+P00959,M009,2025-03-22 01:19:53,104,Não planejada,Falha elétrica,2025-03-22 03:03:53
+P00960,M003,2025-04-02 03:51:27,200,Não planejada,Vibração excessiva,2025-04-02 07:11:27
+P00961,M012,2025-01-01 18:46:30,14,Não planejada,Falta de matéria-prima,2025-01-01 19:00:30
+P00962,M011,2025-06-05 23:17:06,162,Planejada,Ajuste operacional,2025-06-06 01:59:06
+P00963,M008,2025-07-28 07:15:13,292,Não planejada,Falta de matéria-prima,2025-07-28 12:07:13
+P00964,M005,2025-03-17 22:41:03,53,Não planejada,Falha elétrica,2025-03-17 23:34:03
+P00965,M013,2025-03-27 09:18:38,283,Não planejada,Falta de matéria-prima,2025-03-27 14:01:38
+P00966,M003,2025-06-23 20:55:42,138,Não planejada,Manutenção,2025-06-23 23:13:42
+P00967,M003,2025-07-18 19:02:24,339,Planejada,Falha elétrica,2025-07-19 00:41:24
+P00968,M007,2025-12-18 14:15:41,280,Planejada,Ajuste operacional,2025-12-18 18:55:41
+P00969,M002,2025-04-20 07:51:58,303,Não planejada,Falha elétrica,2025-04-20 12:54:58
+P00970,M008,2025-10-06 09:53:48,225,Planejada,Manutenção,2025-10-06 13:38:48
+P00971,M007,2025-10-22 05:17:08,67,Planejada,Superaquecimento,2025-10-22 06:24:08
+P00972,M020,2025-01-17 07:42:26,12,Não planejada,Ajuste operacional,2025-01-17 07:54:26
+P00973,M001,2025-11-22 00:37:00,29,Planejada,Vibração excessiva,2025-11-22 01:06:00
+P00974,M011,2025-07-30 08:44:35,180,Não planejada,Falta de matéria-prima,2025-07-30 11:44:35
+P00975,M004,2025-03-07 02:48:27,285,Planejada,Superaquecimento,2025-03-07 07:33:27
+P00976,M007,2025-02-04 15:36:55,145,Não planejada,Vibração excessiva,2025-02-04 18:01:55
+P00977,M012,2025-09-25 09:13:16,179,Não planejada,Ajuste operacional,2025-09-25 12:12:16
+P00978,M007,2025-04-15 03:19:41,233,Não planejada,Falha elétrica,2025-04-15 07:12:41
+P00979,M003,2025-02-22 08:32:50,215,Não planejada,Falha elétrica,2025-02-22 12:07:50
+P00980,M016,2025-05-01 08:30:05,303,Planejada,Falta de matéria-prima,2025-05-01 13:33:05
+P00981,M003,2025-04-07 22:31:13,62,Não planejada,Ajuste operacional,2025-04-07 23:33:13
+P00982,M007,2025-01-05 16:43:35,44,Não planejada,Superaquecimento,2025-01-05 17:27:35
+P00983,M012,2025-11-11 06:06:06,212,Planejada,Vibração excessiva,2025-11-11 09:38:06
+P00984,M001,2025-10-08 09:50:41,291,Não planejada,Superaquecimento,2025-10-08 14:41:41
+P00985,M009,2025-03-20 03:49:17,290,Planejada,Vibração excessiva,2025-03-20 08:39:17
+P00986,M007,2025-05-19 00:54:25,296,Não planejada,Manutenção,2025-05-19 05:50:25
+P00987,M002,2025-01-06 21:02:31,201,Não planejada,Superaquecimento,2025-01-07 00:23:31
+P00988,M005,2025-03-02 14:05:26,324,Planejada,Vibração excessiva,2025-03-02 19:29:26
+P00989,M013,2025-07-16 17:41:14,31,Não planejada,Manutenção,2025-07-16 18:12:14
+P00990,M009,2025-06-23 06:47:55,344,Planejada,Superaquecimento,2025-06-23 12:31:55
+P00991,M007,2025-08-30 07:53:02,263,Não planejada,Manutenção,2025-08-30 12:16:02
+P00992,M008,2025-11-28 16:23:27,81,Não planejada,Ajuste operacional,2025-11-28 17:44:27
+P00993,M003,2025-09-05 11:38:57,350,Planejada,Superaquecimento,2025-09-05 17:28:57
+P00994,M004,2025-10-27 05:11:13,136,Não planejada,Manutenção,2025-10-27 07:27:13
+P00995,M003,2025-11-14 05:29:53,297,Planejada,Falta de matéria-prima,2025-11-14 10:26:53
+P00996,M011,2025-02-20 02:30:54,47,Não planejada,Falha elétrica,2025-02-20 03:17:54
+P00997,M016,2025-12-30 05:15:19,197,Não planejada,Superaquecimento,2025-12-30 08:32:19
+P00998,M019,2025-01-22 21:10:44,203,Não planejada,Superaquecimento,2025-01-23 00:33:44
+P00999,M001,2025-08-03 06:36:02,256,Planejada,Vibração excessiva,2025-08-03 10:52:02
+P01000,M011,2025-04-20 01:47:35,266,Planejada,Falta de matéria-prima,2025-04-20 06:13:35
+P01001,M006,2025-01-24 17:49:00,359,Não planejada,Falha elétrica,2025-01-24 23:48:00
+P01002,M012,2025-03-11 15:22:52,184,Não planejada,Superaquecimento,2025-03-11 18:26:52
+P01003,M007,2025-04-28 14:08:35,222,Não planejada,Manutenção,2025-04-28 17:50:35
+P01004,M015,2025-01-18 11:05:46,263,Não planejada,Falta de matéria-prima,2025-01-18 15:28:46
+P01005,M008,2025-12-08 08:14:53,49,Não planejada,Vibração excessiva,2025-12-08 09:03:53
+P01006,M003,2025-08-29 15:53:22,190,Não planejada,Manutenção,2025-08-29 19:03:22
+P01007,M005,2025-01-06 17:20:56,30,Não planejada,Falta de matéria-prima,2025-01-06 17:50:56
+P01008,M002,2025-10-22 22:05:30,355,Planejada,Superaquecimento,2025-10-23 04:00:30
+P01009,M001,2025-12-09 20:09:00,95,Não planejada,Vibração excessiva,2025-12-09 21:44:00
+P01010,M006,2025-07-31 08:34:16,237,Não planejada,Manutenção,2025-07-31 12:31:16
+P01011,M012,2025-08-30 01:05:16,40,Não planejada,Manutenção,2025-08-30 01:45:16
+P01012,M002,2025-03-04 20:45:31,17,Planejada,Falta de matéria-prima,2025-03-04 21:02:31
+P01013,M013,2025-02-20 08:23:51,163,Não planejada,Manutenção,2025-02-20 11:06:51
+P01014,M016,2025-04-23 19:47:04,274,Não planejada,Falta de matéria-prima,2025-04-24 00:21:04
+P01015,M013,2025-06-04 22:43:16,257,Não planejada,Falha elétrica,2025-06-05 03:00:16
+P01016,M001,2025-04-19 13:53:38,232,Não planejada,Manutenção,2025-04-19 17:45:38
+P01017,M009,2025-03-17 10:25:39,50,Não planejada,Vibração excessiva,2025-03-17 11:15:39
+P01018,M004,2025-02-25 12:30:46,345,Planejada,Falta de matéria-prima,2025-02-25 18:15:46
+P01019,M011,2025-10-27 00:09:17,101,Não planejada,Superaquecimento,2025-10-27 01:50:17
+P01020,M016,2025-07-10 20:26:32,283,Não planejada,Manutenção,2025-07-11 01:09:32
+P01021,M014,2025-05-27 10:40:10,349,Não planejada,Ajuste operacional,2025-05-27 16:29:10
+P01022,M013,2025-07-04 18:11:36,78,Não planejada,Superaquecimento,2025-07-04 19:29:36
+P01023,M019,2025-02-08 03:12:19,328,Não planejada,Vibração excessiva,2025-02-08 08:40:19
+P01024,M002,2025-04-07 07:09:17,212,Planejada,Ajuste operacional,2025-04-07 10:41:17
+P01025,M018,2025-02-03 08:23:18,343,Não planejada,Vibração excessiva,2025-02-03 14:06:18
+P01026,M012,2025-01-20 12:19:31,112,Não planejada,Falta de matéria-prima,2025-01-20 14:11:31
+P01027,M020,2025-11-01 17:41:25,49,Planejada,Ajuste operacional,2025-11-01 18:30:25
+P01028,M007,2025-02-02 22:28:01,177,Não planejada,Falha elétrica,2025-02-03 01:25:01
+P01029,M017,2025-05-10 01:08:55,27,Planejada,Manutenção,2025-05-10 01:35:55
+P01030,M014,2025-01-31 00:27:54,83,Planejada,Superaquecimento,2025-01-31 01:50:54
+P01031,M006,2025-02-25 15:26:51,64,Planejada,Manutenção,2025-02-25 16:30:51
+P01032,M009,2025-07-25 21:42:25,162,Planejada,Manutenção,2025-07-26 00:24:25
+P01033,M013,2025-04-12 21:03:07,154,Não planejada,Manutenção,2025-04-12 23:37:07
+P01034,M004,2025-01-26 03:27:50,126,Planejada,Manutenção,2025-01-26 05:33:50
+P01035,M019,2025-06-13 14:50:14,301,Planejada,Vibração excessiva,2025-06-13 19:51:14
+P01036,M015,2025-10-02 18:35:41,36,Não planejada,Manutenção,2025-10-02 19:11:41
+P01037,M016,2025-05-25 21:45:08,329,Não planejada,Superaquecimento,2025-05-26 03:14:08
+P01038,M019,2025-07-15 03:28:05,350,Não planejada,Ajuste operacional,2025-07-15 09:18:05
+P01039,M002,2025-09-29 19:32:17,98,Não planejada,Falta de matéria-prima,2025-09-29 21:10:17
+P01040,M006,2025-11-01 21:30:20,347,Planejada,Ajuste operacional,2025-11-02 03:17:20
+P01041,M001,2025-05-13 18:42:46,333,Não planejada,Ajuste operacional,2025-05-14 00:15:46
+P01042,M012,2025-03-12 21:04:36,279,Planejada,Falha elétrica,2025-03-13 01:43:36
+P01043,M004,2025-06-29 23:11:30,120,Não planejada,Manutenção,2025-06-30 01:11:30
+P01044,M015,2025-06-13 21:09:04,301,Não planejada,Superaquecimento,2025-06-14 02:10:04
+P01045,M007,2025-07-19 08:37:54,346,Planejada,Falha elétrica,2025-07-19 14:23:54
+P01046,M019,2025-07-19 08:39:45,26,Não planejada,Superaquecimento,2025-07-19 09:05:45
+P01047,M013,2025-01-03 17:00:33,322,Não planejada,Falha elétrica,2025-01-03 22:22:33
+P01048,M011,2025-04-26 04:38:31,357,Não planejada,Falta de matéria-prima,2025-04-26 10:35:31
+P01049,M005,2025-03-26 11:03:23,16,Planejada,Ajuste operacional,2025-03-26 11:19:23
+P01050,M012,2025-11-19 06:25:04,19,Planejada,Falha elétrica,2025-11-19 06:44:04
+P01051,M014,2025-10-01 04:42:50,35,Não planejada,Vibração excessiva,2025-10-01 05:17:50
+P01052,M011,2025-07-15 07:16:31,297,Não planejada,Falha elétrica,2025-07-15 12:13:31
+P01053,M014,2025-08-11 18:47:30,321,Não planejada,Superaquecimento,2025-08-12 00:08:30
+P01054,M019,2025-07-15 08:52:47,188,Não planejada,Falha elétrica,2025-07-15 12:00:47
+P01055,M012,2025-10-25 19:33:41,60,Não planejada,Falha elétrica,2025-10-25 20:33:41
+P01056,M012,2025-01-25 23:37:42,85,Planejada,Superaquecimento,2025-01-26 01:02:42
+P01057,M012,2025-12-18 09:44:49,329,Não planejada,Manutenção,2025-12-18 15:13:49
+P01058,M011,2025-08-25 20:05:32,159,Não planejada,Falha elétrica,2025-08-25 22:44:32
+P01059,M012,2025-07-29 18:26:26,167,Planejada,Superaquecimento,2025-07-29 21:13:26
+P01060,M015,2025-11-07 15:15:15,151,Planejada,Ajuste operacional,2025-11-07 17:46:15
+P01061,M005,2025-10-02 19:45:20,89,Planejada,Falha elétrica,2025-10-02 21:14:20
+P01062,M005,2025-05-30 21:53:49,117,Planejada,Ajuste operacional,2025-05-30 23:50:49
+P01063,M017,2025-10-13 22:20:14,28,Não planejada,Manutenção,2025-10-13 22:48:14
+P01064,M016,2025-06-08 17:47:14,353,Não planejada,Falta de matéria-prima,2025-06-08 23:40:14
+P01065,M014,2025-03-04 02:17:05,253,Não planejada,Manutenção,2025-03-04 06:30:05
+P01066,M001,2025-11-08 12:56:00,286,Não planejada,Manutenção,2025-11-08 17:42:00
+P01067,M003,2025-04-19 07:05:00,115,Não planejada,Falha elétrica,2025-04-19 09:00:00
+P01068,M002,2025-07-09 18:11:26,265,Não planejada,Ajuste operacional,2025-07-09 22:36:26
+P01069,M001,2025-08-26 17:24:29,207,Não planejada,Falha elétrica,2025-08-26 20:51:29
+P01070,M007,2025-10-17 21:08:59,121,Não planejada,Ajuste operacional,2025-10-17 23:09:59
+P01071,M006,2025-03-28 14:15:58,131,Planejada,Manutenção,2025-03-28 16:26:58
+P01072,M008,2025-12-19 22:18:35,271,Não planejada,Falha elétrica,2025-12-20 02:49:35
+P01073,M010,2025-08-14 01:24:41,229,Não planejada,Falta de matéria-prima,2025-08-14 05:13:41
+P01074,M020,2025-12-07 04:19:06,75,Planejada,Falta de matéria-prima,2025-12-07 05:34:06
+P01075,M014,2025-08-04 04:07:48,105,Não planejada,Falha elétrica,2025-08-04 05:52:48
+P01076,M014,2025-04-20 20:25:49,173,Planejada,Vibração excessiva,2025-04-20 23:18:49
+P01077,M013,2025-05-21 22:47:41,215,Não planejada,Vibração excessiva,2025-05-22 02:22:41
+P01078,M005,2025-07-01 08:09:26,242,Não planejada,Ajuste operacional,2025-07-01 12:11:26
+P01079,M011,2025-03-07 12:44:17,89,Não planejada,Ajuste operacional,2025-03-07 14:13:17
+P01080,M003,2025-02-20 01:53:41,301,Não planejada,Ajuste operacional,2025-02-20 06:54:41
+P01081,M018,2025-11-15 16:32:48,121,Planejada,Manutenção,2025-11-15 18:33:48
+P01082,M007,2025-01-28 10:52:41,158,Não planejada,Vibração excessiva,2025-01-28 13:30:41
+P01083,M012,2025-01-18 01:46:01,117,Não planejada,Superaquecimento,2025-01-18 03:43:01
+P01084,M013,2025-12-27 07:05:37,127,Planejada,Superaquecimento,2025-12-27 09:12:37
+P01085,M011,2025-01-22 21:50:50,179,Não planejada,Vibração excessiva,2025-01-23 00:49:50
+P01086,M015,2025-12-22 15:44:36,303,Planejada,Falha elétrica,2025-12-22 20:47:36
+P01087,M018,2025-04-08 00:59:21,300,Não planejada,Vibração excessiva,2025-04-08 05:59:21
+P01088,M002,2025-04-06 19:24:46,112,Não planejada,Manutenção,2025-04-06 21:16:46
+P01089,M002,2025-04-18 04:42:02,203,Não planejada,Ajuste operacional,2025-04-18 08:05:02
+P01090,M007,2025-10-07 13:46:54,311,Planejada,Vibração excessiva,2025-10-07 18:57:54
+P01091,M017,2025-05-07 21:14:58,217,Não planejada,Superaquecimento,2025-05-08 00:51:58
+P01092,M007,2025-01-28 05:03:24,246,Não planejada,Falha elétrica,2025-01-28 09:09:24
+P01093,M002,2025-02-24 09:12:23,268,Não planejada,Falha elétrica,2025-02-24 13:40:23
+P01094,M008,2025-08-13 03:20:59,100,Planejada,Falta de matéria-prima,2025-08-13 05:00:59
+P01095,M015,2025-04-18 21:30:17,150,Não planejada,Ajuste operacional,2025-04-19 00:00:17
+P01096,M019,2025-10-26 03:53:10,39,Não planejada,Manutenção,2025-10-26 04:32:10
+P01097,M004,2025-08-08 11:28:30,128,Não planejada,Manutenção,2025-08-08 13:36:30
+P01098,M020,2025-04-10 19:16:41,34,Não planejada,Falha elétrica,2025-04-10 19:50:41
+P01099,M017,2025-06-28 02:31:53,78,Planejada,Superaquecimento,2025-06-28 03:49:53
+P01100,M016,2025-11-27 01:05:59,294,Planejada,Falha elétrica,2025-11-27 05:59:59
+P01101,M020,2025-05-09 07:48:51,355,Planejada,Superaquecimento,2025-05-09 13:43:51
+P01102,M018,2025-11-19 17:40:43,65,Não planejada,Falta de matéria-prima,2025-11-19 18:45:43
+P01103,M012,2025-08-01 04:58:09,252,Não planejada,Manutenção,2025-08-01 09:10:09
+P01104,M002,2025-10-11 05:34:00,244,Não planejada,Falta de matéria-prima,2025-10-11 09:38:00
+P01105,M014,2025-01-22 01:21:02,249,Planejada,Falha elétrica,2025-01-22 05:30:02
+P01106,M005,2025-02-15 13:11:10,52,Não planejada,Vibração excessiva,2025-02-15 14:03:10
+P01107,M007,2025-12-18 01:05:51,60,Planejada,Ajuste operacional,2025-12-18 02:05:51
+P01108,M006,2025-07-30 07:15:19,226,Não planejada,Manutenção,2025-07-30 11:01:19
+P01109,M019,2025-10-22 00:58:35,29,Não planejada,Manutenção,2025-10-22 01:27:35
+P01110,M017,2025-04-17 02:42:31,358,Planejada,Vibração excessiva,2025-04-17 08:40:31
+P01111,M016,2025-06-15 01:27:16,42,Planejada,Falta de matéria-prima,2025-06-15 02:09:16
+P01112,M003,2025-02-07 13:07:14,226,Planejada,Superaquecimento,2025-02-07 16:53:14
+P01113,M020,2025-09-14 02:04:05,353,Não planejada,Superaquecimento,2025-09-14 07:57:05
+P01114,M012,2025-02-11 20:42:02,41,Não planejada,Vibração excessiva,2025-02-11 21:23:02
+P01115,M012,2025-11-03 03:06:12,349,Planejada,Ajuste operacional,2025-11-03 08:55:12
+P01116,M011,2025-11-22 08:12:17,290,Não planejada,Vibração excessiva,2025-11-22 13:02:17
+P01117,M008,2025-10-26 02:03:14,200,Não planejada,Superaquecimento,2025-10-26 05:23:14
+P01118,M017,2025-03-08 16:18:58,10,Não planejada,Superaquecimento,2025-03-08 16:28:58
+P01119,M005,2025-07-02 19:37:12,319,Não planejada,Falta de matéria-prima,2025-07-03 00:56:12
+P01120,M017,2025-04-25 00:20:35,245,Não planejada,Vibração excessiva,2025-04-25 04:25:35
+P01121,M010,2025-12-21 03:30:04,114,Não planejada,Falha elétrica,2025-12-21 05:24:04
+P01122,M015,2025-12-04 13:55:45,166,Não planejada,Falta de matéria-prima,2025-12-04 16:41:45
+P01123,M005,2025-12-15 03:27:22,341,Planejada,Ajuste operacional,2025-12-15 09:08:22
+P01124,M012,2025-09-05 13:09:44,139,Planejada,Vibração excessiva,2025-09-05 15:28:44
+P01125,M001,2025-04-21 20:43:03,172,Planejada,Vibração excessiva,2025-04-21 23:35:03
+P01126,M016,2025-04-07 09:01:45,250,Não planejada,Vibração excessiva,2025-04-07 13:11:45
+P01127,M008,2025-09-06 18:15:37,161,Não planejada,Falta de matéria-prima,2025-09-06 20:56:37
+P01128,M004,2025-08-14 01:08:56,153,Planejada,Vibração excessiva,2025-08-14 03:41:56
+P01129,M018,2025-06-30 20:37:41,261,Planejada,Vibração excessiva,2025-07-01 00:58:41
+P01130,M008,2025-02-22 18:56:32,153,Não planejada,Falha elétrica,2025-02-22 21:29:32
+P01131,M012,2025-06-11 19:39:44,85,Planejada,Superaquecimento,2025-06-11 21:04:44
+P01132,M001,2025-02-26 23:08:59,96,Não planejada,Superaquecimento,2025-02-27 00:44:59
+P01133,M012,2025-03-31 15:23:15,11,Não planejada,Falta de matéria-prima,2025-03-31 15:34:15
+P01134,M012,2025-09-13 21:53:26,107,Não planejada,Superaquecimento,2025-09-13 23:40:26
+P01135,M017,2025-05-20 22:37:47,198,Não planejada,Superaquecimento,2025-05-21 01:55:47
+P01136,M003,2025-10-19 01:22:55,238,Não planejada,Falta de matéria-prima,2025-10-19 05:20:55
+P01137,M010,2025-07-26 19:00:05,95,Não planejada,Manutenção,2025-07-26 20:35:05
+P01138,M020,2025-09-19 23:18:05,124,Não planejada,Superaquecimento,2025-09-20 01:22:05
+P01139,M015,2025-02-27 11:39:49,69,Planejada,Vibração excessiva,2025-02-27 12:48:49
+P01140,M009,2025-06-29 11:27:11,142,Planejada,Manutenção,2025-06-29 13:49:11
+P01141,M016,2025-08-19 03:51:47,311,Planejada,Falha elétrica,2025-08-19 09:02:47
+P01142,M002,2025-08-09 07:29:33,282,Não planejada,Falta de matéria-prima,2025-08-09 12:11:33
+P01143,M013,2025-04-11 18:03:54,134,Não planejada,Vibração excessiva,2025-04-11 20:17:54
+P01144,M015,2025-01-30 14:36:45,182,Não planejada,Falta de matéria-prima,2025-01-30 17:38:45
+P01145,M012,2025-06-13 11:21:58,176,Não planejada,Falha elétrica,2025-06-13 14:17:58
+P01146,M001,2025-08-03 06:43:03,233,Planejada,Superaquecimento,2025-08-03 10:36:03
+P01147,M016,2025-06-13 19:25:38,353,Não planejada,Vibração excessiva,2025-06-14 01:18:38
+P01148,M010,2025-11-13 12:07:39,20,Planejada,Manutenção,2025-11-13 12:27:39
+P01149,M001,2025-09-22 23:05:59,287,Planejada,Superaquecimento,2025-09-23 03:52:59
+P01150,M018,2025-09-19 04:49:27,289,Não planejada,Falha elétrica,2025-09-19 09:38:27
+P01151,M005,2025-10-21 00:45:46,232,Não planejada,Falta de matéria-prima,2025-10-21 04:37:46
+P01152,M005,2025-02-03 09:53:37,84,Não planejada,Manutenção,2025-02-03 11:17:37
+P01153,M005,2025-09-04 10:37:20,315,Não planejada,Vibração excessiva,2025-09-04 15:52:20
+P01154,M017,2025-08-25 08:53:48,37,Planejada,Vibração excessiva,2025-08-25 09:30:48
+P01155,M011,2025-11-26 16:56:58,25,Planejada,Falta de matéria-prima,2025-11-26 17:21:58
+P01156,M018,2025-07-16 13:52:44,68,Planejada,Vibração excessiva,2025-07-16 15:00:44
+P01157,M004,2025-02-25 05:37:24,95,Não planejada,Superaquecimento,2025-02-25 07:12:24
+P01158,M002,2025-10-03 19:37:47,82,Planejada,Manutenção,2025-10-03 20:59:47
+P01159,M016,2025-04-04 18:28:40,185,Não planejada,Ajuste operacional,2025-04-04 21:33:40
+P01160,M003,2025-07-23 15:28:09,213,Não planejada,Vibração excessiva,2025-07-23 19:01:09
+P01161,M018,2025-01-26 12:50:15,126,Não planejada,Falha elétrica,2025-01-26 14:56:15
+P01162,M004,2025-10-07 14:13:00,252,Não planejada,Falha elétrica,2025-10-07 18:25:00
+P01163,M013,2025-08-20 02:06:20,348,Planejada,Falta de matéria-prima,2025-08-20 07:54:20
+P01164,M004,2025-02-01 01:00:02,314,Planejada,Ajuste operacional,2025-02-01 06:14:02
+P01165,M002,2025-06-28 01:35:35,225,Não planejada,Falha elétrica,2025-06-28 05:20:35
+P01166,M002,2025-02-21 13:24:24,240,Não planejada,Falta de matéria-prima,2025-02-21 17:24:24
+P01167,M019,2025-11-25 05:14:59,340,Não planejada,Falha elétrica,2025-11-25 10:54:59
+P01168,M015,2025-01-27 17:48:28,123,Não planejada,Ajuste operacional,2025-01-27 19:51:28
+P01169,M014,2025-11-09 02:33:29,41,Não planejada,Falta de matéria-prima,2025-11-09 03:14:29
+P01170,M006,2025-02-09 06:32:03,17,Não planejada,Manutenção,2025-02-09 06:49:03
+P01171,M011,2025-09-15 12:01:02,187,Não planejada,Superaquecimento,2025-09-15 15:08:02
+P01172,M008,2025-01-17 03:34:51,304,Não planejada,Superaquecimento,2025-01-17 08:38:51
+P01173,M003,2025-01-20 22:51:26,182,Não planejada,Falha elétrica,2025-01-21 01:53:26
+P01174,M015,2025-06-20 18:47:35,159,Não planejada,Ajuste operacional,2025-06-20 21:26:35
+P01175,M015,2025-06-12 22:04:28,227,Não planejada,Manutenção,2025-06-13 01:51:28
+P01176,M018,2025-12-10 09:18:17,302,Planejada,Falta de matéria-prima,2025-12-10 14:20:17
+P01177,M008,2025-10-16 17:25:40,352,Planejada,Manutenção,2025-10-16 23:17:40
+P01178,M018,2025-12-28 18:26:34,269,Planejada,Falha elétrica,2025-12-28 22:55:34
+P01179,M002,2025-03-01 07:23:17,25,Não planejada,Vibração excessiva,2025-03-01 07:48:17
+P01180,M006,2025-10-14 12:47:19,342,Planejada,Manutenção,2025-10-14 18:29:19
+P01181,M015,2025-11-24 05:42:11,281,Planejada,Manutenção,2025-11-24 10:23:11
+P01182,M001,2025-01-20 14:22:49,319,Não planejada,Falta de matéria-prima,2025-01-20 19:41:49
+P01183,M016,2025-02-12 16:40:52,238,Não planejada,Falta de matéria-prima,2025-02-12 20:38:52
+P01184,M005,2025-08-22 07:43:52,79,Não planejada,Ajuste operacional,2025-08-22 09:02:52
+P01185,M019,2025-03-05 15:16:23,105,Não planejada,Superaquecimento,2025-03-05 17:01:23
+P01186,M020,2025-06-16 07:42:32,130,Planejada,Falha elétrica,2025-06-16 09:52:32
+P01187,M011,2025-04-12 05:48:51,135,Não planejada,Falta de matéria-prima,2025-04-12 08:03:51
+P01188,M018,2025-12-15 10:02:07,278,Não planejada,Falta de matéria-prima,2025-12-15 14:40:07
+P01189,M009,2025-10-20 00:12:13,268,Planejada,Falha elétrica,2025-10-20 04:40:13
+P01190,M017,2025-04-12 03:52:03,267,Não planejada,Manutenção,2025-04-12 08:19:03
+P01191,M020,2025-05-30 07:03:07,145,Não planejada,Falha elétrica,2025-05-30 09:28:07
+P01192,M016,2025-06-28 03:08:53,342,Não planejada,Falta de matéria-prima,2025-06-28 08:50:53
+P01193,M017,2025-01-16 00:14:56,351,Não planejada,Ajuste operacional,2025-01-16 06:05:56
+P01194,M007,2025-04-23 02:36:47,276,Não planejada,Falta de matéria-prima,2025-04-23 07:12:47
+P01195,M005,2025-02-15 16:35:56,246,Não planejada,Falta de matéria-prima,2025-02-15 20:41:56
+P01196,M020,2025-10-06 01:49:04,122,Não planejada,Ajuste operacional,2025-10-06 03:51:04
+P01197,M014,2025-06-21 01:46:05,14,Não planejada,Falha elétrica,2025-06-21 02:00:05
+P01198,M004,2025-03-16 17:57:02,116,Planejada,Ajuste operacional,2025-03-16 19:53:02
+P01199,M007,2025-01-23 15:11:01,334,Não planejada,Ajuste operacional,2025-01-23 20:45:01
+P01200,M001,2025-02-27 23:59:45,222,Não planejada,Ajuste operacional,2025-02-28 03:41:45
+P01201,M007,2025-07-13 05:50:42,257,Não planejada,Manutenção,2025-07-13 10:07:42
+P01202,M002,2025-05-18 03:50:24,341,Não planejada,Manutenção,2025-05-18 09:31:24
+P01203,M015,2025-11-27 20:31:18,196,Planejada,Ajuste operacional,2025-11-27 23:47:18
+P01204,M019,2025-01-03 06:21:11,126,Planejada,Ajuste operacional,2025-01-03 08:27:11
+P01205,M004,2025-02-28 14:55:24,24,Planejada,Falta de matéria-prima,2025-02-28 15:19:24
+P01206,M002,2025-07-20 19:28:06,228,Planejada,Manutenção,2025-07-20 23:16:06
+P01207,M010,2025-01-01 13:06:35,277,Planejada,Vibração excessiva,2025-01-01 17:43:35
+P01208,M019,2025-09-05 12:28:09,100,Planejada,Manutenção,2025-09-05 14:08:09
+P01209,M011,2025-09-17 17:02:34,46,Não planejada,Falha elétrica,2025-09-17 17:48:34
+P01210,M015,2025-04-08 00:19:48,269,Não planejada,Manutenção,2025-04-08 04:48:48
+P01211,M009,2025-01-22 03:22:39,71,Planejada,Falha elétrica,2025-01-22 04:33:39
+P01212,M003,2025-07-31 09:28:42,157,Não planejada,Vibração excessiva,2025-07-31 12:05:42
+P01213,M019,2025-08-12 15:13:50,199,Não planejada,Manutenção,2025-08-12 18:32:50
+P01214,M015,2025-02-14 00:23:29,309,Planejada,Falta de matéria-prima,2025-02-14 05:32:29
+P01215,M020,2025-08-08 20:54:38,217,Não planejada,Vibração excessiva,2025-08-09 00:31:38
+P01216,M007,2025-06-08 08:01:06,117,Planejada,Manutenção,2025-06-08 09:58:06
+P01217,M007,2025-08-04 01:38:37,12,Planejada,Manutenção,2025-08-04 01:50:37
+P01218,M020,2025-04-07 00:43:24,109,Planejada,Manutenção,2025-04-07 02:32:24
+P01219,M011,2025-08-27 20:29:34,179,Não planejada,Falta de matéria-prima,2025-08-27 23:28:34
+P01220,M008,2025-02-11 13:58:49,130,Planejada,Manutenção,2025-02-11 16:08:49
+P01221,M004,2025-03-18 11:10:16,334,Não planejada,Superaquecimento,2025-03-18 16:44:16
+P01222,M017,2025-05-17 00:07:07,281,Não planejada,Falha elétrica,2025-05-17 04:48:07
+P01223,M006,2025-09-14 15:05:35,162,Não planejada,Ajuste operacional,2025-09-14 17:47:35
+P01224,M012,2025-02-17 11:30:57,224,Não planejada,Falta de matéria-prima,2025-02-17 15:14:57
+P01225,M016,2025-06-22 09:15:32,328,Não planejada,Vibração excessiva,2025-06-22 14:43:32
+P01226,M004,2025-01-09 14:43:34,33,Não planejada,Vibração excessiva,2025-01-09 15:16:34
+P01227,M006,2025-11-19 17:23:44,320,Não planejada,Ajuste operacional,2025-11-19 22:43:44
+P01228,M009,2025-12-01 02:21:02,205,Não planejada,Superaquecimento,2025-12-01 05:46:02
+P01229,M002,2025-11-22 21:37:26,175,Planejada,Vibração excessiva,2025-11-23 00:32:26
+P01230,M014,2025-10-21 21:24:17,38,Planejada,Falta de matéria-prima,2025-10-21 22:02:17
+P01231,M014,2025-06-04 18:00:50,341,Não planejada,Falha elétrica,2025-06-04 23:41:50
+P01232,M009,2025-07-05 09:21:57,18,Planejada,Falta de matéria-prima,2025-07-05 09:39:57
+P01233,M020,2025-05-06 02:32:13,116,Não planejada,Falha elétrica,2025-05-06 04:28:13
+P01234,M009,2025-02-14 06:50:39,101,Não planejada,Manutenção,2025-02-14 08:31:39
+P01235,M005,2025-06-16 06:32:26,218,Não planejada,Manutenção,2025-06-16 10:10:26
+P01236,M004,2025-03-30 10:09:51,25,Não planejada,Vibração excessiva,2025-03-30 10:34:51
+P01237,M018,2025-10-21 16:27:25,213,Não planejada,Vibração excessiva,2025-10-21 20:00:25
+P01238,M005,2025-05-11 11:56:54,67,Não planejada,Vibração excessiva,2025-05-11 13:03:54
+P01239,M004,2025-04-20 12:50:52,309,Não planejada,Falha elétrica,2025-04-20 17:59:52
+P01240,M013,2025-06-04 04:42:05,338,Planejada,Ajuste operacional,2025-06-04 10:20:05
+P01241,M005,2025-11-25 04:50:39,236,Não planejada,Falta de matéria-prima,2025-11-25 08:46:39
+P01242,M020,2025-06-12 18:16:14,35,Não planejada,Falha elétrica,2025-06-12 18:51:14
+P01243,M019,2025-10-31 06:40:37,96,Não planejada,Falta de matéria-prima,2025-10-31 08:16:37
+P01244,M003,2025-12-27 18:17:31,62,Não planejada,Manutenção,2025-12-27 19:19:31
+P01245,M012,2025-12-15 13:17:37,271,Não planejada,Superaquecimento,2025-12-15 17:48:37
+P01246,M004,2025-02-10 22:47:39,355,Planejada,Superaquecimento,2025-02-11 04:42:39
+P01247,M007,2025-09-13 15:42:40,298,Planejada,Falta de matéria-prima,2025-09-13 20:40:40
+P01248,M004,2025-08-23 13:40:11,142,Não planejada,Falha elétrica,2025-08-23 16:02:11
+P01249,M010,2025-02-20 10:07:24,102,Não planejada,Manutenção,2025-02-20 11:49:24
+P01250,M020,2025-11-12 07:50:10,289,Planejada,Manutenção,2025-11-12 12:39:10
+P01251,M016,2025-05-30 06:37:52,209,Não planejada,Ajuste operacional,2025-05-30 10:06:52
+P01252,M014,2025-06-27 01:31:20,97,Não planejada,Vibração excessiva,2025-06-27 03:08:20
+P01253,M004,2025-08-29 03:13:31,287,Planejada,Superaquecimento,2025-08-29 08:00:31
+P01254,M014,2025-10-28 02:01:23,54,Não planejada,Superaquecimento,2025-10-28 02:55:23
+P01255,M006,2025-05-15 01:03:37,27,Planejada,Ajuste operacional,2025-05-15 01:30:37
+P01256,M014,2025-06-03 01:35:20,58,Não planejada,Vibração excessiva,2025-06-03 02:33:20
+P01257,M016,2025-02-17 06:18:49,247,Planejada,Superaquecimento,2025-02-17 10:25:49
+P01258,M005,2025-12-09 11:24:39,217,Não planejada,Ajuste operacional,2025-12-09 15:01:39
+P01259,M012,2025-12-19 01:47:22,234,Não planejada,Vibração excessiva,2025-12-19 05:41:22
+P01260,M002,2025-05-06 18:29:02,63,Não planejada,Ajuste operacional,2025-05-06 19:32:02
+P01261,M009,2025-09-14 21:06:28,141,Não planejada,Superaquecimento,2025-09-14 23:27:28
+P01262,M007,2025-10-23 05:50:38,301,Planejada,Vibração excessiva,2025-10-23 10:51:38
+P01263,M013,2025-07-27 17:50:19,185,Planejada,Ajuste operacional,2025-07-27 20:55:19
+P01264,M020,2025-12-23 11:13:53,318,Não planejada,Falta de matéria-prima,2025-12-23 16:31:53
+P01265,M014,2025-11-07 03:33:28,99,Não planejada,Falha elétrica,2025-11-07 05:12:28
+P01266,M012,2025-01-06 02:15:20,109,Não planejada,Ajuste operacional,2025-01-06 04:04:20
+P01267,M003,2025-10-06 08:06:24,355,Não planejada,Superaquecimento,2025-10-06 14:01:24
+P01268,M001,2025-05-01 22:43:44,174,Não planejada,Superaquecimento,2025-05-02 01:37:44
+P01269,M010,2025-04-19 05:42:46,229,Planejada,Vibração excessiva,2025-04-19 09:31:46
+P01270,M013,2025-12-19 19:37:32,199,Não planejada,Vibração excessiva,2025-12-19 22:56:32
+P01271,M004,2025-06-05 15:53:56,182,Não planejada,Falta de matéria-prima,2025-06-05 18:55:56
+P01272,M011,2025-11-26 13:11:49,162,Não planejada,Falha elétrica,2025-11-26 15:53:49
+P01273,M012,2025-07-12 16:42:29,244,Não planejada,Manutenção,2025-07-12 20:46:29
+P01274,M007,2025-04-13 08:38:02,228,Planejada,Falta de matéria-prima,2025-04-13 12:26:02
+P01275,M008,2025-02-07 09:44:29,208,Não planejada,Falha elétrica,2025-02-07 13:12:29
+P01276,M014,2025-04-26 20:47:44,226,Não planejada,Superaquecimento,2025-04-27 00:33:44
+P01277,M009,2025-12-13 21:48:39,189,Não planejada,Ajuste operacional,2025-12-14 00:57:39
+P01278,M006,2025-09-12 04:07:40,354,Não planejada,Manutenção,2025-09-12 10:01:40
+P01279,M002,2025-10-22 09:41:08,330,Não planejada,Superaquecimento,2025-10-22 15:11:08
+P01280,M011,2025-03-19 16:08:47,70,Não planejada,Falta de matéria-prima,2025-03-19 17:18:47
+P01281,M016,2025-05-17 17:00:08,103,Planejada,Vibração excessiva,2025-05-17 18:43:08
+P01282,M010,2025-12-04 03:47:28,344,Não planejada,Falha elétrica,2025-12-04 09:31:28
+P01283,M015,2025-07-14 22:18:42,13,Planejada,Falha elétrica,2025-07-14 22:31:42
+P01284,M002,2025-08-14 23:21:21,329,Não planejada,Ajuste operacional,2025-08-15 04:50:21
+P01285,M005,2025-03-31 03:06:18,87,Não planejada,Ajuste operacional,2025-03-31 04:33:18
+P01286,M017,2025-04-17 04:19:56,62,Não planejada,Superaquecimento,2025-04-17 05:21:56
+P01287,M002,2025-09-14 12:25:40,216,Planejada,Falha elétrica,2025-09-14 16:01:40
+P01288,M020,2025-04-14 12:17:50,228,Planejada,Superaquecimento,2025-04-14 16:05:50
+P01289,M001,2025-08-23 18:07:47,38,Não planejada,Falha elétrica,2025-08-23 18:45:47
+P01290,M001,2025-05-07 07:35:18,241,Não planejada,Vibração excessiva,2025-05-07 11:36:18
+P01291,M019,2025-09-10 17:55:09,297,Não planejada,Manutenção,2025-09-10 22:52:09
+P01292,M013,2025-11-05 07:05:48,203,Não planejada,Superaquecimento,2025-11-05 10:28:48
+P01293,M006,2025-06-14 00:17:29,67,Não planejada,Manutenção,2025-06-14 01:24:29
+P01294,M006,2025-11-28 06:18:34,243,Planejada,Vibração excessiva,2025-11-28 10:21:34
+P01295,M001,2025-07-03 23:57:46,222,Não planejada,Falha elétrica,2025-07-04 03:39:46
+P01296,M019,2025-04-23 04:53:35,267,Não planejada,Manutenção,2025-04-23 09:20:35
+P01297,M012,2025-12-06 08:08:47,334,Não planejada,Superaquecimento,2025-12-06 13:42:47
+P01298,M006,2025-09-14 04:46:04,80,Planejada,Falta de matéria-prima,2025-09-14 06:06:04
+P01299,M005,2025-08-11 08:13:29,260,Não planejada,Superaquecimento,2025-08-11 12:33:29
+P01300,M001,2025-04-25 04:28:36,112,Não planejada,Manutenção,2025-04-25 06:20:36
+P01301,M020,2025-08-18 17:18:36,249,Não planejada,Vibração excessiva,2025-08-18 21:27:36
+P01302,M005,2025-10-18 03:26:09,99,Não planejada,Superaquecimento,2025-10-18 05:05:09
+P01303,M001,2025-11-27 19:29:33,171,Planejada,Falha elétrica,2025-11-27 22:20:33
+P01304,M003,2025-03-08 01:54:46,343,Não planejada,Falta de matéria-prima,2025-03-08 07:37:46
+P01305,M006,2025-06-09 22:34:42,78,Não planejada,Falta de matéria-prima,2025-06-09 23:52:42
+P01306,M019,2025-01-24 22:22:06,231,Planejada,Vibração excessiva,2025-01-25 02:13:06
+P01307,M019,2025-08-06 15:56:58,355,Não planejada,Falha elétrica,2025-08-06 21:51:58
+P01308,M005,2025-11-01 15:42:44,250,Planejada,Ajuste operacional,2025-11-01 19:52:44
+P01309,M011,2025-08-05 01:13:39,171,Não planejada,Falha elétrica,2025-08-05 04:04:39
+P01310,M012,2025-02-27 18:24:41,279,Planejada,Falta de matéria-prima,2025-02-27 23:03:41
+P01311,M015,2025-07-30 19:29:51,216,Não planejada,Falha elétrica,2025-07-30 23:05:51
+P01312,M005,2025-03-16 11:17:29,86,Não planejada,Falha elétrica,2025-03-16 12:43:29
+P01313,M003,2025-08-02 15:47:19,15,Planejada,Manutenção,2025-08-02 16:02:19
+P01314,M008,2025-07-30 18:52:11,355,Planejada,Superaquecimento,2025-07-31 00:47:11
+P01315,M007,2025-05-30 14:11:16,47,Não planejada,Vibração excessiva,2025-05-30 14:58:16
+P01316,M018,2025-05-09 08:23:18,79,Planejada,Superaquecimento,2025-05-09 09:42:18
+P01317,M015,2025-01-28 17:47:55,200,Não planejada,Ajuste operacional,2025-01-28 21:07:55
+P01318,M011,2025-06-10 11:43:34,173,Não planejada,Vibração excessiva,2025-06-10 14:36:34
+P01319,M010,2025-01-23 16:35:22,144,Não planejada,Ajuste operacional,2025-01-23 18:59:22
+P01320,M019,2025-07-02 15:57:32,282,Planejada,Superaquecimento,2025-07-02 20:39:32
+P01321,M006,2025-07-21 20:14:58,271,Planejada,Falha elétrica,2025-07-22 00:45:58
+P01322,M011,2025-10-26 21:19:03,66,Não planejada,Manutenção,2025-10-26 22:25:03
+P01323,M003,2025-08-29 03:19:48,194,Planejada,Superaquecimento,2025-08-29 06:33:48
+P01324,M006,2025-08-28 21:17:30,62,Não planejada,Superaquecimento,2025-08-28 22:19:30
+P01325,M004,2025-03-07 15:41:18,221,Planejada,Ajuste operacional,2025-03-07 19:22:18
+P01326,M006,2025-12-15 13:03:02,17,Não planejada,Falha elétrica,2025-12-15 13:20:02
+P01327,M010,2025-09-26 06:04:02,148,Planejada,Vibração excessiva,2025-09-26 08:32:02
+P01328,M004,2025-08-28 23:51:08,148,Planejada,Vibração excessiva,2025-08-29 02:19:08
+P01329,M004,2025-10-31 17:10:17,289,Planejada,Ajuste operacional,2025-10-31 21:59:17
+P01330,M001,2025-01-05 15:08:26,137,Não planejada,Manutenção,2025-01-05 17:25:26
+P01331,M003,2025-03-13 03:26:07,139,Não planejada,Superaquecimento,2025-03-13 05:45:07
+P01332,M004,2025-11-05 09:28:51,164,Não planejada,Vibração excessiva,2025-11-05 12:12:51
+P01333,M015,2025-11-02 18:10:35,332,Não planejada,Falta de matéria-prima,2025-11-02 23:42:35
+P01334,M011,2025-04-26 23:25:05,76,Não planejada,Vibração excessiva,2025-04-27 00:41:05
+P01335,M012,2025-07-10 13:06:45,134,Não planejada,Falha elétrica,2025-07-10 15:20:45
+P01336,M001,2025-02-02 19:49:34,172,Planejada,Ajuste operacional,2025-02-02 22:41:34
+P01337,M019,2025-12-19 21:06:31,147,Planejada,Falta de matéria-prima,2025-12-19 23:33:31
+P01338,M014,2025-05-23 23:46:36,124,Não planejada,Superaquecimento,2025-05-24 01:50:36
+P01339,M009,2025-12-11 12:51:41,257,Planejada,Ajuste operacional,2025-12-11 17:08:41
+P01340,M006,2025-05-06 22:11:27,286,Planejada,Superaquecimento,2025-05-07 02:57:27
+P01341,M008,2025-11-26 05:48:07,138,Não planejada,Ajuste operacional,2025-11-26 08:06:07
+P01342,M003,2025-06-30 19:38:07,108,Não planejada,Falha elétrica,2025-06-30 21:26:07
+P01343,M015,2025-03-02 00:45:52,158,Não planejada,Falta de matéria-prima,2025-03-02 03:23:52
+P01344,M008,2025-05-01 23:04:34,183,Não planejada,Falha elétrica,2025-05-02 02:07:34
+P01345,M004,2025-06-15 15:16:40,250,Não planejada,Ajuste operacional,2025-06-15 19:26:40
+P01346,M009,2025-09-02 23:41:20,329,Não planejada,Vibração excessiva,2025-09-03 05:10:20
+P01347,M009,2025-05-10 13:40:26,136,Não planejada,Falta de matéria-prima,2025-05-10 15:56:26
+P01348,M016,2025-02-23 20:49:41,315,Não planejada,Falha elétrica,2025-02-24 02:04:41
+P01349,M017,2025-10-06 16:00:25,162,Não planejada,Vibração excessiva,2025-10-06 18:42:25
+P01350,M005,2025-03-07 07:13:40,193,Não planejada,Falha elétrica,2025-03-07 10:26:40
+P01351,M003,2025-02-23 19:51:57,51,Planejada,Superaquecimento,2025-02-23 20:42:57
+P01352,M009,2025-03-07 21:47:01,105,Não planejada,Vibração excessiva,2025-03-07 23:32:01
+P01353,M017,2025-04-02 09:05:35,276,Não planejada,Falta de matéria-prima,2025-04-02 13:41:35
+P01354,M016,2025-11-16 21:06:42,48,Não planejada,Falta de matéria-prima,2025-11-16 21:54:42
+P01355,M013,2025-09-22 21:05:46,32,Planejada,Vibração excessiva,2025-09-22 21:37:46
+P01356,M007,2025-02-01 10:23:04,86,Não planejada,Ajuste operacional,2025-02-01 11:49:04
+P01357,M015,2025-12-07 14:02:57,144,Planejada,Vibração excessiva,2025-12-07 16:26:57
+P01358,M010,2025-03-23 20:55:50,161,Não planejada,Falha elétrica,2025-03-23 23:36:50
+P01359,M017,2025-06-04 13:23:55,40,Planejada,Ajuste operacional,2025-06-04 14:03:55
+P01360,M004,2025-07-05 04:18:02,302,Planejada,Superaquecimento,2025-07-05 09:20:02
+P01361,M011,2025-08-27 04:10:15,11,Não planejada,Vibração excessiva,2025-08-27 04:21:15
+P01362,M020,2025-07-07 16:12:13,89,Planejada,Ajuste operacional,2025-07-07 17:41:13
+P01363,M020,2025-11-16 20:51:35,232,Não planejada,Falha elétrica,2025-11-17 00:43:35
+P01364,M018,2025-06-13 03:30:00,124,Não planejada,Ajuste operacional,2025-06-13 05:34:00
+P01365,M011,2025-03-16 16:14:27,73,Não planejada,Manutenção,2025-03-16 17:27:27
+P01366,M011,2025-04-06 14:48:06,191,Planejada,Ajuste operacional,2025-04-06 17:59:06
+P01367,M017,2025-07-04 12:35:01,177,Não planejada,Manutenção,2025-07-04 15:32:01
+P01368,M011,2025-07-11 16:50:09,170,Não planejada,Ajuste operacional,2025-07-11 19:40:09
+P01369,M007,2025-08-23 13:16:58,355,Planejada,Ajuste operacional,2025-08-23 19:11:58
+P01370,M010,2025-01-29 11:59:17,218,Planejada,Falha elétrica,2025-01-29 15:37:17
+P01371,M018,2025-06-13 22:01:17,152,Não planejada,Superaquecimento,2025-06-14 00:33:17
+P01372,M002,2025-01-03 23:08:15,160,Não planejada,Vibração excessiva,2025-01-04 01:48:15
+P01373,M020,2025-10-17 13:40:01,202,Não planejada,Manutenção,2025-10-17 17:02:01
+P01374,M009,2025-09-27 20:32:12,94,Não planejada,Falha elétrica,2025-09-27 22:06:12
+P01375,M005,2025-08-02 06:38:40,160,Planejada,Falta de matéria-prima,2025-08-02 09:18:40
+P01376,M009,2025-09-26 07:07:39,295,Não planejada,Falha elétrica,2025-09-26 12:02:39
+P01377,M006,2025-01-31 03:54:26,269,Não planejada,Falha elétrica,2025-01-31 08:23:26
+P01378,M019,2025-02-22 16:34:04,118,Planejada,Falha elétrica,2025-02-22 18:32:04
+P01379,M016,2025-03-04 04:09:13,341,Planejada,Vibração excessiva,2025-03-04 09:50:13
+P01380,M004,2025-08-19 03:32:34,254,Planejada,Ajuste operacional,2025-08-19 07:46:34
+P01381,M020,2025-03-31 01:45:52,186,Planejada,Falha elétrica,2025-03-31 04:51:52
+P01382,M006,2025-07-10 12:46:50,147,Não planejada,Manutenção,2025-07-10 15:13:50
+P01383,M014,2025-07-20 21:21:58,335,Não planejada,Falha elétrica,2025-07-21 02:56:58
+P01384,M010,2025-09-19 19:31:44,287,Não planejada,Manutenção,2025-09-20 00:18:44
+P01385,M015,2025-11-15 02:37:11,254,Não planejada,Falta de matéria-prima,2025-11-15 06:51:11
+P01386,M006,2025-04-26 05:14:49,59,Não planejada,Vibração excessiva,2025-04-26 06:13:49
+P01387,M010,2025-07-31 07:57:47,94,Planejada,Superaquecimento,2025-07-31 09:31:47
+P01388,M017,2025-09-25 22:34:28,339,Não planejada,Falta de matéria-prima,2025-09-26 04:13:28
+P01389,M006,2025-02-02 01:46:23,102,Não planejada,Falta de matéria-prima,2025-02-02 03:28:23
+P01390,M020,2025-03-24 13:28:37,55,Não planejada,Vibração excessiva,2025-03-24 14:23:37
+P01391,M017,2025-09-19 03:16:06,21,Não planejada,Ajuste operacional,2025-09-19 03:37:06
+P01392,M009,2025-01-29 01:22:32,348,Planejada,Ajuste operacional,2025-01-29 07:10:32
+P01393,M012,2025-05-20 12:56:18,127,Não planejada,Manutenção,2025-05-20 15:03:18
+P01394,M001,2025-07-12 00:16:09,113,Planejada,Superaquecimento,2025-07-12 02:09:09
+P01395,M016,2025-10-21 11:32:06,120,Planejada,Manutenção,2025-10-21 13:32:06
+P01396,M014,2025-08-10 02:34:10,46,Não planejada,Falta de matéria-prima,2025-08-10 03:20:10
+P01397,M006,2025-07-13 18:31:31,226,Não planejada,Falta de matéria-prima,2025-07-13 22:17:31
+P01398,M004,2025-04-10 11:13:30,182,Não planejada,Ajuste operacional,2025-04-10 14:15:30
+P01399,M002,2025-11-04 21:38:58,284,Planejada,Falha elétrica,2025-11-05 02:22:58
+P01400,M004,2025-04-21 23:25:14,25,Não planejada,Vibração excessiva,2025-04-21 23:50:14
+P01401,M020,2025-12-17 04:06:45,149,Planejada,Manutenção,2025-12-17 06:35:45
+P01402,M016,2025-04-12 09:21:57,211,Não planejada,Vibração excessiva,2025-04-12 12:52:57
+P01403,M011,2025-07-02 09:25:50,164,Planejada,Ajuste operacional,2025-07-02 12:09:50
+P01404,M003,2025-09-30 08:26:30,200,Não planejada,Falha elétrica,2025-09-30 11:46:30
+P01405,M018,2025-05-02 06:20:45,28,Não planejada,Falta de matéria-prima,2025-05-02 06:48:45
+P01406,M020,2025-10-04 09:38:05,244,Planejada,Falta de matéria-prima,2025-10-04 13:42:05
+P01407,M007,2025-12-25 06:05:01,281,Não planejada,Vibração excessiva,2025-12-25 10:46:01
+P01408,M017,2025-04-16 09:53:26,48,Não planejada,Manutenção,2025-04-16 10:41:26
+P01409,M019,2025-06-06 07:51:24,169,Não planejada,Falta de matéria-prima,2025-06-06 10:40:24
+P01410,M013,2025-07-10 22:53:41,99,Planejada,Vibração excessiva,2025-07-11 00:32:41
+P01411,M012,2025-11-26 02:49:18,261,Planejada,Manutenção,2025-11-26 07:10:18
+P01412,M005,2025-04-27 16:52:25,270,Planejada,Falta de matéria-prima,2025-04-27 21:22:25
+P01413,M015,2025-09-05 04:21:54,180,Não planejada,Falta de matéria-prima,2025-09-05 07:21:54
+P01414,M007,2025-09-09 17:34:40,323,Planejada,Ajuste operacional,2025-09-09 22:57:40
+P01415,M015,2025-11-19 12:02:25,38,Planejada,Falha elétrica,2025-11-19 12:40:25
+P01416,M019,2025-04-07 22:06:25,325,Não planejada,Manutenção,2025-04-08 03:31:25
+P01417,M009,2025-06-26 15:27:08,159,Planejada,Manutenção,2025-06-26 18:06:08
+P01418,M009,2025-11-04 22:27:31,235,Não planejada,Ajuste operacional,2025-11-05 02:22:31
+P01419,M015,2025-10-09 16:18:24,308,Planejada,Superaquecimento,2025-10-09 21:26:24
+P01420,M006,2025-04-22 13:19:38,312,Não planejada,Falta de matéria-prima,2025-04-22 18:31:38
+P01421,M001,2025-11-16 05:21:44,31,Não planejada,Manutenção,2025-11-16 05:52:44
+P01422,M015,2025-07-15 18:08:23,43,Não planejada,Falha elétrica,2025-07-15 18:51:23
+P01423,M010,2025-11-11 14:52:18,330,Não planejada,Superaquecimento,2025-11-11 20:22:18
+P01424,M020,2025-09-19 12:07:06,56,Planejada,Falha elétrica,2025-09-19 13:03:06
+P01425,M008,2025-09-20 17:46:01,230,Não planejada,Vibração excessiva,2025-09-20 21:36:01
+P01426,M004,2025-07-13 03:46:05,80,Planejada,Falta de matéria-prima,2025-07-13 05:06:05
+P01427,M005,2025-11-21 18:34:31,202,Planejada,Vibração excessiva,2025-11-21 21:56:31
+P01428,M006,2025-03-18 22:25:37,317,Não planejada,Falha elétrica,2025-03-19 03:42:37
+P01429,M004,2025-07-07 15:27:56,28,Planejada,Vibração excessiva,2025-07-07 15:55:56
+P01430,M001,2025-04-24 19:17:02,285,Planejada,Falta de matéria-prima,2025-04-25 00:02:02
+P01431,M005,2025-07-29 13:20:00,224,Não planejada,Manutenção,2025-07-29 17:04:00
+P01432,M020,2025-07-12 13:59:48,257,Não planejada,Falha elétrica,2025-07-12 18:16:48
+P01433,M018,2025-06-06 22:10:29,311,Planejada,Falha elétrica,2025-06-07 03:21:29
+P01434,M002,2025-05-23 03:53:04,309,Planejada,Falta de matéria-prima,2025-05-23 09:02:04
+P01435,M014,2025-01-22 01:41:07,266,Não planejada,Superaquecimento,2025-01-22 06:07:07
+P01436,M002,2025-01-22 08:57:19,55,Não planejada,Ajuste operacional,2025-01-22 09:52:19
+P01437,M004,2025-01-06 18:54:05,305,Planejada,Falha elétrica,2025-01-06 23:59:05
+P01438,M014,2025-12-29 09:36:36,228,Não planejada,Falha elétrica,2025-12-29 13:24:36
+P01439,M017,2025-06-29 06:45:15,237,Não planejada,Falha elétrica,2025-06-29 10:42:15
+P01440,M002,2025-03-23 07:43:05,270,Não planejada,Superaquecimento,2025-03-23 12:13:05
+P01441,M016,2025-12-11 21:14:15,326,Não planejada,Vibração excessiva,2025-12-12 02:40:15
+P01442,M017,2025-07-01 01:10:17,168,Planejada,Vibração excessiva,2025-07-01 03:58:17
+P01443,M018,2025-09-27 17:19:53,223,Planejada,Vibração excessiva,2025-09-27 21:02:53
+P01444,M004,2025-04-02 05:14:39,122,Não planejada,Ajuste operacional,2025-04-02 07:16:39
+P01445,M001,2025-05-08 21:04:18,282,Planejada,Vibração excessiva,2025-05-09 01:46:18
+P01446,M014,2025-12-02 11:46:02,268,Planejada,Vibração excessiva,2025-12-02 16:14:02
+P01447,M006,2025-01-17 12:47:50,150,Não planejada,Ajuste operacional,2025-01-17 15:17:50
+P01448,M018,2025-07-30 00:50:49,123,Não planejada,Falta de matéria-prima,2025-07-30 02:53:49
+P01449,M018,2025-04-05 00:46:09,86,Planejada,Ajuste operacional,2025-04-05 02:12:09
+P01450,M005,2025-05-23 18:58:08,42,Não planejada,Vibração excessiva,2025-05-23 19:40:08
+P01451,M013,2025-06-17 00:20:38,239,Não planejada,Falta de matéria-prima,2025-06-17 04:19:38
+P01452,M005,2025-10-08 22:47:17,176,Não planejada,Falha elétrica,2025-10-09 01:43:17
+P01453,M012,2025-03-18 23:50:20,192,Planejada,Superaquecimento,2025-03-19 03:02:20
+P01454,M019,2025-07-21 10:12:36,28,Não planejada,Manutenção,2025-07-21 10:40:36
+P01455,M001,2025-03-07 21:54:26,303,Não planejada,Vibração excessiva,2025-03-08 02:57:26
+P01456,M003,2025-01-21 10:48:21,100,Planejada,Vibração excessiva,2025-01-21 12:28:21
+P01457,M003,2025-11-20 18:35:08,54,Não planejada,Superaquecimento,2025-11-20 19:29:08
+P01458,M016,2025-09-20 23:25:00,48,Não planejada,Superaquecimento,2025-09-21 00:13:00
+P01459,M011,2025-10-13 12:34:59,143,Planejada,Ajuste operacional,2025-10-13 14:57:59
+P01460,M004,2025-11-02 13:03:52,121,Não planejada,Falta de matéria-prima,2025-11-02 15:04:52
+P01461,M010,2025-11-24 12:53:39,104,Não planejada,Falta de matéria-prima,2025-11-24 14:37:39
+P01462,M017,2025-01-26 02:56:17,297,Não planejada,Ajuste operacional,2025-01-26 07:53:17
+P01463,M001,2025-01-18 17:59:03,320,Não planejada,Superaquecimento,2025-01-18 23:19:03
+P01464,M011,2025-07-25 00:14:46,194,Planejada,Manutenção,2025-07-25 03:28:46
+P01465,M003,2025-01-15 22:54:10,27,Planejada,Falta de matéria-prima,2025-01-15 23:21:10
+P01466,M009,2025-03-01 03:56:25,290,Não planejada,Manutenção,2025-03-01 08:46:25
+P01467,M015,2025-08-28 07:51:26,16,Planejada,Manutenção,2025-08-28 08:07:26
+P01468,M006,2025-06-20 11:34:05,208,Não planejada,Falta de matéria-prima,2025-06-20 15:02:05
+P01469,M011,2025-09-06 02:22:47,247,Não planejada,Falta de matéria-prima,2025-09-06 06:29:47
+P01470,M005,2025-10-15 10:01:25,18,Não planejada,Vibração excessiva,2025-10-15 10:19:25
+P01471,M017,2025-08-27 23:56:51,340,Planejada,Superaquecimento,2025-08-28 05:36:51
+P01472,M013,2025-04-24 14:17:58,314,Não planejada,Ajuste operacional,2025-04-24 19:31:58
+P01473,M015,2025-09-29 00:48:14,358,Planejada,Manutenção,2025-09-29 06:46:14
+P01474,M008,2025-06-28 03:47:39,257,Não planejada,Ajuste operacional,2025-06-28 08:04:39
+P01475,M013,2025-11-24 07:47:16,344,Planejada,Vibração excessiva,2025-11-24 13:31:16
+P01476,M010,2025-03-19 10:34:12,174,Planejada,Vibração excessiva,2025-03-19 13:28:12
+P01477,M004,2025-02-08 08:01:00,34,Planejada,Manutenção,2025-02-08 08:35:00
+P01478,M009,2025-10-29 08:49:48,77,Planejada,Superaquecimento,2025-10-29 10:06:48
+P01479,M014,2025-07-26 05:19:31,112,Não planejada,Vibração excessiva,2025-07-26 07:11:31
+P01480,M016,2025-04-13 07:50:37,217,Planejada,Falta de matéria-prima,2025-04-13 11:27:37
+P01481,M019,2025-11-30 07:05:30,355,Planejada,Vibração excessiva,2025-11-30 13:00:30
+P01482,M008,2025-12-25 21:18:59,139,Não planejada,Superaquecimento,2025-12-25 23:37:59
+P01483,M020,2025-02-19 09:17:57,247,Não planejada,Superaquecimento,2025-02-19 13:24:57
+P01484,M014,2025-07-09 05:27:17,297,Não planejada,Falha elétrica,2025-07-09 10:24:17
+P01485,M008,2025-07-22 15:28:54,94,Não planejada,Vibração excessiva,2025-07-22 17:02:54
+P01486,M007,2025-06-11 07:28:28,331,Planejada,Falha elétrica,2025-06-11 12:59:28
+P01487,M009,2025-12-13 12:37:46,278,Não planejada,Vibração excessiva,2025-12-13 17:15:46
+P01488,M006,2025-09-14 18:10:10,256,Não planejada,Vibração excessiva,2025-09-14 22:26:10
+P01489,M017,2025-10-06 13:28:18,139,Não planejada,Ajuste operacional,2025-10-06 15:47:18
+P01490,M020,2025-10-28 09:50:19,163,Não planejada,Falha elétrica,2025-10-28 12:33:19
+P01491,M004,2025-01-02 16:40:28,327,Não planejada,Superaquecimento,2025-01-02 22:07:28
+P01492,M012,2025-04-30 16:20:52,153,Não planejada,Ajuste operacional,2025-04-30 18:53:52
+P01493,M015,2025-10-08 19:07:27,194,Planejada,Falta de matéria-prima,2025-10-08 22:21:27
+P01494,M010,2025-10-28 01:35:07,356,Não planejada,Falta de matéria-prima,2025-10-28 07:31:07
+P01495,M008,2025-08-20 06:24:53,274,Planejada,Superaquecimento,2025-08-20 10:58:53
+P01496,M013,2025-12-24 19:13:36,14,Não planejada,Falha elétrica,2025-12-24 19:27:36
+P01497,M009,2025-04-29 12:58:49,113,Não planejada,Falta de matéria-prima,2025-04-29 14:51:49
+P01498,M009,2025-11-30 20:22:02,86,Não planejada,Manutenção,2025-11-30 21:48:02
+P01499,M016,2025-04-19 22:17:46,143,Planejada,Manutenção,2025-04-20 00:40:46
+P01500,M010,2025-02-04 03:46:16,153,Não planejada,Manutenção,2025-02-04 06:19:16
+P01501,M010,2025-06-03 02:02:06,123,Não planejada,Falta de matéria-prima,2025-06-03 04:05:06
+P01502,M010,2025-05-16 09:10:29,153,Não planejada,Manutenção,2025-05-16 11:43:29
+P01503,M013,2025-02-20 10:26:37,100,Não planejada,Ajuste operacional,2025-02-20 12:06:37
+P01504,M013,2025-09-03 17:38:23,244,Planejada,Ajuste operacional,2025-09-03 21:42:23
+P01505,M008,2025-11-12 14:42:27,39,Não planejada,Superaquecimento,2025-11-12 15:21:27
+P01506,M003,2025-02-14 04:50:15,21,Não planejada,Ajuste operacional,2025-02-14 05:11:15
+P01507,M007,2025-08-30 00:36:51,217,Não planejada,Vibração excessiva,2025-08-30 04:13:51
+P01508,M020,2025-11-19 00:30:58,232,Não planejada,Falha elétrica,2025-11-19 04:22:58
+P01509,M009,2025-06-10 14:16:23,143,Não planejada,Ajuste operacional,2025-06-10 16:39:23
+P01510,M013,2025-12-02 16:06:47,172,Não planejada,Manutenção,2025-12-02 18:58:47
+P01511,M004,2025-03-20 06:27:08,126,Não planejada,Superaquecimento,2025-03-20 08:33:08
+P01512,M018,2025-06-16 10:00:57,72,Planejada,Manutenção,2025-06-16 11:12:57
+P01513,M012,2025-02-12 07:42:52,344,Planejada,Falha elétrica,2025-02-12 13:26:52
+P01514,M018,2025-08-06 11:54:14,23,Planejada,Manutenção,2025-08-06 12:17:14
+P01515,M010,2025-04-23 03:49:33,268,Planejada,Ajuste operacional,2025-04-23 08:17:33
+P01516,M002,2025-06-03 04:54:11,339,Não planejada,Ajuste operacional,2025-06-03 10:33:11
+P01517,M008,2025-06-15 20:18:39,24,Não planejada,Falha elétrica,2025-06-15 20:42:39
+P01518,M020,2025-09-10 00:42:20,99,Não planejada,Superaquecimento,2025-09-10 02:21:20
+P01519,M017,2025-06-02 23:24:00,141,Planejada,Manutenção,2025-06-03 01:45:00
+P01520,M008,2025-10-26 03:45:36,252,Não planejada,Manutenção,2025-10-26 07:57:36
+P01521,M004,2025-12-29 17:51:59,186,Planejada,Vibração excessiva,2025-12-29 20:57:59
+P01522,M006,2025-11-27 07:38:46,244,Não planejada,Superaquecimento,2025-11-27 11:42:46
+P01523,M014,2025-12-05 17:31:39,300,Não planejada,Falta de matéria-prima,2025-12-05 22:31:39
+P01524,M015,2025-12-20 18:14:54,84,Planejada,Ajuste operacional,2025-12-20 19:38:54
+P01525,M002,2025-01-25 05:36:22,204,Planejada,Superaquecimento,2025-01-25 09:00:22
+P01526,M007,2025-09-29 08:37:25,205,Não planejada,Ajuste operacional,2025-09-29 12:02:25
+P01527,M020,2025-10-06 13:56:02,152,Não planejada,Ajuste operacional,2025-10-06 16:28:02
+P01528,M002,2025-06-26 16:14:32,215,Planejada,Falha elétrica,2025-06-26 19:49:32
+P01529,M005,2025-07-08 19:50:39,202,Não planejada,Falta de matéria-prima,2025-07-08 23:12:39
+P01530,M003,2025-08-07 15:00:48,352,Não planejada,Ajuste operacional,2025-08-07 20:52:48
+P01531,M006,2025-10-24 00:39:49,155,Planejada,Superaquecimento,2025-10-24 03:14:49
+P01532,M013,2025-10-30 14:53:53,75,Planejada,Falha elétrica,2025-10-30 16:08:53
+P01533,M010,2025-08-28 07:39:24,323,Planejada,Manutenção,2025-08-28 13:02:24
+P01534,M010,2025-10-05 22:22:07,266,Planejada,Falha elétrica,2025-10-06 02:48:07
+P01535,M003,2025-10-04 21:20:49,315,Planejada,Superaquecimento,2025-10-05 02:35:49
+P01536,M014,2025-11-25 19:16:46,72,Não planejada,Vibração excessiva,2025-11-25 20:28:46
+P01537,M012,2025-05-17 16:23:43,22,Não planejada,Vibração excessiva,2025-05-17 16:45:43
+P01538,M007,2025-06-17 04:05:18,68,Não planejada,Ajuste operacional,2025-06-17 05:13:18
+P01539,M014,2025-05-27 21:39:31,325,Não planejada,Vibração excessiva,2025-05-28 03:04:31
+P01540,M010,2025-09-19 09:53:31,147,Não planejada,Manutenção,2025-09-19 12:20:31
+P01541,M005,2025-07-17 17:14:40,118,Não planejada,Vibração excessiva,2025-07-17 19:12:40
+P01542,M006,2025-08-06 08:04:37,160,Não planejada,Falta de matéria-prima,2025-08-06 10:44:37
+P01543,M018,2025-10-01 09:34:16,165,Não planejada,Manutenção,2025-10-01 12:19:16
+P01544,M013,2025-04-02 18:16:29,317,Não planejada,Ajuste operacional,2025-04-02 23:33:29
+P01545,M012,2025-04-04 20:09:14,242,Não planejada,Falha elétrica,2025-04-05 00:11:14
+P01546,M014,2025-03-28 15:15:31,313,Planejada,Manutenção,2025-03-28 20:28:31
+P01547,M003,2025-09-20 06:15:39,21,Planejada,Vibração excessiva,2025-09-20 06:36:39
+P01548,M013,2025-03-31 21:16:39,25,Não planejada,Vibração excessiva,2025-03-31 21:41:39
+P01549,M015,2025-05-22 02:44:18,129,Não planejada,Falha elétrica,2025-05-22 04:53:18
+P01550,M014,2025-10-09 21:14:47,166,Não planejada,Manutenção,2025-10-10 00:00:47
+P01551,M011,2025-04-27 00:14:46,288,Não planejada,Superaquecimento,2025-04-27 05:02:46
+P01552,M018,2025-01-31 02:38:33,141,Não planejada,Superaquecimento,2025-01-31 04:59:33
+P01553,M018,2025-01-17 01:37:46,345,Planejada,Manutenção,2025-01-17 07:22:46
+P01554,M005,2025-07-01 22:55:02,149,Planejada,Vibração excessiva,2025-07-02 01:24:02
+P01555,M020,2025-12-10 07:08:36,197,Não planejada,Vibração excessiva,2025-12-10 10:25:36
+P01556,M015,2025-10-22 12:57:28,77,Não planejada,Ajuste operacional,2025-10-22 14:14:28
+P01557,M003,2025-07-02 16:27:07,308,Não planejada,Falta de matéria-prima,2025-07-02 21:35:07
+P01558,M012,2025-04-29 01:15:52,184,Não planejada,Superaquecimento,2025-04-29 04:19:52
+P01559,M006,2025-08-29 06:30:10,84,Planejada,Falta de matéria-prima,2025-08-29 07:54:10
+P01560,M016,2025-11-05 06:29:17,71,Planejada,Manutenção,2025-11-05 07:40:17
+P01561,M017,2025-03-08 21:50:45,244,Não planejada,Vibração excessiva,2025-03-09 01:54:45
+P01562,M004,2025-09-20 10:16:14,155,Não planejada,Falta de matéria-prima,2025-09-20 12:51:14
+P01563,M013,2025-03-21 02:33:35,88,Não planejada,Superaquecimento,2025-03-21 04:01:35
+P01564,M001,2025-07-10 22:58:17,327,Não planejada,Vibração excessiva,2025-07-11 04:25:17
+P01565,M016,2025-04-18 11:17:50,230,Não planejada,Falha elétrica,2025-04-18 15:07:50
+P01566,M011,2025-05-21 12:16:31,153,Planejada,Vibração excessiva,2025-05-21 14:49:31
+P01567,M005,2025-12-13 01:23:47,26,Não planejada,Falta de matéria-prima,2025-12-13 01:49:47
+P01568,M017,2025-10-23 20:46:20,20,Planejada,Falha elétrica,2025-10-23 21:06:20
+P01569,M001,2025-06-28 04:44:45,269,Não planejada,Manutenção,2025-06-28 09:13:45
+P01570,M020,2025-08-03 16:12:12,348,Não planejada,Falha elétrica,2025-08-03 22:00:12
+P01571,M013,2025-02-08 20:14:33,323,Não planejada,Manutenção,2025-02-09 01:37:33
+P01572,M020,2025-10-04 08:29:30,153,Não planejada,Vibração excessiva,2025-10-04 11:02:30
+P01573,M017,2025-02-27 15:00:20,301,Planejada,Manutenção,2025-02-27 20:01:20
+P01574,M012,2025-08-31 17:02:27,50,Planejada,Falta de matéria-prima,2025-08-31 17:52:27
+P01575,M018,2025-10-17 00:51:50,280,Planejada,Vibração excessiva,2025-10-17 05:31:50
+P01576,M018,2025-08-22 03:54:35,348,Não planejada,Falta de matéria-prima,2025-08-22 09:42:35
+P01577,M020,2025-07-15 14:09:06,338,Não planejada,Superaquecimento,2025-07-15 19:47:06
+P01578,M006,2025-10-13 17:27:52,342,Não planejada,Falta de matéria-prima,2025-10-13 23:09:52
+P01579,M015,2025-08-17 11:00:27,311,Não planejada,Falta de matéria-prima,2025-08-17 16:11:27
+P01580,M005,2025-09-03 19:55:12,44,Não planejada,Ajuste operacional,2025-09-03 20:39:12
+P01581,M013,2025-05-19 04:52:37,343,Planejada,Vibração excessiva,2025-05-19 10:35:37
+P01582,M017,2025-03-29 21:09:19,354,Planejada,Superaquecimento,2025-03-30 03:03:19
+P01583,M013,2025-11-08 21:32:53,179,Planejada,Superaquecimento,2025-11-09 00:31:53
+P01584,M020,2025-11-28 12:02:32,355,Planejada,Ajuste operacional,2025-11-28 17:57:32
+P01585,M020,2025-02-09 10:59:25,317,Planejada,Superaquecimento,2025-02-09 16:16:25
+P01586,M019,2025-10-01 16:03:58,184,Não planejada,Vibração excessiva,2025-10-01 19:07:58
+P01587,M005,2025-12-07 10:13:15,72,Não planejada,Manutenção,2025-12-07 11:25:15
+P01588,M007,2025-03-10 11:33:46,181,Não planejada,Falta de matéria-prima,2025-03-10 14:34:46
+P01589,M011,2025-08-08 13:32:00,176,Não planejada,Superaquecimento,2025-08-08 16:28:00
+P01590,M007,2025-05-26 22:29:54,39,Não planejada,Manutenção,2025-05-26 23:08:54
+P01591,M003,2025-04-16 14:18:04,16,Não planejada,Ajuste operacional,2025-04-16 14:34:04
+P01592,M002,2025-01-14 12:45:42,88,Não planejada,Ajuste operacional,2025-01-14 14:13:42
+P01593,M019,2025-06-30 15:11:06,359,Não planejada,Vibração excessiva,2025-06-30 21:10:06
+P01594,M003,2025-07-17 00:55:02,91,Não planejada,Manutenção,2025-07-17 02:26:02
+P01595,M010,2025-04-20 15:13:09,304,Planejada,Falta de matéria-prima,2025-04-20 20:17:09
+P01596,M005,2025-12-21 00:33:55,143,Planejada,Falta de matéria-prima,2025-12-21 02:56:55
+P01597,M017,2025-03-18 04:15:54,194,Planejada,Superaquecimento,2025-03-18 07:29:54
+P01598,M014,2025-02-12 12:56:05,158,Não planejada,Superaquecimento,2025-02-12 15:34:05
+P01599,M014,2025-08-25 12:34:29,229,Planejada,Vibração excessiva,2025-08-25 16:23:29
+P01600,M012,2025-04-13 15:39:00,54,Não planejada,Vibração excessiva,2025-04-13 16:33:00
+P01601,M002,2025-01-27 06:21:23,259,Não planejada,Falha elétrica,2025-01-27 10:40:23
+P01602,M020,2025-05-15 07:04:50,330,Não planejada,Manutenção,2025-05-15 12:34:50
+P01603,M017,2025-07-29 13:23:49,55,Planejada,Manutenção,2025-07-29 14:18:49
+P01604,M020,2025-12-09 23:35:09,246,Não planejada,Vibração excessiva,2025-12-10 03:41:09
+P01605,M005,2025-12-09 22:37:18,62,Não planejada,Falta de matéria-prima,2025-12-09 23:39:18
+P01606,M002,2025-09-26 07:33:39,235,Não planejada,Ajuste operacional,2025-09-26 11:28:39
+P01607,M017,2025-07-09 13:39:37,89,Não planejada,Vibração excessiva,2025-07-09 15:08:37
+P01608,M011,2025-12-11 06:14:54,202,Não planejada,Manutenção,2025-12-11 09:36:54
+P01609,M017,2025-10-02 20:57:40,34,Planejada,Superaquecimento,2025-10-02 21:31:40
+P01610,M009,2025-07-30 04:36:47,128,Planejada,Ajuste operacional,2025-07-30 06:44:47
+P01611,M019,2025-11-01 19:04:50,212,Não planejada,Manutenção,2025-11-01 22:36:50
+P01612,M003,2025-02-02 09:03:55,354,Planejada,Ajuste operacional,2025-02-02 14:57:55
+P01613,M020,2025-11-13 18:35:08,268,Planejada,Falha elétrica,2025-11-13 23:03:08
+P01614,M019,2025-05-08 08:17:21,356,Não planejada,Ajuste operacional,2025-05-08 14:13:21
+P01615,M015,2025-06-13 03:30:16,299,Não planejada,Vibração excessiva,2025-06-13 08:29:16
+P01616,M001,2025-02-10 14:51:31,69,Planejada,Falha elétrica,2025-02-10 16:00:31
+P01617,M007,2025-06-07 06:25:18,355,Não planejada,Ajuste operacional,2025-06-07 12:20:18
+P01618,M020,2025-07-13 14:50:09,335,Planejada,Falha elétrica,2025-07-13 20:25:09
+P01619,M017,2025-11-25 04:52:41,154,Não planejada,Manutenção,2025-11-25 07:26:41
+P01620,M020,2025-06-06 04:21:14,138,Não planejada,Ajuste operacional,2025-06-06 06:39:14
+P01621,M001,2025-12-08 01:32:20,312,Não planejada,Ajuste operacional,2025-12-08 06:44:20
+P01622,M011,2025-12-16 22:28:39,160,Não planejada,Falta de matéria-prima,2025-12-17 01:08:39
+P01623,M017,2025-01-10 16:51:54,177,Planejada,Falha elétrica,2025-01-10 19:48:54
+P01624,M016,2025-05-07 14:07:56,122,Não planejada,Ajuste operacional,2025-05-07 16:09:56
+P01625,M008,2025-05-13 08:36:41,74,Não planejada,Falta de matéria-prima,2025-05-13 09:50:41
+P01626,M001,2025-08-25 20:23:06,109,Planejada,Vibração excessiva,2025-08-25 22:12:06
+P01627,M015,2025-06-15 09:19:38,108,Não planejada,Vibração excessiva,2025-06-15 11:07:38
+P01628,M008,2025-12-15 11:20:23,318,Não planejada,Falta de matéria-prima,2025-12-15 16:38:23
+P01629,M002,2025-12-29 17:35:16,293,Não planejada,Superaquecimento,2025-12-29 22:28:16
+P01630,M019,2025-09-04 00:08:35,80,Não planejada,Vibração excessiva,2025-09-04 01:28:35
+P01631,M020,2025-08-19 16:07:15,80,Não planejada,Manutenção,2025-08-19 17:27:15
+P01632,M002,2025-10-14 00:32:05,262,Não planejada,Superaquecimento,2025-10-14 04:54:05
+P01633,M008,2025-06-21 04:07:34,201,Não planejada,Falta de matéria-prima,2025-06-21 07:28:34
+P01634,M008,2025-11-10 14:06:29,226,Não planejada,Vibração excessiva,2025-11-10 17:52:29
+P01635,M014,2025-01-02 06:18:54,248,Não planejada,Ajuste operacional,2025-01-02 10:26:54
+P01636,M015,2025-11-13 18:23:00,254,Não planejada,Superaquecimento,2025-11-13 22:37:00
+P01637,M009,2025-11-29 23:37:06,228,Não planejada,Falha elétrica,2025-11-30 03:25:06
+P01638,M007,2025-08-01 07:47:00,85,Não planejada,Manutenção,2025-08-01 09:12:00
+P01639,M003,2025-08-09 00:42:18,356,Não planejada,Vibração excessiva,2025-08-09 06:38:18
+P01640,M001,2025-10-16 11:19:04,10,Planejada,Falta de matéria-prima,2025-10-16 11:29:04
+P01641,M008,2025-03-15 21:09:52,148,Planejada,Falha elétrica,2025-03-15 23:37:52
+P01642,M002,2025-06-13 02:28:53,248,Não planejada,Falta de matéria-prima,2025-06-13 06:36:53
+P01643,M004,2025-11-12 04:14:00,47,Planejada,Manutenção,2025-11-12 05:01:00
+P01644,M016,2025-02-11 09:11:53,130,Não planejada,Superaquecimento,2025-02-11 11:21:53
+P01645,M004,2025-11-27 04:58:59,151,Planejada,Superaquecimento,2025-11-27 07:29:59
+P01646,M010,2025-05-01 20:09:32,233,Planejada,Falha elétrica,2025-05-02 00:02:32
+P01647,M002,2025-01-07 11:02:18,12,Não planejada,Falha elétrica,2025-01-07 11:14:18
+P01648,M004,2025-05-10 10:11:07,271,Não planejada,Superaquecimento,2025-05-10 14:42:07
+P01649,M009,2025-05-12 08:10:50,36,Não planejada,Ajuste operacional,2025-05-12 08:46:50
+P01650,M008,2025-05-21 11:43:46,143,Não planejada,Falha elétrica,2025-05-21 14:06:46
+P01651,M001,2025-06-14 17:35:55,350,Planejada,Manutenção,2025-06-14 23:25:55
+P01652,M004,2025-01-03 01:38:35,334,Não planejada,Manutenção,2025-01-03 07:12:35
+P01653,M004,2025-09-01 22:45:07,104,Não planejada,Superaquecimento,2025-09-02 00:29:07
+P01654,M018,2025-08-17 04:10:11,249,Planejada,Manutenção,2025-08-17 08:19:11
+P01655,M014,2025-08-10 14:25:39,241,Não planejada,Falha elétrica,2025-08-10 18:26:39
+P01656,M003,2025-10-12 08:31:05,143,Planejada,Superaquecimento,2025-10-12 10:54:05
+P01657,M016,2025-01-22 08:51:20,129,Não planejada,Ajuste operacional,2025-01-22 11:00:20
+P01658,M015,2025-09-16 02:44:18,354,Não planejada,Falha elétrica,2025-09-16 08:38:18
+P01659,M013,2025-04-06 03:48:36,191,Não planejada,Ajuste operacional,2025-04-06 06:59:36
+P01660,M018,2025-04-08 03:27:58,147,Planejada,Vibração excessiva,2025-04-08 05:54:58
+P01661,M008,2025-04-21 21:50:26,294,Não planejada,Manutenção,2025-04-22 02:44:26
+P01662,M017,2025-02-16 12:10:24,18,Não planejada,Falta de matéria-prima,2025-02-16 12:28:24
+P01663,M015,2025-05-25 13:35:53,351,Planejada,Vibração excessiva,2025-05-25 19:26:53
+P01664,M013,2025-01-20 07:40:00,272,Não planejada,Falta de matéria-prima,2025-01-20 12:12:00
+P01665,M008,2025-09-10 12:30:12,253,Planejada,Vibração excessiva,2025-09-10 16:43:12
+P01666,M005,2025-10-12 14:21:45,34,Não planejada,Falta de matéria-prima,2025-10-12 14:55:45
+P01667,M008,2025-06-08 03:16:29,341,Não planejada,Vibração excessiva,2025-06-08 08:57:29
+P01668,M006,2025-05-12 13:54:08,257,Não planejada,Superaquecimento,2025-05-12 18:11:08
+P01669,M005,2025-09-16 23:40:05,39,Não planejada,Falha elétrica,2025-09-17 00:19:05
+P01670,M004,2025-06-27 00:49:03,151,Planejada,Ajuste operacional,2025-06-27 03:20:03
+P01671,M019,2025-08-06 01:16:48,214,Não planejada,Falta de matéria-prima,2025-08-06 04:50:48
+P01672,M003,2025-01-03 02:56:03,152,Planejada,Falha elétrica,2025-01-03 05:28:03
+P01673,M004,2025-04-22 16:14:36,194,Não planejada,Manutenção,2025-04-22 19:28:36
+P01674,M010,2025-01-24 06:41:01,178,Não planejada,Vibração excessiva,2025-01-24 09:39:01
+P01675,M011,2025-12-10 13:56:51,244,Não planejada,Vibração excessiva,2025-12-10 18:00:51
+P01676,M008,2025-03-31 14:28:40,215,Não planejada,Superaquecimento,2025-03-31 18:03:40
+P01677,M002,2025-04-13 12:29:09,37,Não planejada,Vibração excessiva,2025-04-13 13:06:09
+P01678,M018,2025-12-03 12:44:03,212,Planejada,Vibração excessiva,2025-12-03 16:16:03
+P01679,M014,2025-04-03 16:51:36,163,Não planejada,Falha elétrica,2025-04-03 19:34:36
+P01680,M005,2025-01-20 16:31:38,53,Não planejada,Falha elétrica,2025-01-20 17:24:38
+P01681,M013,2025-10-02 09:17:46,214,Não planejada,Superaquecimento,2025-10-02 12:51:46
+P01682,M014,2025-12-25 06:30:29,129,Planejada,Falha elétrica,2025-12-25 08:39:29
+P01683,M012,2025-06-29 11:30:34,59,Não planejada,Superaquecimento,2025-06-29 12:29:34
+P01684,M006,2025-06-29 03:15:44,116,Não planejada,Falta de matéria-prima,2025-06-29 05:11:44
+P01685,M009,2025-07-11 15:24:55,142,Não planejada,Ajuste operacional,2025-07-11 17:46:55
+P01686,M007,2025-12-04 06:31:46,65,Não planejada,Superaquecimento,2025-12-04 07:36:46
+P01687,M018,2025-10-10 02:59:33,139,Não planejada,Ajuste operacional,2025-10-10 05:18:33
+P01688,M016,2025-05-14 12:37:20,327,Não planejada,Ajuste operacional,2025-05-14 18:04:20
+P01689,M017,2025-11-27 18:35:08,200,Não planejada,Superaquecimento,2025-11-27 21:55:08
+P01690,M019,2025-09-28 04:35:00,105,Não planejada,Superaquecimento,2025-09-28 06:20:00
+P01691,M015,2025-10-26 07:15:38,194,Não planejada,Ajuste operacional,2025-10-26 10:29:38
+P01692,M011,2025-07-23 22:59:18,30,Planejada,Falta de matéria-prima,2025-07-23 23:29:18
+P01693,M018,2025-09-06 09:46:47,359,Planejada,Falta de matéria-prima,2025-09-06 15:45:47
+P01694,M004,2025-10-07 19:43:46,96,Não planejada,Manutenção,2025-10-07 21:19:46
+P01695,M014,2025-10-28 08:08:16,333,Não planejada,Manutenção,2025-10-28 13:41:16
+P01696,M020,2025-09-08 02:34:28,321,Não planejada,Vibração excessiva,2025-09-08 07:55:28
+P01697,M016,2025-08-04 11:14:21,65,Planejada,Falta de matéria-prima,2025-08-04 12:19:21
+P01698,M009,2025-06-13 19:06:07,198,Planejada,Ajuste operacional,2025-06-13 22:24:07
+P01699,M011,2025-08-26 03:05:01,55,Planejada,Manutenção,2025-08-26 04:00:01
+P01700,M014,2025-04-18 16:08:50,184,Planejada,Ajuste operacional,2025-04-18 19:12:50
+P01701,M018,2025-07-27 19:05:56,221,Planejada,Vibração excessiva,2025-07-27 22:46:56
+P01702,M008,2025-06-26 00:55:48,68,Não planejada,Vibração excessiva,2025-06-26 02:03:48
+P01703,M011,2025-05-13 03:04:19,158,Não planejada,Vibração excessiva,2025-05-13 05:42:19
+P01704,M007,2025-10-30 08:52:09,215,Planejada,Falha elétrica,2025-10-30 12:27:09
+P01705,M019,2025-03-06 17:55:02,16,Planejada,Vibração excessiva,2025-03-06 18:11:02
+P01706,M019,2025-12-27 09:02:25,145,Não planejada,Ajuste operacional,2025-12-27 11:27:25
+P01707,M014,2025-07-27 03:32:49,96,Planejada,Vibração excessiva,2025-07-27 05:08:49
+P01708,M013,2025-10-29 16:29:28,199,Não planejada,Falha elétrica,2025-10-29 19:48:28
+P01709,M018,2025-06-18 19:46:20,290,Planejada,Superaquecimento,2025-06-19 00:36:20
+P01710,M005,2025-01-03 22:14:04,197,Planejada,Manutenção,2025-01-04 01:31:04
+P01711,M013,2025-10-19 16:41:24,126,Planejada,Superaquecimento,2025-10-19 18:47:24
+P01712,M010,2025-09-14 01:50:36,184,Não planejada,Falta de matéria-prima,2025-09-14 04:54:36
+P01713,M002,2025-08-25 00:33:23,100,Planejada,Ajuste operacional,2025-08-25 02:13:23
+P01714,M007,2025-09-08 18:32:41,99,Não planejada,Vibração excessiva,2025-09-08 20:11:41
+P01715,M002,2025-02-24 08:28:20,202,Não planejada,Falha elétrica,2025-02-24 11:50:20
+P01716,M003,2025-02-11 23:39:38,161,Não planejada,Falta de matéria-prima,2025-02-12 02:20:38
+P01717,M014,2025-10-21 09:08:06,193,Não planejada,Manutenção,2025-10-21 12:21:06
+P01718,M016,2025-10-17 08:24:13,44,Planejada,Superaquecimento,2025-10-17 09:08:13
+P01719,M015,2025-10-15 23:03:24,38,Planejada,Ajuste operacional,2025-10-15 23:41:24
+P01720,M012,2025-05-31 00:24:26,104,Não planejada,Falta de matéria-prima,2025-05-31 02:08:26
+P01721,M011,2025-10-25 20:40:17,142,Planejada,Superaquecimento,2025-10-25 23:02:17
+P01722,M019,2025-05-10 21:13:44,22,Não planejada,Manutenção,2025-05-10 21:35:44
+P01723,M020,2025-06-23 20:35:41,359,Não planejada,Vibração excessiva,2025-06-24 02:34:41
+P01724,M002,2025-03-28 02:53:35,76,Planejada,Ajuste operacional,2025-03-28 04:09:35
+P01725,M012,2025-12-02 19:44:39,92,Não planejada,Vibração excessiva,2025-12-02 21:16:39
+P01726,M003,2025-11-15 17:37:38,224,Não planejada,Vibração excessiva,2025-11-15 21:21:38
+P01727,M012,2025-03-23 09:29:31,252,Não planejada,Vibração excessiva,2025-03-23 13:41:31
+P01728,M009,2025-02-01 11:16:03,214,Não planejada,Superaquecimento,2025-02-01 14:50:03
+P01729,M005,2025-01-26 23:48:22,123,Não planejada,Manutenção,2025-01-27 01:51:22
+P01730,M002,2025-08-17 00:43:46,82,Planejada,Superaquecimento,2025-08-17 02:05:46
+P01731,M016,2025-08-15 04:44:45,88,Não planejada,Superaquecimento,2025-08-15 06:12:45
+P01732,M019,2025-02-03 16:19:27,130,Não planejada,Vibração excessiva,2025-02-03 18:29:27
+P01733,M004,2025-04-20 09:44:34,283,Planejada,Manutenção,2025-04-20 14:27:34
+P01734,M014,2025-01-21 14:02:25,265,Não planejada,Superaquecimento,2025-01-21 18:27:25
+P01735,M017,2025-07-09 03:07:15,49,Não planejada,Superaquecimento,2025-07-09 03:56:15
+P01736,M004,2025-05-31 19:49:38,151,Planejada,Superaquecimento,2025-05-31 22:20:38
+P01737,M018,2025-01-17 03:58:56,50,Não planejada,Falha elétrica,2025-01-17 04:48:56
+P01738,M019,2025-05-07 01:46:24,121,Não planejada,Manutenção,2025-05-07 03:47:24
+P01739,M004,2025-10-26 02:31:37,66,Não planejada,Falta de matéria-prima,2025-10-26 03:37:37
+P01740,M018,2025-04-22 18:54:50,255,Não planejada,Falta de matéria-prima,2025-04-22 23:09:50
+P01741,M010,2025-08-03 10:53:40,209,Planejada,Vibração excessiva,2025-08-03 14:22:40
+P01742,M020,2025-10-30 06:41:25,318,Não planejada,Falha elétrica,2025-10-30 11:59:25
+P01743,M003,2025-12-10 03:14:48,233,Não planejada,Manutenção,2025-12-10 07:07:48
+P01744,M010,2025-02-17 00:45:05,346,Não planejada,Vibração excessiva,2025-02-17 06:31:05
+P01745,M004,2025-04-17 13:36:43,275,Não planejada,Manutenção,2025-04-17 18:11:43
+P01746,M010,2025-11-06 20:05:13,209,Não planejada,Superaquecimento,2025-11-06 23:34:13
+P01747,M014,2025-02-28 05:44:17,140,Não planejada,Ajuste operacional,2025-02-28 08:04:17
+P01748,M005,2025-07-14 20:54:27,260,Planejada,Superaquecimento,2025-07-15 01:14:27
+P01749,M016,2025-03-22 16:36:08,262,Não planejada,Manutenção,2025-03-22 20:58:08
+P01750,M001,2025-12-29 08:40:30,351,Não planejada,Superaquecimento,2025-12-29 14:31:30
+P01751,M011,2025-01-09 20:07:33,233,Não planejada,Falta de matéria-prima,2025-01-10 00:00:33
+P01752,M006,2025-10-11 23:26:49,258,Planejada,Superaquecimento,2025-10-12 03:44:49
+P01753,M006,2025-03-20 00:29:26,80,Não planejada,Falta de matéria-prima,2025-03-20 01:49:26
+P01754,M019,2025-06-12 09:48:29,35,Não planejada,Vibração excessiva,2025-06-12 10:23:29
+P01755,M002,2025-12-07 21:40:16,116,Não planejada,Vibração excessiva,2025-12-07 23:36:16
+P01756,M011,2025-12-23 11:52:18,282,Não planejada,Ajuste operacional,2025-12-23 16:34:18
+P01757,M005,2025-01-01 07:00:59,261,Não planejada,Manutenção,2025-01-01 11:21:59
+P01758,M006,2025-03-10 13:30:46,43,Não planejada,Ajuste operacional,2025-03-10 14:13:46
+P01759,M019,2025-04-28 22:38:35,92,Não planejada,Vibração excessiva,2025-04-29 00:10:35
+P01760,M008,2025-10-27 02:17:14,336,Não planejada,Falta de matéria-prima,2025-10-27 07:53:14
+P01761,M003,2025-02-04 15:13:55,161,Não planejada,Vibração excessiva,2025-02-04 17:54:55
+P01762,M020,2025-11-30 11:21:15,111,Não planejada,Falta de matéria-prima,2025-11-30 13:12:15
+P01763,M010,2025-07-02 12:14:08,265,Não planejada,Falha elétrica,2025-07-02 16:39:08
+P01764,M011,2025-11-16 11:32:46,266,Não planejada,Falta de matéria-prima,2025-11-16 15:58:46
+P01765,M012,2025-01-25 11:10:32,296,Planejada,Manutenção,2025-01-25 16:06:32
+P01766,M002,2025-10-07 15:05:03,69,Não planejada,Superaquecimento,2025-10-07 16:14:03
+P01767,M017,2025-06-10 13:38:22,329,Não planejada,Vibração excessiva,2025-06-10 19:07:22
+P01768,M005,2025-04-02 12:47:44,297,Não planejada,Ajuste operacional,2025-04-02 17:44:44
+P01769,M014,2025-05-28 13:18:22,76,Não planejada,Superaquecimento,2025-05-28 14:34:22
+P01770,M004,2025-03-28 12:15:39,228,Planejada,Vibração excessiva,2025-03-28 16:03:39
+P01771,M008,2025-11-09 06:20:54,272,Não planejada,Ajuste operacional,2025-11-09 10:52:54
+P01772,M018,2025-01-19 13:40:05,81,Não planejada,Ajuste operacional,2025-01-19 15:01:05
+P01773,M019,2025-08-24 00:35:00,346,Não planejada,Falha elétrica,2025-08-24 06:21:00
+P01774,M019,2025-11-17 16:05:50,354,Não planejada,Falta de matéria-prima,2025-11-17 21:59:50
+P01775,M014,2025-06-19 01:21:09,277,Planejada,Vibração excessiva,2025-06-19 05:58:09
+P01776,M005,2025-05-24 07:01:14,188,Não planejada,Manutenção,2025-05-24 10:09:14
+P01777,M012,2025-10-11 08:42:10,251,Planejada,Falha elétrica,2025-10-11 12:53:10
+P01778,M020,2025-04-06 22:05:10,93,Planejada,Superaquecimento,2025-04-06 23:38:10
+P01779,M011,2025-08-01 03:23:13,313,Não planejada,Ajuste operacional,2025-08-01 08:36:13
+P01780,M017,2025-12-09 22:13:47,197,Não planejada,Vibração excessiva,2025-12-10 01:30:47
+P01781,M018,2025-09-24 10:32:02,24,Planejada,Superaquecimento,2025-09-24 10:56:02
+P01782,M018,2025-04-17 14:36:38,177,Não planejada,Vibração excessiva,2025-04-17 17:33:38
+P01783,M005,2025-09-02 07:21:21,352,Não planejada,Superaquecimento,2025-09-02 13:13:21
+P01784,M016,2025-08-06 14:38:06,199,Não planejada,Ajuste operacional,2025-08-06 17:57:06
+P01785,M009,2025-06-19 05:37:59,275,Não planejada,Vibração excessiva,2025-06-19 10:12:59
+P01786,M002,2025-03-22 00:33:49,229,Não planejada,Falha elétrica,2025-03-22 04:22:49
+P01787,M010,2025-06-17 05:28:24,11,Não planejada,Falta de matéria-prima,2025-06-17 05:39:24
+P01788,M014,2025-05-06 16:20:42,236,Planejada,Ajuste operacional,2025-05-06 20:16:42
+P01789,M003,2025-04-06 20:38:06,353,Não planejada,Falha elétrica,2025-04-07 02:31:06
+P01790,M001,2025-10-03 16:23:05,169,Planejada,Superaquecimento,2025-10-03 19:12:05
+P01791,M011,2025-01-01 22:34:22,48,Planejada,Vibração excessiva,2025-01-01 23:22:22
+P01792,M003,2025-08-21 02:47:58,356,Não planejada,Superaquecimento,2025-08-21 08:43:58
+P01793,M015,2025-07-19 06:45:37,346,Não planejada,Vibração excessiva,2025-07-19 12:31:37
+P01794,M002,2025-05-06 02:50:02,16,Não planejada,Falta de matéria-prima,2025-05-06 03:06:02
+P01795,M017,2025-06-11 12:48:08,35,Não planejada,Vibração excessiva,2025-06-11 13:23:08
+P01796,M007,2025-08-28 12:16:09,78,Planejada,Falta de matéria-prima,2025-08-28 13:34:09
+P01797,M006,2025-04-26 20:55:59,167,Planejada,Falha elétrica,2025-04-26 23:42:59
+P01798,M010,2025-04-09 20:49:47,106,Planejada,Superaquecimento,2025-04-09 22:35:47
+P01799,M020,2025-04-01 05:38:07,87,Não planejada,Superaquecimento,2025-04-01 07:05:07
+P01800,M016,2025-07-13 07:34:23,322,Não planejada,Manutenção,2025-07-13 12:56:23
+P01801,M020,2025-04-27 16:39:05,71,Planejada,Ajuste operacional,2025-04-27 17:50:05
+P01802,M015,2025-05-21 15:38:35,255,Não planejada,Falha elétrica,2025-05-21 19:53:35
+P01803,M002,2025-01-16 06:59:34,125,Planejada,Falta de matéria-prima,2025-01-16 09:04:34
+P01804,M011,2025-11-27 21:01:01,151,Não planejada,Superaquecimento,2025-11-27 23:32:01
+P01805,M020,2025-06-03 17:38:19,204,Planejada,Falha elétrica,2025-06-03 21:02:19
+P01806,M016,2025-09-04 15:19:45,326,Não planejada,Manutenção,2025-09-04 20:45:45
+P01807,M006,2025-02-25 07:40:30,122,Não planejada,Ajuste operacional,2025-02-25 09:42:30
+P01808,M017,2025-07-29 05:07:54,106,Planejada,Falha elétrica,2025-07-29 06:53:54
+P01809,M004,2025-02-07 21:59:01,236,Não planejada,Falha elétrica,2025-02-08 01:55:01
+P01810,M002,2025-02-08 01:15:43,191,Não planejada,Ajuste operacional,2025-02-08 04:26:43
+P01811,M007,2025-01-05 04:07:50,50,Não planejada,Ajuste operacional,2025-01-05 04:57:50
+P01812,M009,2025-02-28 13:14:39,159,Não planejada,Ajuste operacional,2025-02-28 15:53:39
+P01813,M016,2025-05-04 16:28:26,225,Não planejada,Falta de matéria-prima,2025-05-04 20:13:26
+P01814,M002,2025-02-16 12:06:15,137,Planejada,Superaquecimento,2025-02-16 14:23:15
+P01815,M013,2025-10-14 23:04:48,115,Planejada,Falha elétrica,2025-10-15 00:59:48
+P01816,M008,2025-04-03 04:01:03,165,Não planejada,Ajuste operacional,2025-04-03 06:46:03
+P01817,M012,2025-01-29 05:48:38,344,Planejada,Vibração excessiva,2025-01-29 11:32:38
+P01818,M013,2025-04-02 14:53:56,186,Não planejada,Falta de matéria-prima,2025-04-02 17:59:56
+P01819,M020,2025-06-24 23:16:32,284,Não planejada,Manutenção,2025-06-25 04:00:32
+P01820,M001,2025-09-02 08:05:29,176,Planejada,Falta de matéria-prima,2025-09-02 11:01:29
+P01821,M005,2025-03-21 20:48:32,66,Planejada,Falha elétrica,2025-03-21 21:54:32
+P01822,M002,2025-10-02 09:54:00,348,Não planejada,Ajuste operacional,2025-10-02 15:42:00
+P01823,M003,2025-02-20 17:51:38,223,Não planejada,Ajuste operacional,2025-02-20 21:34:38
+P01824,M006,2025-08-12 23:40:09,350,Planejada,Manutenção,2025-08-13 05:30:09
+P01825,M011,2025-10-16 20:34:00,196,Planejada,Manutenção,2025-10-16 23:50:00
+P01826,M009,2025-06-30 10:18:15,42,Não planejada,Superaquecimento,2025-06-30 11:00:15
+P01827,M003,2025-02-17 16:35:29,155,Planejada,Superaquecimento,2025-02-17 19:10:29
+P01828,M010,2025-08-27 15:21:53,273,Não planejada,Vibração excessiva,2025-08-27 19:54:53
+P01829,M011,2025-12-20 00:55:41,293,Não planejada,Ajuste operacional,2025-12-20 05:48:41
+P01830,M020,2025-01-22 09:59:04,103,Não planejada,Falha elétrica,2025-01-22 11:42:04
+P01831,M005,2025-08-14 15:32:30,352,Não planejada,Superaquecimento,2025-08-14 21:24:30
+P01832,M004,2025-09-05 12:11:54,108,Planejada,Superaquecimento,2025-09-05 13:59:54
+P01833,M017,2025-02-17 21:53:42,206,Não planejada,Falta de matéria-prima,2025-02-18 01:19:42
+P01834,M012,2025-10-17 21:16:42,330,Planejada,Manutenção,2025-10-18 02:46:42
+P01835,M012,2025-02-08 15:34:57,158,Planejada,Vibração excessiva,2025-02-08 18:12:57
+P01836,M016,2025-07-16 15:51:56,102,Não planejada,Manutenção,2025-07-16 17:33:56
+P01837,M001,2025-06-24 17:55:29,198,Não planejada,Superaquecimento,2025-06-24 21:13:29
+P01838,M010,2025-11-28 08:53:20,271,Planejada,Manutenção,2025-11-28 13:24:20
+P01839,M008,2025-11-29 17:51:46,196,Não planejada,Falta de matéria-prima,2025-11-29 21:07:46
+P01840,M004,2025-07-04 17:44:34,202,Não planejada,Manutenção,2025-07-04 21:06:34
+P01841,M003,2025-07-08 20:57:26,33,Não planejada,Vibração excessiva,2025-07-08 21:30:26
+P01842,M019,2025-06-20 12:20:12,244,Não planejada,Superaquecimento,2025-06-20 16:24:12
+P01843,M010,2025-06-24 11:23:38,225,Não planejada,Ajuste operacional,2025-06-24 15:08:38
+P01844,M006,2025-02-10 18:51:26,297,Não planejada,Superaquecimento,2025-02-10 23:48:26
+P01845,M012,2025-10-02 19:36:23,105,Planejada,Vibração excessiva,2025-10-02 21:21:23
+P01846,M006,2025-07-02 12:32:53,279,Não planejada,Ajuste operacional,2025-07-02 17:11:53
+P01847,M006,2025-08-15 16:10:50,121,Não planejada,Vibração excessiva,2025-08-15 18:11:50
+P01848,M002,2025-07-21 01:18:27,108,Não planejada,Falha elétrica,2025-07-21 03:06:27
+P01849,M016,2025-03-27 04:51:13,55,Planejada,Vibração excessiva,2025-03-27 05:46:13
+P01850,M009,2025-02-09 21:06:10,357,Não planejada,Manutenção,2025-02-10 03:03:10
+P01851,M018,2025-08-29 14:28:01,31,Não planejada,Vibração excessiva,2025-08-29 14:59:01
+P01852,M019,2025-05-27 05:30:38,50,Não planejada,Manutenção,2025-05-27 06:20:38
+P01853,M002,2025-06-08 02:41:50,17,Não planejada,Superaquecimento,2025-06-08 02:58:50
+P01854,M009,2025-11-09 08:32:43,229,Planejada,Falha elétrica,2025-11-09 12:21:43
+P01855,M001,2025-12-16 06:42:51,294,Não planejada,Vibração excessiva,2025-12-16 11:36:51
+P01856,M020,2025-10-06 02:54:22,108,Não planejada,Falta de matéria-prima,2025-10-06 04:42:22
+P01857,M011,2025-05-17 13:33:57,337,Planejada,Falha elétrica,2025-05-17 19:10:57
+P01858,M017,2025-02-28 21:51:47,298,Não planejada,Falta de matéria-prima,2025-03-01 02:49:47
+P01859,M016,2025-10-19 05:34:44,42,Não planejada,Vibração excessiva,2025-10-19 06:16:44
+P01860,M015,2025-02-15 12:08:13,220,Não planejada,Falta de matéria-prima,2025-02-15 15:48:13
+P01861,M003,2025-08-12 00:49:37,236,Planejada,Vibração excessiva,2025-08-12 04:45:37
+P01862,M002,2025-10-14 04:34:25,278,Não planejada,Manutenção,2025-10-14 09:12:25
+P01863,M009,2025-07-05 19:56:41,181,Planejada,Superaquecimento,2025-07-05 22:57:41
+P01864,M015,2025-10-11 11:08:34,175,Não planejada,Falha elétrica,2025-10-11 14:03:34
+P01865,M009,2025-12-05 23:02:54,165,Não planejada,Superaquecimento,2025-12-06 01:47:54
+P01866,M009,2025-07-29 16:59:44,238,Não planejada,Ajuste operacional,2025-07-29 20:57:44
+P01867,M015,2025-09-06 02:54:54,153,Planejada,Falha elétrica,2025-09-06 05:27:54
+P01868,M003,2025-09-26 16:35:45,262,Não planejada,Vibração excessiva,2025-09-26 20:57:45
+P01869,M009,2025-12-25 16:13:04,296,Não planejada,Vibração excessiva,2025-12-25 21:09:04
+P01870,M017,2025-02-23 02:53:04,82,Planejada,Falha elétrica,2025-02-23 04:15:04
+P01871,M011,2025-07-04 22:30:35,210,Não planejada,Ajuste operacional,2025-07-05 02:00:35
+P01872,M009,2025-07-20 17:24:25,178,Não planejada,Ajuste operacional,2025-07-20 20:22:25
+P01873,M003,2025-01-25 15:23:10,41,Planejada,Vibração excessiva,2025-01-25 16:04:10
+P01874,M016,2025-07-10 22:04:10,231,Não planejada,Superaquecimento,2025-07-11 01:55:10
+P01875,M010,2025-10-21 02:16:09,275,Planejada,Falta de matéria-prima,2025-10-21 06:51:09
+P01876,M013,2025-01-18 19:43:42,57,Planejada,Superaquecimento,2025-01-18 20:40:42
+P01877,M002,2025-06-25 02:06:37,149,Planejada,Vibração excessiva,2025-06-25 04:35:37
+P01878,M008,2025-04-08 00:27:37,280,Não planejada,Falha elétrica,2025-04-08 05:07:37
+P01879,M003,2025-01-16 01:53:49,226,Não planejada,Vibração excessiva,2025-01-16 05:39:49
+P01880,M018,2025-11-16 05:04:48,331,Planejada,Manutenção,2025-11-16 10:35:48
+P01881,M002,2025-08-03 23:33:00,184,Não planejada,Manutenção,2025-08-04 02:37:00
+P01882,M001,2025-05-13 20:00:48,177,Planejada,Ajuste operacional,2025-05-13 22:57:48
+P01883,M004,2025-05-17 17:04:43,355,Planejada,Superaquecimento,2025-05-17 22:59:43
+P01884,M012,2025-04-08 14:47:30,301,Planejada,Falta de matéria-prima,2025-04-08 19:48:30
+P01885,M010,2025-08-02 01:15:50,58,Não planejada,Ajuste operacional,2025-08-02 02:13:50
+P01886,M004,2025-09-23 03:52:28,37,Não planejada,Manutenção,2025-09-23 04:29:28
+P01887,M004,2025-06-27 10:04:27,251,Planejada,Ajuste operacional,2025-06-27 14:15:27
+P01888,M019,2025-09-01 18:11:40,114,Planejada,Falha elétrica,2025-09-01 20:05:40
+P01889,M009,2025-06-02 23:54:43,73,Não planejada,Manutenção,2025-06-03 01:07:43
+P01890,M019,2025-03-15 17:57:31,183,Não planejada,Falha elétrica,2025-03-15 21:00:31
+P01891,M004,2025-08-04 14:56:08,241,Planejada,Superaquecimento,2025-08-04 18:57:08
+P01892,M012,2025-03-23 18:32:06,35,Não planejada,Superaquecimento,2025-03-23 19:07:06
+P01893,M003,2025-02-20 03:17:32,53,Não planejada,Ajuste operacional,2025-02-20 04:10:32
+P01894,M008,2025-10-14 00:50:08,290,Não planejada,Ajuste operacional,2025-10-14 05:40:08
+P01895,M008,2025-07-17 02:22:52,201,Não planejada,Falha elétrica,2025-07-17 05:43:52
+P01896,M013,2025-05-09 19:47:02,254,Planejada,Falta de matéria-prima,2025-05-10 00:01:02
+P01897,M011,2025-09-19 01:18:31,232,Não planejada,Manutenção,2025-09-19 05:10:31
+P01898,M011,2025-12-05 21:10:19,144,Não planejada,Falha elétrica,2025-12-05 23:34:19
+P01899,M013,2025-02-17 05:18:42,166,Não planejada,Falta de matéria-prima,2025-02-17 08:04:42
+P01900,M007,2025-09-11 07:03:55,81,Não planejada,Ajuste operacional,2025-09-11 08:24:55
+P01901,M010,2025-05-30 03:40:50,344,Não planejada,Ajuste operacional,2025-05-30 09:24:50
+P01902,M011,2025-11-23 03:01:00,291,Não planejada,Falta de matéria-prima,2025-11-23 07:52:00
+P01903,M006,2025-12-03 16:49:56,202,Não planejada,Falta de matéria-prima,2025-12-03 20:11:56
+P01904,M006,2025-03-07 03:36:50,114,Não planejada,Manutenção,2025-03-07 05:30:50
+P01905,M018,2025-06-16 19:18:29,13,Não planejada,Vibração excessiva,2025-06-16 19:31:29
+P01906,M015,2025-08-10 10:40:01,113,Planejada,Vibração excessiva,2025-08-10 12:33:01
+P01907,M010,2025-08-22 07:28:09,275,Não planejada,Ajuste operacional,2025-08-22 12:03:09
+P01908,M011,2025-12-28 07:40:28,36,Planejada,Falta de matéria-prima,2025-12-28 08:16:28
+P01909,M005,2025-05-19 20:41:20,159,Não planejada,Ajuste operacional,2025-05-19 23:20:20
+P01910,M018,2025-08-27 04:08:29,228,Não planejada,Vibração excessiva,2025-08-27 07:56:29
+P01911,M018,2025-01-21 03:05:59,200,Não planejada,Falha elétrica,2025-01-21 06:25:59
+P01912,M005,2025-04-08 09:55:42,218,Não planejada,Ajuste operacional,2025-04-08 13:33:42
+P01913,M010,2025-07-11 03:40:45,236,Planejada,Vibração excessiva,2025-07-11 07:36:45
+P01914,M007,2025-01-02 15:37:03,42,Não planejada,Falta de matéria-prima,2025-01-02 16:19:03
+P01915,M005,2025-05-20 04:17:22,30,Não planejada,Superaquecimento,2025-05-20 04:47:22
+P01916,M019,2025-05-09 20:58:36,359,Não planejada,Superaquecimento,2025-05-10 02:57:36
+P01917,M009,2025-10-21 06:55:40,236,Planejada,Manutenção,2025-10-21 10:51:40
+P01918,M014,2025-12-20 15:18:14,215,Planejada,Manutenção,2025-12-20 18:53:14
+P01919,M018,2025-01-04 12:14:12,293,Não planejada,Superaquecimento,2025-01-04 17:07:12
+P01920,M015,2025-05-15 00:50:39,359,Não planejada,Vibração excessiva,2025-05-15 06:49:39
+P01921,M006,2025-07-02 18:44:03,40,Não planejada,Ajuste operacional,2025-07-02 19:24:03
+P01922,M003,2025-01-06 13:06:45,184,Não planejada,Superaquecimento,2025-01-06 16:10:45
+P01923,M002,2025-10-22 17:45:10,148,Não planejada,Manutenção,2025-10-22 20:13:10
+P01924,M006,2025-10-29 01:56:14,232,Não planejada,Ajuste operacional,2025-10-29 05:48:14
+P01925,M014,2025-12-15 16:46:39,169,Não planejada,Ajuste operacional,2025-12-15 19:35:39
+P01926,M012,2025-07-26 10:00:29,213,Não planejada,Ajuste operacional,2025-07-26 13:33:29
+P01927,M006,2025-11-01 06:50:24,207,Não planejada,Falta de matéria-prima,2025-11-01 10:17:24
+P01928,M006,2025-04-13 07:21:26,203,Não planejada,Ajuste operacional,2025-04-13 10:44:26
+P01929,M020,2025-05-11 17:47:11,107,Não planejada,Falha elétrica,2025-05-11 19:34:11
+P01930,M005,2025-02-19 13:48:04,172,Não planejada,Falta de matéria-prima,2025-02-19 16:40:04
+P01931,M008,2025-12-06 05:59:22,347,Não planejada,Falta de matéria-prima,2025-12-06 11:46:22
+P01932,M004,2025-10-18 07:56:50,343,Não planejada,Superaquecimento,2025-10-18 13:39:50
+P01933,M013,2025-11-01 08:08:02,106,Não planejada,Falha elétrica,2025-11-01 09:54:02
+P01934,M008,2025-09-22 13:49:11,126,Não planejada,Ajuste operacional,2025-09-22 15:55:11
+P01935,M014,2025-09-15 10:16:02,20,Planejada,Vibração excessiva,2025-09-15 10:36:02
+P01936,M009,2025-11-30 01:53:43,313,Planejada,Ajuste operacional,2025-11-30 07:06:43
+P01937,M016,2025-09-25 04:27:26,334,Planejada,Superaquecimento,2025-09-25 10:01:26
+P01938,M002,2025-11-02 11:58:02,202,Planejada,Falta de matéria-prima,2025-11-02 15:20:02
+P01939,M003,2025-09-23 09:10:40,99,Não planejada,Falta de matéria-prima,2025-09-23 10:49:40
+P01940,M008,2025-06-03 22:04:55,198,Planejada,Vibração excessiva,2025-06-04 01:22:55
+P01941,M002,2025-02-20 06:48:30,116,Não planejada,Falta de matéria-prima,2025-02-20 08:44:30
+P01942,M008,2025-12-28 18:27:27,154,Não planejada,Vibração excessiva,2025-12-28 21:01:27
+P01943,M002,2025-11-05 20:53:28,293,Não planejada,Ajuste operacional,2025-11-06 01:46:28
+P01944,M019,2025-04-26 22:42:20,253,Não planejada,Manutenção,2025-04-27 02:55:20
+P01945,M012,2025-09-05 15:51:29,312,Planejada,Falha elétrica,2025-09-05 21:03:29
+P01946,M016,2025-03-16 14:00:31,32,Planejada,Vibração excessiva,2025-03-16 14:32:31
+P01947,M019,2025-11-20 11:44:47,187,Não planejada,Superaquecimento,2025-11-20 14:51:47
+P01948,M010,2025-10-23 12:58:15,185,Planejada,Superaquecimento,2025-10-23 16:03:15
+P01949,M013,2025-07-26 15:31:27,195,Não planejada,Vibração excessiva,2025-07-26 18:46:27
+P01950,M001,2025-03-09 05:56:34,291,Planejada,Ajuste operacional,2025-03-09 10:47:34
+P01951,M020,2025-04-15 17:40:53,334,Não planejada,Falta de matéria-prima,2025-04-15 23:14:53
+P01952,M018,2025-09-12 13:44:43,199,Não planejada,Ajuste operacional,2025-09-12 17:03:43
+P01953,M018,2025-08-16 20:06:36,246,Não planejada,Superaquecimento,2025-08-17 00:12:36
+P01954,M006,2025-09-25 20:54:25,72,Não planejada,Ajuste operacional,2025-09-25 22:06:25
+P01955,M012,2025-02-04 01:42:36,270,Não planejada,Manutenção,2025-02-04 06:12:36
+P01956,M019,2025-02-07 01:12:26,230,Não planejada,Ajuste operacional,2025-02-07 05:02:26
+P01957,M001,2025-03-14 04:35:49,92,Planejada,Superaquecimento,2025-03-14 06:07:49
+P01958,M005,2025-02-08 08:46:45,162,Planejada,Ajuste operacional,2025-02-08 11:28:45
+P01959,M002,2025-02-25 22:21:18,128,Não planejada,Falha elétrica,2025-02-26 00:29:18
+P01960,M002,2025-08-03 00:01:55,108,Não planejada,Falta de matéria-prima,2025-08-03 01:49:55
+P01961,M006,2025-12-17 00:52:02,42,Não planejada,Falta de matéria-prima,2025-12-17 01:34:02
+P01962,M015,2025-07-08 02:02:57,24,Não planejada,Superaquecimento,2025-07-08 02:26:57
+P01963,M016,2025-04-17 07:37:00,200,Planejada,Ajuste operacional,2025-04-17 10:57:00
+P01964,M009,2025-02-17 22:07:41,222,Não planejada,Manutenção,2025-02-18 01:49:41
+P01965,M010,2025-07-23 04:46:26,344,Não planejada,Manutenção,2025-07-23 10:30:26
+P01966,M016,2025-06-28 09:21:11,87,Planejada,Ajuste operacional,2025-06-28 10:48:11
+P01967,M007,2025-09-25 21:04:44,355,Não planejada,Vibração excessiva,2025-09-26 02:59:44
+P01968,M004,2025-04-11 10:19:45,38,Não planejada,Manutenção,2025-04-11 10:57:45
+P01969,M001,2025-01-22 15:07:28,114,Planejada,Vibração excessiva,2025-01-22 17:01:28
+P01970,M010,2025-04-12 11:04:51,218,Planejada,Ajuste operacional,2025-04-12 14:42:51
+P01971,M007,2025-12-31 12:22:37,232,Planejada,Ajuste operacional,2025-12-31 16:14:37
+P01972,M005,2025-09-24 15:08:35,116,Não planejada,Vibração excessiva,2025-09-24 17:04:35
+P01973,M020,2025-03-24 22:32:04,45,Planejada,Superaquecimento,2025-03-24 23:17:04
+P01974,M005,2025-10-20 19:53:55,189,Não planejada,Falha elétrica,2025-10-20 23:02:55
+P01975,M012,2025-08-10 04:58:08,69,Não planejada,Vibração excessiva,2025-08-10 06:07:08
+P01976,M018,2025-11-15 03:10:48,66,Não planejada,Ajuste operacional,2025-11-15 04:16:48
+P01977,M007,2025-01-10 09:37:33,146,Não planejada,Vibração excessiva,2025-01-10 12:03:33
+P01978,M013,2025-06-12 12:52:32,325,Planejada,Falta de matéria-prima,2025-06-12 18:17:32
+P01979,M007,2025-12-18 09:36:13,206,Não planejada,Vibração excessiva,2025-12-18 13:02:13
+P01980,M014,2025-11-29 23:34:51,102,Não planejada,Vibração excessiva,2025-11-30 01:16:51
+P01981,M018,2025-02-09 23:28:46,268,Não planejada,Superaquecimento,2025-02-10 03:56:46
+P01982,M016,2025-02-19 05:17:56,310,Planejada,Manutenção,2025-02-19 10:27:56
+P01983,M008,2025-04-26 12:24:34,133,Planejada,Falta de matéria-prima,2025-04-26 14:37:34
+P01984,M011,2025-10-16 05:59:07,83,Não planejada,Superaquecimento,2025-10-16 07:22:07
+P01985,M017,2025-03-26 17:43:39,297,Não planejada,Falta de matéria-prima,2025-03-26 22:40:39
+P01986,M007,2025-10-04 15:56:04,66,Planejada,Superaquecimento,2025-10-04 17:02:04
+P01987,M014,2025-04-29 20:22:43,124,Não planejada,Falha elétrica,2025-04-29 22:26:43
+P01988,M002,2025-04-16 11:03:23,136,Não planejada,Ajuste operacional,2025-04-16 13:19:23
+P01989,M003,2025-02-17 04:08:02,132,Não planejada,Superaquecimento,2025-02-17 06:20:02
+P01990,M009,2025-10-22 23:40:41,267,Não planejada,Falha elétrica,2025-10-23 04:07:41
+P01991,M016,2025-06-27 15:57:09,257,Planejada,Superaquecimento,2025-06-27 20:14:09
+P01992,M004,2025-03-26 00:52:00,158,Não planejada,Falta de matéria-prima,2025-03-26 03:30:00
+P01993,M003,2025-09-02 04:42:25,95,Planejada,Falta de matéria-prima,2025-09-02 06:17:25
+P01994,M013,2025-04-03 17:08:26,50,Planejada,Ajuste operacional,2025-04-03 17:58:26
+P01995,M006,2025-04-16 02:51:17,158,Não planejada,Ajuste operacional,2025-04-16 05:29:17
+P01996,M015,2025-03-12 01:55:34,329,Planejada,Superaquecimento,2025-03-12 07:24:34
+P01997,M007,2025-08-10 09:19:48,252,Planejada,Ajuste operacional,2025-08-10 13:31:48
+P01998,M020,2025-06-21 20:03:43,50,Não planejada,Superaquecimento,2025-06-21 20:53:43
+P01999,M009,2025-12-27 15:11:09,15,Não planejada,Vibração excessiva,2025-12-27 15:26:09
+P02000,M001,2025-07-01 17:12:42,248,Planejada,Ajuste operacional,2025-07-01 21:20:42
+P02001,M002,2025-08-19 08:09:34,241,Planejada,Falta de matéria-prima,2025-08-19 12:10:34
+P02002,M016,2025-02-15 02:01:01,173,Não planejada,Vibração excessiva,2025-02-15 04:54:01
+P02003,M006,2025-10-11 16:52:54,145,Não planejada,Ajuste operacional,2025-10-11 19:17:54
+P02004,M018,2025-04-23 01:10:23,291,Não planejada,Ajuste operacional,2025-04-23 06:01:23
+P02005,M003,2025-07-29 16:21:22,113,Planejada,Falha elétrica,2025-07-29 18:14:22
+P02006,M003,2025-07-15 21:10:08,118,Não planejada,Manutenção,2025-07-15 23:08:08
+P02007,M017,2025-06-09 03:40:11,31,Não planejada,Falha elétrica,2025-06-09 04:11:11
+P02008,M011,2025-04-21 18:53:30,294,Não planejada,Manutenção,2025-04-21 23:47:30
+P02009,M001,2025-09-20 14:51:31,358,Planejada,Manutenção,2025-09-20 20:49:31
+P02010,M011,2025-09-05 11:27:03,181,Não planejada,Falta de matéria-prima,2025-09-05 14:28:03
+P02011,M008,2025-04-09 06:09:41,14,Não planejada,Manutenção,2025-04-09 06:23:41
+P02012,M007,2025-04-01 07:40:09,30,Planejada,Superaquecimento,2025-04-01 08:10:09
+P02013,M013,2025-07-29 20:33:32,343,Planejada,Ajuste operacional,2025-07-30 02:16:32
+P02014,M009,2025-05-02 00:32:35,172,Não planejada,Manutenção,2025-05-02 03:24:35
+P02015,M008,2025-10-26 13:41:19,295,Planejada,Falta de matéria-prima,2025-10-26 18:36:19
+P02016,M004,2025-01-11 02:29:00,195,Não planejada,Falta de matéria-prima,2025-01-11 05:44:00
+P02017,M003,2025-04-10 11:11:01,70,Não planejada,Falta de matéria-prima,2025-04-10 12:21:01
+P02018,M006,2025-10-06 03:58:06,113,Não planejada,Superaquecimento,2025-10-06 05:51:06
+P02019,M002,2025-06-02 04:02:01,193,Planejada,Manutenção,2025-06-02 07:15:01
+P02020,M004,2025-12-02 11:19:42,312,Planejada,Ajuste operacional,2025-12-02 16:31:42
+P02021,M003,2025-12-30 20:08:25,102,Não planejada,Manutenção,2025-12-30 21:50:25
+P02022,M010,2025-09-30 09:43:47,227,Não planejada,Ajuste operacional,2025-09-30 13:30:47
+P02023,M005,2025-01-30 00:56:58,150,Não planejada,Manutenção,2025-01-30 03:26:58
+P02024,M017,2025-09-02 04:06:47,331,Planejada,Manutenção,2025-09-02 09:37:47
+P02025,M012,2025-11-20 15:30:59,277,Planejada,Falha elétrica,2025-11-20 20:07:59
+P02026,M011,2025-06-28 15:31:13,213,Não planejada,Manutenção,2025-06-28 19:04:13
+P02027,M016,2025-02-26 16:08:25,204,Não planejada,Falha elétrica,2025-02-26 19:32:25
+P02028,M010,2025-12-18 19:26:20,194,Não planejada,Falha elétrica,2025-12-18 22:40:20
+P02029,M004,2025-07-04 09:37:17,50,Não planejada,Ajuste operacional,2025-07-04 10:27:17
+P02030,M016,2025-02-08 00:29:54,245,Não planejada,Vibração excessiva,2025-02-08 04:34:54
+P02031,M015,2025-01-08 06:11:28,280,Não planejada,Falta de matéria-prima,2025-01-08 10:51:28
+P02032,M016,2025-04-24 07:52:19,152,Não planejada,Vibração excessiva,2025-04-24 10:24:19
+P02033,M010,2025-05-05 16:33:39,139,Não planejada,Vibração excessiva,2025-05-05 18:52:39
+P02034,M007,2025-08-08 15:53:56,304,Não planejada,Falta de matéria-prima,2025-08-08 20:57:56
+P02035,M003,2025-11-01 05:59:00,214,Planejada,Superaquecimento,2025-11-01 09:33:00
+P02036,M010,2025-07-27 20:16:41,79,Não planejada,Vibração excessiva,2025-07-27 21:35:41
+P02037,M020,2025-02-27 04:42:17,251,Planejada,Superaquecimento,2025-02-27 08:53:17
+P02038,M016,2025-05-25 11:01:51,303,Planejada,Falha elétrica,2025-05-25 16:04:51
+P02039,M006,2025-12-16 10:16:08,200,Não planejada,Ajuste operacional,2025-12-16 13:36:08
+P02040,M019,2025-10-24 04:01:23,295,Não planejada,Manutenção,2025-10-24 08:56:23
+P02041,M019,2025-12-31 11:37:41,83,Não planejada,Vibração excessiva,2025-12-31 13:00:41
+P02042,M017,2025-03-15 02:28:36,349,Não planejada,Falha elétrica,2025-03-15 08:17:36
+P02043,M002,2025-06-11 08:55:26,207,Não planejada,Vibração excessiva,2025-06-11 12:22:26
+P02044,M016,2025-07-27 20:00:43,120,Não planejada,Ajuste operacional,2025-07-27 22:00:43
+P02045,M012,2025-06-29 05:29:08,341,Planejada,Falta de matéria-prima,2025-06-29 11:10:08
+P02046,M007,2025-04-04 05:24:38,214,Não planejada,Falta de matéria-prima,2025-04-04 08:58:38
+P02047,M001,2025-06-01 12:51:29,195,Não planejada,Manutenção,2025-06-01 16:06:29
+P02048,M004,2025-04-24 01:15:05,64,Não planejada,Falha elétrica,2025-04-24 02:19:05
+P02049,M007,2025-11-14 00:24:53,202,Não planejada,Ajuste operacional,2025-11-14 03:46:53
+P02050,M013,2025-02-28 02:58:22,353,Não planejada,Falha elétrica,2025-02-28 08:51:22
+P02051,M018,2025-04-19 06:26:15,97,Não planejada,Superaquecimento,2025-04-19 08:03:15
+P02052,M018,2025-08-12 11:22:02,31,Não planejada,Falha elétrica,2025-08-12 11:53:02
+P02053,M015,2025-12-13 00:55:48,53,Não planejada,Superaquecimento,2025-12-13 01:48:48
+P02054,M008,2025-01-22 04:50:36,300,Não planejada,Falha elétrica,2025-01-22 09:50:36
+P02055,M016,2025-07-31 05:21:03,24,Planejada,Falta de matéria-prima,2025-07-31 05:45:03
+P02056,M006,2025-10-01 13:26:11,301,Planejada,Falha elétrica,2025-10-01 18:27:11
+P02057,M005,2025-05-18 03:24:04,229,Planejada,Falta de matéria-prima,2025-05-18 07:13:04
+P02058,M007,2025-01-29 17:34:05,349,Planejada,Vibração excessiva,2025-01-29 23:23:05
+P02059,M003,2025-06-24 06:57:44,281,Não planejada,Falta de matéria-prima,2025-06-24 11:38:44
+P02060,M018,2025-12-08 01:13:17,67,Planejada,Ajuste operacional,2025-12-08 02:20:17
+P02061,M003,2025-11-21 07:36:05,279,Planejada,Falha elétrica,2025-11-21 12:15:05
+P02062,M008,2025-10-23 14:31:06,43,Não planejada,Ajuste operacional,2025-10-23 15:14:06
+P02063,M004,2025-11-27 13:26:40,27,Não planejada,Ajuste operacional,2025-11-27 13:53:40
+P02064,M017,2025-06-13 08:53:55,206,Planejada,Vibração excessiva,2025-06-13 12:19:55
+P02065,M005,2025-12-16 19:03:27,323,Planejada,Falta de matéria-prima,2025-12-17 00:26:27
+P02066,M015,2025-11-05 11:57:25,205,Planejada,Manutenção,2025-11-05 15:22:25
+P02067,M016,2025-01-08 22:37:48,312,Não planejada,Ajuste operacional,2025-01-09 03:49:48
+P02068,M009,2025-04-30 09:20:23,105,Planejada,Falha elétrica,2025-04-30 11:05:23
+P02069,M010,2025-01-30 19:08:29,97,Planejada,Falha elétrica,2025-01-30 20:45:29
+P02070,M017,2025-11-05 11:43:35,28,Planejada,Falta de matéria-prima,2025-11-05 12:11:35
+P02071,M020,2025-07-30 06:40:08,121,Planejada,Ajuste operacional,2025-07-30 08:41:08
+P02072,M001,2025-05-15 12:06:45,160,Planejada,Ajuste operacional,2025-05-15 14:46:45
+P02073,M020,2025-08-01 13:40:04,43,Não planejada,Falha elétrica,2025-08-01 14:23:04
+P02074,M009,2025-04-16 05:56:38,46,Não planejada,Falta de matéria-prima,2025-04-16 06:42:38
+P02075,M017,2025-02-05 17:39:20,336,Não planejada,Ajuste operacional,2025-02-05 23:15:20
+P02076,M005,2025-04-25 04:32:40,333,Não planejada,Vibração excessiva,2025-04-25 10:05:40
+P02077,M012,2025-02-26 02:47:30,356,Não planejada,Vibração excessiva,2025-02-26 08:43:30
+P02078,M001,2025-04-14 20:12:45,292,Não planejada,Superaquecimento,2025-04-15 01:04:45
+P02079,M011,2025-05-28 14:36:01,209,Não planejada,Ajuste operacional,2025-05-28 18:05:01
+P02080,M006,2025-12-22 20:18:36,215,Planejada,Falta de matéria-prima,2025-12-22 23:53:36
+P02081,M005,2025-03-07 08:30:40,332,Planejada,Ajuste operacional,2025-03-07 14:02:40
+P02082,M012,2025-11-05 11:13:42,330,Planejada,Ajuste operacional,2025-11-05 16:43:42
+P02083,M010,2025-04-11 11:33:13,211,Não planejada,Falta de matéria-prima,2025-04-11 15:04:13
+P02084,M008,2025-03-22 15:49:59,174,Não planejada,Vibração excessiva,2025-03-22 18:43:59
+P02085,M003,2025-02-18 00:28:34,122,Não planejada,Falta de matéria-prima,2025-02-18 02:30:34
+P02086,M010,2025-01-10 02:48:05,60,Não planejada,Falha elétrica,2025-01-10 03:48:05
+P02087,M010,2025-05-08 23:10:49,258,Não planejada,Vibração excessiva,2025-05-09 03:28:49
+P02088,M016,2025-02-15 20:33:32,189,Não planejada,Falta de matéria-prima,2025-02-15 23:42:32
+P02089,M014,2025-03-29 18:32:43,252,Não planejada,Falta de matéria-prima,2025-03-29 22:44:43
+P02090,M009,2025-10-31 07:12:47,295,Não planejada,Vibração excessiva,2025-10-31 12:07:47
+P02091,M018,2025-09-23 08:23:24,341,Planejada,Falta de matéria-prima,2025-09-23 14:04:24
+P02092,M015,2025-11-03 19:10:29,272,Não planejada,Falha elétrica,2025-11-03 23:42:29
+P02093,M002,2025-04-06 07:16:15,261,Não planejada,Falta de matéria-prima,2025-04-06 11:37:15
+P02094,M012,2025-03-20 08:27:33,269,Planejada,Manutenção,2025-03-20 12:56:33
+P02095,M018,2025-04-06 08:58:45,51,Planejada,Ajuste operacional,2025-04-06 09:49:45
+P02096,M013,2025-04-03 06:04:08,318,Planejada,Manutenção,2025-04-03 11:22:08
+P02097,M013,2025-03-24 17:57:08,200,Planejada,Superaquecimento,2025-03-24 21:17:08
+P02098,M003,2025-04-16 01:06:32,275,Não planejada,Ajuste operacional,2025-04-16 05:41:32
+P02099,M007,2025-07-01 06:12:44,359,Planejada,Manutenção,2025-07-01 12:11:44
+P02100,M007,2025-11-27 09:03:31,324,Não planejada,Falha elétrica,2025-11-27 14:27:31
+P02101,M017,2025-07-20 06:10:19,41,Não planejada,Superaquecimento,2025-07-20 06:51:19
+P02102,M013,2025-03-09 18:35:24,273,Não planejada,Ajuste operacional,2025-03-09 23:08:24
+P02103,M010,2025-02-22 13:51:33,309,Não planejada,Ajuste operacional,2025-02-22 19:00:33
+P02104,M012,2025-09-13 14:00:03,85,Planejada,Manutenção,2025-09-13 15:25:03
+P02105,M006,2025-06-26 23:11:13,73,Planejada,Falha elétrica,2025-06-27 00:24:13
+P02106,M010,2025-09-10 08:18:44,100,Não planejada,Falha elétrica,2025-09-10 09:58:44
+P02107,M003,2025-04-03 09:57:00,170,Planejada,Vibração excessiva,2025-04-03 12:47:00
+P02108,M017,2025-01-03 07:16:39,28,Não planejada,Manutenção,2025-01-03 07:44:39
+P02109,M009,2025-10-10 14:21:25,285,Planejada,Ajuste operacional,2025-10-10 19:06:25
+P02110,M004,2025-12-19 11:06:48,29,Não planejada,Falta de matéria-prima,2025-12-19 11:35:48
+P02111,M015,2025-01-15 02:25:17,324,Planejada,Manutenção,2025-01-15 07:49:17
+P02112,M011,2025-07-16 07:15:13,286,Não planejada,Falha elétrica,2025-07-16 12:01:13
+P02113,M011,2025-09-18 11:25:49,24,Planejada,Manutenção,2025-09-18 11:49:49
+P02114,M018,2025-09-02 02:36:42,24,Não planejada,Vibração excessiva,2025-09-02 03:00:42
+P02115,M003,2025-03-01 17:10:56,352,Não planejada,Falta de matéria-prima,2025-03-01 23:02:56
+P02116,M006,2025-10-01 22:32:01,347,Planejada,Falta de matéria-prima,2025-10-02 04:19:01
+P02117,M001,2025-02-07 08:12:13,210,Não planejada,Falha elétrica,2025-02-07 11:42:13
+P02118,M019,2025-02-13 11:27:39,258,Não planejada,Manutenção,2025-02-13 15:45:39
+P02119,M019,2025-11-19 16:02:49,119,Planejada,Falta de matéria-prima,2025-11-19 18:01:49
+P02120,M006,2025-07-06 20:59:48,327,Não planejada,Superaquecimento,2025-07-07 02:26:48
+P02121,M020,2025-04-19 13:11:21,199,Planejada,Falha elétrica,2025-04-19 16:30:21
+P02122,M009,2025-01-13 13:07:08,321,Não planejada,Falta de matéria-prima,2025-01-13 18:28:08
+P02123,M010,2025-10-25 17:59:33,273,Não planejada,Manutenção,2025-10-25 22:32:33
+P02124,M003,2025-03-27 15:56:46,70,Planejada,Falha elétrica,2025-03-27 17:06:46
+P02125,M009,2025-02-02 17:05:11,84,Não planejada,Vibração excessiva,2025-02-02 18:29:11
+P02126,M017,2025-08-10 14:09:41,190,Não planejada,Falta de matéria-prima,2025-08-10 17:19:41
+P02127,M008,2025-09-18 23:56:36,130,Não planejada,Vibração excessiva,2025-09-19 02:06:36
+P02128,M012,2025-08-19 06:19:11,297,Planejada,Vibração excessiva,2025-08-19 11:16:11
+P02129,M001,2025-11-14 17:18:31,328,Planejada,Ajuste operacional,2025-11-14 22:46:31
+P02130,M008,2025-08-24 05:34:15,247,Planejada,Falta de matéria-prima,2025-08-24 09:41:15
+P02131,M014,2025-08-06 01:42:14,281,Não planejada,Ajuste operacional,2025-08-06 06:23:14
+P02132,M011,2025-02-03 21:19:26,119,Não planejada,Falta de matéria-prima,2025-02-03 23:18:26
+P02133,M006,2025-09-24 15:11:51,212,Não planejada,Vibração excessiva,2025-09-24 18:43:51
+P02134,M014,2025-05-25 03:00:29,50,Planejada,Manutenção,2025-05-25 03:50:29
+P02135,M011,2025-05-19 14:54:19,170,Planejada,Vibração excessiva,2025-05-19 17:44:19
+P02136,M015,2025-08-03 01:55:16,81,Não planejada,Falha elétrica,2025-08-03 03:16:16
+P02137,M017,2025-05-22 09:10:26,214,Não planejada,Manutenção,2025-05-22 12:44:26
+P02138,M001,2025-06-13 18:27:32,32,Planejada,Superaquecimento,2025-06-13 18:59:32
+P02139,M004,2025-05-04 21:35:46,67,Planejada,Falha elétrica,2025-05-04 22:42:46
+P02140,M019,2025-04-21 09:27:46,47,Não planejada,Superaquecimento,2025-04-21 10:14:46
+P02141,M018,2025-05-14 19:43:45,301,Planejada,Falha elétrica,2025-05-15 00:44:45
+P02142,M012,2025-10-05 09:18:52,247,Planejada,Falta de matéria-prima,2025-10-05 13:25:52
+P02143,M012,2025-08-09 01:12:09,78,Não planejada,Falta de matéria-prima,2025-08-09 02:30:09
+P02144,M012,2025-08-30 21:20:07,153,Planejada,Vibração excessiva,2025-08-30 23:53:07
+P02145,M007,2025-10-27 16:41:01,115,Planejada,Falta de matéria-prima,2025-10-27 18:36:01
+P02146,M004,2025-05-24 14:46:12,112,Não planejada,Ajuste operacional,2025-05-24 16:38:12
+P02147,M006,2025-12-04 08:24:56,129,Não planejada,Falta de matéria-prima,2025-12-04 10:33:56
+P02148,M018,2025-02-01 02:03:57,313,Não planejada,Vibração excessiva,2025-02-01 07:16:57
+P02149,M009,2025-02-23 20:17:15,289,Planejada,Vibração excessiva,2025-02-24 01:06:15
+P02150,M016,2025-04-30 22:54:17,316,Planejada,Manutenção,2025-05-01 04:10:17
+P02151,M017,2025-06-09 19:28:17,150,Não planejada,Falta de matéria-prima,2025-06-09 21:58:17
+P02152,M007,2025-09-24 19:07:52,70,Não planejada,Manutenção,2025-09-24 20:17:52
+P02153,M008,2025-03-11 21:33:00,273,Não planejada,Vibração excessiva,2025-03-12 02:06:00
+P02154,M009,2025-06-29 01:09:55,17,Não planejada,Manutenção,2025-06-29 01:26:55
+P02155,M009,2025-04-25 21:52:10,47,Não planejada,Falha elétrica,2025-04-25 22:39:10
+P02156,M008,2025-01-02 09:00:44,324,Não planejada,Superaquecimento,2025-01-02 14:24:44
+P02157,M018,2025-01-10 02:16:46,52,Não planejada,Superaquecimento,2025-01-10 03:08:46
+P02158,M001,2025-06-24 09:20:38,145,Não planejada,Manutenção,2025-06-24 11:45:38
+P02159,M017,2025-09-28 13:40:09,281,Não planejada,Falha elétrica,2025-09-28 18:21:09
+P02160,M003,2025-09-18 15:49:03,79,Não planejada,Ajuste operacional,2025-09-18 17:08:03
+P02161,M001,2025-04-09 13:04:35,160,Planejada,Manutenção,2025-04-09 15:44:35
+P02162,M003,2025-03-26 18:11:08,98,Planejada,Falta de matéria-prima,2025-03-26 19:49:08
+P02163,M017,2025-02-07 23:37:25,205,Não planejada,Superaquecimento,2025-02-08 03:02:25
+P02164,M008,2025-10-07 03:16:39,341,Não planejada,Vibração excessiva,2025-10-07 08:57:39
+P02165,M013,2025-02-28 21:35:19,126,Não planejada,Vibração excessiva,2025-02-28 23:41:19
+P02166,M004,2025-12-06 11:33:53,166,Planejada,Superaquecimento,2025-12-06 14:19:53
+P02167,M002,2025-03-10 23:13:59,206,Não planejada,Vibração excessiva,2025-03-11 02:39:59
+P02168,M008,2025-07-26 01:07:45,78,Não planejada,Manutenção,2025-07-26 02:25:45
+P02169,M020,2025-08-17 14:42:27,279,Planejada,Ajuste operacional,2025-08-17 19:21:27
+P02170,M008,2025-10-25 07:44:26,145,Não planejada,Falta de matéria-prima,2025-10-25 10:09:26
+P02171,M009,2025-10-05 13:22:09,259,Não planejada,Superaquecimento,2025-10-05 17:41:09
+P02172,M014,2025-01-12 03:46:32,165,Não planejada,Falha elétrica,2025-01-12 06:31:32
+P02173,M017,2025-02-24 18:43:06,250,Não planejada,Vibração excessiva,2025-02-24 22:53:06
+P02174,M013,2025-02-02 07:17:48,330,Não planejada,Manutenção,2025-02-02 12:47:48
+P02175,M015,2025-05-02 02:52:05,352,Não planejada,Superaquecimento,2025-05-02 08:44:05
+P02176,M011,2025-06-14 21:44:15,110,Planejada,Ajuste operacional,2025-06-14 23:34:15
+P02177,M003,2025-07-23 18:22:54,203,Não planejada,Manutenção,2025-07-23 21:45:54
+P02178,M013,2025-02-02 09:02:55,194,Não planejada,Falta de matéria-prima,2025-02-02 12:16:55
+P02179,M015,2025-09-27 21:43:38,14,Planejada,Ajuste operacional,2025-09-27 21:57:38
+P02180,M001,2025-02-01 11:22:56,230,Planejada,Ajuste operacional,2025-02-01 15:12:56
+P02181,M018,2025-06-19 21:03:20,243,Não planejada,Superaquecimento,2025-06-20 01:06:20
+P02182,M015,2025-02-16 22:28:40,323,Não planejada,Falta de matéria-prima,2025-02-17 03:51:40
+P02183,M008,2025-01-09 16:44:41,72,Planejada,Ajuste operacional,2025-01-09 17:56:41
+P02184,M003,2025-06-14 20:14:31,100,Não planejada,Falha elétrica,2025-06-14 21:54:31
+P02185,M020,2025-11-30 20:15:57,215,Planejada,Superaquecimento,2025-11-30 23:50:57
+P02186,M013,2025-11-25 08:37:17,200,Planejada,Superaquecimento,2025-11-25 11:57:17
+P02187,M010,2025-10-08 11:06:03,327,Não planejada,Superaquecimento,2025-10-08 16:33:03
+P02188,M015,2025-01-17 07:34:34,252,Planejada,Falha elétrica,2025-01-17 11:46:34
+P02189,M008,2025-09-11 08:06:14,270,Não planejada,Falha elétrica,2025-09-11 12:36:14
+P02190,M015,2025-06-18 11:34:32,300,Não planejada,Ajuste operacional,2025-06-18 16:34:32
+P02191,M015,2025-08-07 15:34:50,218,Planejada,Falha elétrica,2025-08-07 19:12:50
+P02192,M001,2025-04-02 09:33:01,158,Planejada,Superaquecimento,2025-04-02 12:11:01
+P02193,M020,2025-09-07 19:05:53,201,Planejada,Vibração excessiva,2025-09-07 22:26:53
+P02194,M001,2025-11-01 21:35:31,276,Planejada,Falha elétrica,2025-11-02 02:11:31
+P02195,M015,2025-04-03 09:44:52,163,Planejada,Superaquecimento,2025-04-03 12:27:52
+P02196,M006,2025-02-07 09:04:07,234,Não planejada,Ajuste operacional,2025-02-07 12:58:07
+P02197,M008,2025-06-04 21:26:20,140,Não planejada,Ajuste operacional,2025-06-04 23:46:20
+P02198,M016,2025-07-09 14:32:41,58,Não planejada,Falha elétrica,2025-07-09 15:30:41
+P02199,M016,2025-10-25 05:12:06,217,Planejada,Ajuste operacional,2025-10-25 08:49:06
+P02200,M015,2025-07-08 01:45:49,56,Não planejada,Vibração excessiva,2025-07-08 02:41:49

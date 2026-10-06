@@ -1,0 +1,21 @@
+﻿failure_id,machine_id,data_hora_falha,tipo_falha,componente_afetado,tempo_parada_minutos,observacao
+F0001,M001,2025-05-15,Vibração excessiva,Bomba,133,Falha sintética criada para treinamento/teste do modelo
+F0002,M002,2025-03-23,Vibração excessiva,Rolamento,69,Falha sintética criada para treinamento/teste do modelo
+F0003,M003,2025-10-27,Vibração excessiva,Rolamento,103,Falha sintética criada para treinamento/teste do modelo
+F0004,M004,2025-09-23,Vibração excessiva,Bomba,264,Falha sintética criada para treinamento/teste do modelo
+F0005,M005,2025-10-04,Vibração excessiva,Bomba,115,Falha sintética criada para treinamento/teste do modelo
+F0006,M006,2025-10-25,Vibração excessiva,Bomba,293,Falha sintética criada para treinamento/teste do modelo
+F0007,M007,2025-07-27,Vibração excessiva,Bomba,228,Falha sintética criada para treinamento/teste do modelo
+F0008,M008,2025-08-27,Vibração excessiva,Rolamento,236,Falha sintética criada para treinamento/teste do modelo
+F0009,M009,2025-04-29,Vibração excessiva,Motor,270,Falha sintética criada para treinamento/teste do modelo
+F0010,M010,2025-04-22,Vibração excessiva,Motor,288,Falha sintética criada para treinamento/teste do modelo
+F0011,M011,2025-09-24,Vibração excessiva,Rolamento,117,Falha sintética criada para treinamento/teste do modelo
+F0012,M012,2025-07-30,Vibração excessiva,Bomba,48,Falha sintética criada para treinamento/teste do modelo
+F0013,M013,2025-08-26,Vibração excessiva,Motor,92,Falha sintética criada para treinamento/teste do modelo
+F0014,M014,2025-10-21,Vibração excessiva,Rolamento,229,Falha sintética criada para treinamento/teste do modelo
+F0015,M015,2025-09-14,Vibração excessiva,Bomba,259,Falha sintética criada para treinamento/teste do modelo
+F0016,M016,2025-08-23,Vibração excessiva,Motor,81,Falha sintética criada para treinamento/teste do modelo
+F0017,M017,2025-08-24,Vibração excessiva,Bomba,72,Falha sintética criada para treinamento/teste do modelo
+F0018,M018,2025-06-14,Vibração excessiva,Rolamento,63,Falha sintética criada para treinamento/teste do modelo
+F0019,M019,2025-03-29,Vibração excessiva,Rolamento,243,Falha sintética criada para treinamento/teste do modelo
+F0020,M020,2025-07-21,Vibração excessiva,Bomba,226,Falha sintética criada para treinamento/teste do modelo
