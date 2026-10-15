@@ -1,0 +1,8 @@
+services:
+  version: '3.8'
+
+  services:
+    app:
+      build: .
+      volumes:
+        - ./docs/figuras:/app/docs/figuras
